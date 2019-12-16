@@ -2,9 +2,7 @@
 import sys
 from imp import reload
 reload(sys)
-
 import json
-
 import jieba
 import jieba.analyse
 #write exl
@@ -17,13 +15,11 @@ def cutWord(fileName):
     
     wordList = []
 
-    for line in open(fileName,encoding = 'utf-8'):
-        # 1.txt是需要分词统计的文档
+    for line in open(fileName, encoding = 'utf-8'):
         item = line.strip('\n\r').split('，')
-        # 制表格切分
 
         for segment in item:
-            # jieba分词
+            # jieba 分詞
             tags = jieba.analyse.extract_tags(segment,100)
             for t in tags:
                 wordList.append(t)
@@ -35,8 +31,8 @@ def wordCount(wordList):
     wordDict = {}
     keyList = []
 
-    with open('wordCount.txt','w',encoding='utf-8') as wf2:
-        # 打开文件
+    with open('wordCount.txt', 'w', encoding='utf-8') as wf2:
+        # 開檔
         for item in wordList:
             if item not in wordDict:
                 wordDict[item] = 1
@@ -55,7 +51,7 @@ def wordCount(wordList):
 
     return keyList,orderList
 
-def writeExcel(orderList,keyList,fileName):
+def writeExcel(orderList, keyList, fileName):
     
     wb = Workbook()
     ws = wb.active
@@ -71,13 +67,13 @@ def writeExcel(orderList,keyList,fileName):
 
 if __name__ == "__main__":
 
-    json_data = open('./data_set/correspondence_table.json',encoding='utf8').read()
+    json_data = open('data_set/correspondence_table.json', encoding='utf8').read()
     data = json.loads(json_data)
 
     for i in data:
         for k,v in i.items():
             if k == 'file_name':
-                fileName = './data_set/' + str(v) + '.txt'
+                fileName = 'data_set/' + str(v) + '.txt'
                 wordList = cutWord(fileName)
                 keyList,orderList = wordCount(wordList)
 
