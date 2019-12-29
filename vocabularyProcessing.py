@@ -40,4 +40,4 @@ def updateVocabulary(wordList, filepath):
         for i in range(len(wordList)):
             wf2.write(wordList[i] + '\n')
 
-updateVocabulary(getUnhappyWord(),'vocabulary/newunhappy.txt')
+updateVocabulary(getMentalDisorderName(),'vocabulary/new.txt')

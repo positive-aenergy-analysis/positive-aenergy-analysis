@@ -11,6 +11,27 @@ from openpyxl.reader.excel import load_workbook
 from openpyxl.writer.excel import ExcelWriter
 # from openpyxl.cell import get
 
+def addNewWord():
+    with open('vocabulary/mental_disorder.txt', 'r', encoding='utf-8') as file:
+        for data in file.readlines():
+            data = data.strip()
+            jieba.add_word(data)
+
+    with open('vocabulary/happy.txt', 'r', encoding='utf-8') as file:
+        for data in file.readlines():
+            data = data.strip()
+            jieba.add_word(data)
+
+    with open('vocabulary/unhappy.txt', 'r', encoding='utf-8') as file:
+        for data in file.readlines():
+            data = data.strip()
+            jieba.add_word(data)
+
+    with open('vocabulary/stop.txt', 'r', encoding='utf-8') as file:
+        for data in file.readlines():
+            data = data.strip()
+            jieba.add_word(data)
+
 def readStopWord():
     
     stopWords = []
@@ -34,7 +55,7 @@ def cutWord(fileName):
 
         for segment in item:
             # jieba 分詞
-            tags = jieba.cut(segment)
+            tags = jieba.analyse.extract_tags(segment,100000)
             # print(tags)
             remainderWords = list(filter(lambda a: a not in stopWords and a != '\n', tags))
             # print(remainderWords)
@@ -86,6 +107,8 @@ if __name__ == "__main__":
 
     json_data = open('data_set/correspondence_table.json', encoding='utf8').read()
     data = json.loads(json_data)
+
+    addNewWord()
 
     for i in data:
         for k,v in i.items():
