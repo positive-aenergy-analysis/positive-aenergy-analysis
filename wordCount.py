@@ -11,17 +11,34 @@ from openpyxl.reader.excel import load_workbook
 from openpyxl.writer.excel import ExcelWriter
 # from openpyxl.cell import get
 
+def readStopWord():
+    
+    stopWords = []
+    
+    with open('vocabulary/stop.txt', 'r', encoding='utf-8') as file:
+        for data in file.readlines():
+            data = data.strip()
+            stopWords.append(data)
+    
+    return stopWords
+
 def cutWord(fileName):
     
     wordList = []
+    tags = []
+    remainderWords = []
+    stopWords = readStopWord()
 
     for line in open(fileName, encoding = 'utf-8'):
         item = line.strip('\n\r').split('，')
 
         for segment in item:
             # jieba 分詞
-            tags = jieba.analyse.extract_tags(segment,100)
-            for t in tags:
+            tags = jieba.cut(segment)
+            # print(tags)
+            remainderWords = list(filter(lambda a: a not in stopWords and a != '\n', tags))
+            # print(remainderWords)
+            for t in remainderWords:
                 wordList.append(t)
 
     return wordList

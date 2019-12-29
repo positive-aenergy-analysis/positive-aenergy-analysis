@@ -1,3 +1,5 @@
 data_set/
 data_set_wordCount/
 __pycache__/vocabularyProcessing.cpython-38.pyc
+wordCount.txt
+test.py
