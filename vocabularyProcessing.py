@@ -33,3 +33,11 @@ def getMentalDisorderName():
         if not(checkRepeat(disorder_name, word)):
             disorder_name.append(word)
     return disorder_name
+
+def updateVocabulary(wordList, filepath):
+    with open(filepath, 'w', encoding='utf-8') as wf2:
+        
+        for i in range(len(wordList)):
+            wf2.write(wordList[i] + '\n')
+
+updateVocabulary(getUnhappyWord(),'vocabulary/newunhappy.txt')
