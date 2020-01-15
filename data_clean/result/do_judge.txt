@@ -1,0 +1,80 @@
+[
+  {
+    "keyword": "奮勇當先",
+    "type": "do_judge",
+    "pos": 5,
+    "neg": 5
+  },
+  {
+    "keyword": "會心微笑",
+    "type": "do_judge",
+    "pos": 13,
+    "neg": 13
+  },
+  {
+    "keyword": "不慌忙",
+    "type": "do_judge",
+    "pos": 26,
+    "neg": 26
+  },
+  {
+    "keyword": "目眩",
+    "type": "do_judge",
+    "pos": 8,
+    "neg": 8
+  },
+  {
+    "keyword": "慇勤",
+    "type": "do_judge",
+    "pos": 1,
+    "neg": 1
+  },
+  {
+    "keyword": "締造者",
+    "type": "do_judge",
+    "pos": 15,
+    "neg": 15
+  },
+  {
+    "keyword": "機巧",
+    "type": "do_judge",
+    "pos": 6,
+    "neg": 6
+  },
+  {
+    "keyword": "織補",
+    "type": "do_judge",
+    "pos": 4,
+    "neg": 4
+  },
+  {
+    "keyword": "生情",
+    "type": "do_judge",
+    "pos": 1,
+    "neg": 1
+  },
+  {
+    "keyword": "安睡",
+    "type": "do_judge",
+    "pos": 8,
+    "neg": 8
+  },
+  {
+    "keyword": "高高興興",
+    "type": "do_judge",
+    "pos": 7,
+    "neg": 7
+  },
+  {
+    "keyword": "爽快",
+    "type": "do_judge",
+    "pos": 142,
+    "neg": 142
+  },
+  {
+    "keyword": "甜甜蜜蜜",
+    "type": "do_judge",
+    "pos": 6,
+    "neg": 6
+  }
+]

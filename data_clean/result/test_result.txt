@@ -1,0 +1,11066 @@
+[
+  {
+    "keyword": "愛心",
+    "type": "pos",
+    "pos": 6398,
+    "neg": 1824
+  },
+  {
+    "keyword": "健康",
+    "type": "pos",
+    "pos": 16817,
+    "neg": 8086
+  },
+  {
+    "keyword": "快樂",
+    "type": "pos",
+    "pos": 9489,
+    "neg": 3016
+  },
+  {
+    "keyword": "自信",
+    "type": "pos",
+    "pos": 5673,
+    "neg": 3541
+  },
+  {
+    "keyword": "誠實",
+    "type": "pos",
+    "pos": 606,
+    "neg": 527
+  },
+  {
+    "keyword": "智慧",
+    "type": "pos",
+    "pos": 11190,
+    "neg": 4956
+  },
+  {
+    "keyword": "熱情",
+    "type": "pos",
+    "pos": 8284,
+    "neg": 3658
+  },
+  {
+    "keyword": "奉獻",
+    "type": "pos",
+    "pos": 1829,
+    "neg": 682
+  },
+  {
+    "keyword": "自由",
+    "type": "pos",
+    "pos": 19057,
+    "neg": 14015
+  },
+  {
+    "keyword": "感恩",
+    "type": "pos",
+    "pos": 4729,
+    "neg": 1247
+  },
+  {
+    "keyword": "奮鬥",
+    "type": "pos",
+    "pos": 1986,
+    "neg": 1158
+  },
+  {
+    "keyword": "有遠見",
+    "type": "do_judge",
+    "pos": null,
+    "neg": null
+  },
+  {
+    "keyword": "果斷",
+    "type": "pos",
+    "pos": 241,
+    "neg": 142
+  },
+  {
+    "keyword": "自律",
+    "type": "pos",
+    "pos": 691,
+    "neg": 449
+  },
+  {
+    "keyword": "勇敢",
+    "type": "pos",
+    "pos": 1873,
+    "neg": 1392
+  },
+  {
+    "keyword": "善良",
+    "type": "pos",
+    "pos": 1587,
+    "neg": 1267
+  },
+  {
+    "keyword": "勤奮",
+    "type": "pos",
+    "pos": 289,
+    "neg": 218
+  },
+  {
+    "keyword": "堅持",
+    "type": "pos",
+    "pos": 15531,
+    "neg": 10049
+  },
+  {
+    "keyword": "幽默",
+    "type": "pos",
+    "pos": 1764,
+    "neg": 1182
+  },
+  {
+    "keyword": "平靜",
+    "type": "pos",
+    "pos": 1718,
+    "neg": 1351
+  },
+  {
+    "keyword": "淡泊",
+    "type": "pos",
+    "pos": 52,
+    "neg": 26
+  },
+  {
+    "keyword": "清晰",
+    "type": "pos",
+    "pos": 1264,
+    "neg": 813
+  },
+  {
+    "keyword": "準確",
+    "type": "pos",
+    "pos": 619,
+    "neg": 403
+  },
+  {
+    "keyword": "有想像力",
+    "type": "do_judge",
+    "pos": null,
+    "neg": null
+  },
+  {
+    "keyword": "有創造力",
+    "type": "do_judge",
+    "pos": null,
+    "neg": null
+  },
+  {
+    "keyword": "上進",
+    "type": "neg",
+    "pos": 195,
+    "neg": 202
+  },
+  {
+    "keyword": "勤儉",
+    "type": "pos",
+    "pos": 45,
+    "neg": 22
+  },
+  {
+    "keyword": "理想",
+    "type": "pos",
+    "pos": 5674,
+    "neg": 3225
+  },
+  {
+    "keyword": "自尊",
+    "type": "neg",
+    "pos": 358,
+    "neg": 366
+  },
+  {
+    "keyword": "真誠",
+    "type": "pos",
+    "pos": 900,
+    "neg": 590
+  },
+  {
+    "keyword": "誠信",
+    "type": "pos",
+    "pos": 1117,
+    "neg": 834
+  },
+  {
+    "keyword": "開朗",
+    "type": "pos",
+    "pos": 943,
+    "neg": 632
+  },
+  {
+    "keyword": "踏實",
+    "type": "pos",
+    "pos": 547,
+    "neg": 360
+  },
+  {
+    "keyword": "忠實",
+    "type": "pos",
+    "pos": 1015,
+    "neg": 512
+  },
+  {
+    "keyword": "創新",
+    "type": "pos",
+    "pos": 10506,
+    "neg": 3061
+  },
+  {
+    "keyword": "開發",
+    "type": "pos",
+    "pos": 9895,
+    "neg": 4045
+  },
+  {
+    "keyword": "發展",
+    "type": "pos",
+    "pos": 38546,
+    "neg": 17679
+  },
+  {
+    "keyword": "務實",
+    "type": "pos",
+    "pos": 1438,
+    "neg": 982
+  },
+  {
+    "keyword": "果敢",
+    "type": "pos",
+    "pos": 40,
+    "neg": 8
+  },
+  {
+    "keyword": "堅毅",
+    "type": "pos",
+    "pos": 431,
+    "neg": 236
+  },
+  {
+    "keyword": "自省",
+    "type": "neg",
+    "pos": 288,
+    "neg": 293
+  },
+  {
+    "keyword": "簡潔",
+    "type": "pos",
+    "pos": 266,
+    "neg": 124
+  },
+  {
+    "keyword": "純潔",
+    "type": "pos",
+    "pos": 180,
+    "neg": 113
+  },
+  {
+    "keyword": "堅強",
+    "type": "pos",
+    "pos": 2526,
+    "neg": 1673
+  },
+  {
+    "keyword": "熱心",
+    "type": "pos",
+    "pos": 2955,
+    "neg": 1481
+  },
+  {
+    "keyword": "嚴謹",
+    "type": "pos",
+    "pos": 1567,
+    "neg": 838
+  },
+  {
+    "keyword": "冷靜",
+    "type": "pos",
+    "pos": 2010,
+    "neg": 1248
+  },
+  {
+    "keyword": "攀登",
+    "type": "pos",
+    "pos": 313,
+    "neg": 205
+  },
+  {
+    "keyword": "奮進",
+    "type": "pos",
+    "pos": 60,
+    "neg": 31
+  },
+  {
+    "keyword": "雄心壯志",
+    "type": "pos",
+    "pos": 214,
+    "neg": 150
+  },
+  {
+    "keyword": "豪情滿懷",
+    "type": "pos",
+    "pos": 289,
+    "neg": 222
+  },
+  {
+    "keyword": "豪情壯志",
+    "type": "pos",
+    "pos": 214,
+    "neg": 150
+  },
+  {
+    "keyword": "雄心勃勃",
+    "type": "pos",
+    "pos": 24,
+    "neg": 13
+  },
+  {
+    "keyword": "淡泊名志",
+    "type": "do_judge",
+    "pos": 0,
+    "neg": 0
+  },
+  {
+    "keyword": "開拓進取",
+    "type": "pos",
+    "pos": 1568,
+    "neg": 560
+  },
+  {
+    "keyword": "深謀遠慮",
+    "type": "pos",
+    "pos": 41,
+    "neg": 21
+  },
+  {
+    "keyword": "孜孜不倦",
+    "type": "pos",
+    "pos": 19,
+    "neg": 9
+  },
+  {
+    "keyword": "務實創新",
+    "type": "pos",
+    "pos": 10506,
+    "neg": 3061
+  },
+  {
+    "keyword": "意氣風發",
+    "type": "neg",
+    "pos": 130,
+    "neg": 158
+  },
+  {
+    "keyword": "朝氣蓬勃",
+    "type": "pos",
+    "pos": 24,
+    "neg": 16
+  },
+  {
+    "keyword": "勇於進取",
+    "type": "pos",
+    "pos": 2879,
+    "neg": 1404
+  },
+  {
+    "keyword": "勇往直前",
+    "type": "pos",
+    "pos": 305,
+    "neg": 144
+  },
+  {
+    "keyword": "勇於探索",
+    "type": "pos",
+    "pos": 2879,
+    "neg": 1404
+  },
+  {
+    "keyword": "意氣風發",
+    "type": "neg",
+    "pos": 130,
+    "neg": 158
+  },
+  {
+    "keyword": "勃勃生機",
+    "type": "pos",
+    "pos": 667,
+    "neg": 370
+  },
+  {
+    "keyword": "勇挑重擔",
+    "type": "pos",
+    "pos": 2726,
+    "neg": 1741
+  },
+  {
+    "keyword": "勇於開拓",
+    "type": "pos",
+    "pos": 2879,
+    "neg": 1404
+  },
+  {
+    "keyword": "開拓創新",
+    "type": "pos",
+    "pos": 1568,
+    "neg": 560
+  },
+  {
+    "keyword": "不辭勞苦",
+    "type": "do_judge",
+    "pos": 0,
+    "neg": 0
+  },
+  {
+    "keyword": "開拓精神",
+    "type": "pos",
+    "pos": 1568,
+    "neg": 560
+  },
+  {
+    "keyword": "無私奉獻",
+    "type": "pos",
+    "pos": 554,
+    "neg": 304
+  },
+  {
+    "keyword": "默默無聞",
+    "type": "pos",
+    "pos": 29,
+    "neg": 15
+  },
+  {
+    "keyword": "默默奉獻",
+    "type": "pos",
+    "pos": 1829,
+    "neg": 682
+  },
+  {
+    "keyword": "勇於實踐",
+    "type": "pos",
+    "pos": 2879,
+    "neg": 1404
+  },
+  {
+    "keyword": "有勇有謀",
+    "type": "do_judge",
+    "pos": null,
+    "neg": null
+  },
+  {
+    "keyword": "不辭辛勞",
+    "type": "pos",
+    "pos": 73,
+    "neg": 26
+  },
+  {
+    "keyword": "辛勤勞動",
+    "type": "pos",
+    "pos": 206,
+    "neg": 108
+  },
+  {
+    "keyword": "辛勤工作",
+    "type": "pos",
+    "pos": 48637,
+    "neg": 31483
+  },
+  {
+    "keyword": "求實創新",
+    "type": "pos",
+    "pos": 5503,
+    "neg": 4198
+  },
+  {
+    "keyword": "德才兼備",
+    "type": "pos",
+    "pos": 283,
+    "neg": 93
+  },
+  {
+    "keyword": "舉賢任能",
+    "type": "do_judge",
+    "pos": 0,
+    "neg": 0
+  },
+  {
+    "keyword": "任重道遠",
+    "type": "pos",
+    "pos": 20,
+    "neg": 5
+  },
+  {
+    "keyword": "辛勤勞作",
+    "type": "neg",
+    "pos": 64,
+    "neg": 67
+  },
+  {
+    "keyword": "發奮圖強",
+    "type": "do_judge",
+    "pos": 0,
+    "neg": 0
+  },
+  {
+    "keyword": "欣欣向榮",
+    "type": "pos",
+    "pos": 160,
+    "neg": 115
+  },
+  {
+    "keyword": "刻苦耐勞",
+    "type": "pos",
+    "pos": 37,
+    "neg": 17
+  },
+  {
+    "keyword": "勤勞致富",
+    "type": "pos",
+    "pos": 208,
+    "neg": 150
+  },
+  {
+    "keyword": "勤學苦練",
+    "type": "pos",
+    "pos": 453,
+    "neg": 335
+  },
+  {
+    "keyword": "追求卓越",
+    "type": "pos",
+    "pos": 9307,
+    "neg": 4956
+  },
+  {
+    "keyword": "刻苦鑽研",
+    "type": "pos",
+    "pos": 619,
+    "neg": 289
+  },
+  {
+    "keyword": "用心良苦",
+    "type": "pos",
+    "pos": 69,
+    "neg": 61
+  },
+  {
+    "keyword": "胸怀大志",
+    "type": "pos",
+    "pos": 65,
+    "neg": 49
+  },
+  {
+    "keyword": "胸有成竹",
+    "type": "pos",
+    "pos": 90,
+    "neg": 41
+  },
+  {
+    "keyword": "心胸開闊",
+    "type": "pos",
+    "pos": 784,
+    "neg": 312
+  },
+  {
+    "keyword": "心胸寬廣",
+    "type": "pos",
+    "pos": 762,
+    "neg": 339
+  },
+  {
+    "keyword": "勤儉節約",
+    "type": "pos",
+    "pos": 314,
+    "neg": 119
+  },
+  {
+    "keyword": "樂於助人",
+    "type": "pos",
+    "pos": 76,
+    "neg": 35
+  },
+  {
+    "keyword": "樂觀開朗",
+    "type": "pos",
+    "pos": 943,
+    "neg": 632
+  },
+  {
+    "keyword": "自信滿滿",
+    "type": "pos",
+    "pos": 48,
+    "neg": 32
+  },
+  {
+    "keyword": "誠實守信",
+    "type": "pos",
+    "pos": 35,
+    "neg": 34
+  },
+  {
+    "keyword": "信心百倍",
+    "type": "pos",
+    "pos": 9578,
+    "neg": 5641
+  },
+  {
+    "keyword": "信心倍增",
+    "type": "pos",
+    "pos": 719,
+    "neg": 409
+  },
+  {
+    "keyword": "精益求精",
+    "type": "pos",
+    "pos": 192,
+    "neg": 67
+  },
+  {
+    "keyword": "胸懷坦蕩",
+    "type": "neg",
+    "pos": 62,
+    "neg": 73
+  },
+  {
+    "keyword": "吃苦耐勞",
+    "type": "pos",
+    "pos": 35,
+    "neg": 17
+  },
+  {
+    "keyword": "奮力拼搏",
+    "type": "pos",
+    "pos": 95,
+    "neg": 94
+  },
+  {
+    "keyword": "奮起直追",
+    "type": "pos",
+    "pos": 113,
+    "neg": 82
+  },
+  {
+    "keyword": "奮勇當先",
+    "type": "do_judge",
+    "pos": 5,
+    "neg": 5
+  },
+  {
+    "keyword": "勇攀高峰",
+    "type": "pos",
+    "pos": 2684,
+    "neg": 1479
+  },
+  {
+    "keyword": "嚴謹認真",
+    "type": "pos",
+    "pos": 3322,
+    "neg": 2178
+  },
+  {
+    "keyword": "認真對待",
+    "type": "pos",
+    "pos": 3643,
+    "neg": 2871
+  },
+  {
+    "keyword": "認真完成",
+    "type": "pos",
+    "pos": 25383,
+    "neg": 13459
+  },
+  {
+    "keyword": "認真負責",
+    "type": "pos",
+    "pos": 3322,
+    "neg": 2178
+  },
+  {
+    "keyword": "認真貫徹",
+    "type": "pos",
+    "pos": 1185,
+    "neg": 482
+  },
+  {
+    "keyword": "奮鬥不息",
+    "type": "pos",
+    "pos": 1986,
+    "neg": 1158
+  },
+  {
+    "keyword": "奮鬥到底",
+    "type": "pos",
+    "pos": 1986,
+    "neg": 1158
+  },
+  {
+    "keyword": "一絲不苟",
+    "type": "pos",
+    "pos": 58,
+    "neg": 30
+  },
+  {
+    "keyword": "齊心合力",
+    "type": "pos",
+    "pos": 77,
+    "neg": 25
+  },
+  {
+    "keyword": "齊心協力",
+    "type": "pos",
+    "pos": 673,
+    "neg": 308
+  },
+  {
+    "keyword": "勤學上進",
+    "type": "neg",
+    "pos": 195,
+    "neg": 202
+  },
+  {
+    "keyword": "進取精神",
+    "type": "pos",
+    "pos": 19355,
+    "neg": 10640
+  },
+  {
+    "keyword": "勇於拼搏",
+    "type": "pos",
+    "pos": 2879,
+    "neg": 1404
+  },
+  {
+    "keyword": "奮發向上",
+    "type": "pos",
+    "pos": 120,
+    "neg": 61
+  },
+  {
+    "keyword": "積極主動",
+    "type": "pos",
+    "pos": 2602,
+    "neg": 1404
+  },
+  {
+    "keyword": "積極向上",
+    "type": "pos",
+    "pos": 6671,
+    "neg": 3291
+  },
+  {
+    "keyword": "積極進取",
+    "type": "pos",
+    "pos": 250,
+    "neg": 139
+  },
+  {
+    "keyword": "熱心助人",
+    "type": "pos",
+    "pos": 2955,
+    "neg": 1481
+  },
+  {
+    "keyword": "雄才大略",
+    "type": "pos",
+    "pos": 36,
+    "neg": 22
+  },
+  {
+    "keyword": "雄姿英發",
+    "type": "do_judge",
+    "pos": 0,
+    "neg": 0
+  },
+  {
+    "keyword": "雄才偉略",
+    "type": "do_judge",
+    "pos": 0,
+    "neg": 0
+  },
+  {
+    "keyword": "英姿颯爽",
+    "type": "pos",
+    "pos": 41,
+    "neg": 12
+  },
+  {
+    "keyword": "文韜武略",
+    "type": "pos",
+    "pos": 2,
+    "neg": 0
+  },
+  {
+    "keyword": "雄心萬丈",
+    "type": "pos",
+    "pos": 10,
+    "neg": 5
+  },
+  {
+    "keyword": "勤於思考",
+    "type": "pos",
+    "pos": 237,
+    "neg": 137
+  },
+  {
+    "keyword": "同甘共苦",
+    "type": "pos",
+    "pos": 83,
+    "neg": 28
+  },
+  {
+    "keyword": "同心協力",
+    "type": "pos",
+    "pos": 159,
+    "neg": 57
+  },
+  {
+    "keyword": "同心同德",
+    "type": "pos",
+    "pos": 26,
+    "neg": 24
+  },
+  {
+    "keyword": "德高望重",
+    "type": "pos",
+    "pos": 54,
+    "neg": 28
+  },
+  {
+    "keyword": "嚴以律己",
+    "type": "pos",
+    "pos": 75,
+    "neg": 45
+  },
+  {
+    "keyword": "開心",
+    "type": "pos",
+    "pos": 14855,
+    "neg": 5646
+  },
+  {
+    "keyword": "活潑",
+    "type": "pos",
+    "pos": 1792,
+    "neg": 682
+  },
+  {
+    "keyword": "樂觀",
+    "type": "pos",
+    "pos": 3975,
+    "neg": 2930
+  },
+  {
+    "keyword": "從容",
+    "type": "pos",
+    "pos": 223,
+    "neg": 113
+  },
+  {
+    "keyword": "安靜",
+    "type": "pos",
+    "pos": 945,
+    "neg": 774
+  },
+  {
+    "keyword": "雀躍",
+    "type": "pos",
+    "pos": 514,
+    "neg": 190
+  },
+  {
+    "keyword": "爽朗",
+    "type": "pos",
+    "pos": 313,
+    "neg": 160
+  },
+  {
+    "keyword": "專心",
+    "type": "pos",
+    "pos": 970,
+    "neg": 719
+  },
+  {
+    "keyword": "興奮",
+    "type": "pos",
+    "pos": 3047,
+    "neg": 1736
+  },
+  {
+    "keyword": "激動",
+    "type": "pos",
+    "pos": 1818,
+    "neg": 1651
+  },
+  {
+    "keyword": "陶醉",
+    "type": "pos",
+    "pos": 438,
+    "neg": 117
+  },
+  {
+    "keyword": "滿足",
+    "type": "pos",
+    "pos": 14935,
+    "neg": 3784
+  },
+  {
+    "keyword": "愉悅",
+    "type": "pos",
+    "pos": 1297,
+    "neg": 477
+  },
+  {
+    "keyword": "輕鬆",
+    "type": "pos",
+    "pos": 4055,
+    "neg": 2078
+  },
+  {
+    "keyword": "驕傲",
+    "type": "pos",
+    "pos": 2753,
+    "neg": 1558
+  },
+  {
+    "keyword": "甜蜜",
+    "type": "pos",
+    "pos": 2776,
+    "neg": 1118
+  },
+  {
+    "keyword": "愉快",
+    "type": "do_judge",
+    "pos": 0,
+    "neg": 0
+  },
+  {
+    "keyword": "笑容滿臉",
+    "type": "pos",
+    "pos": 15440,
+    "neg": 13671
+  },
+  {
+    "keyword": "笑意盈盈",
+    "type": "pos",
+    "pos": 55,
+    "neg": 29
+  },
+  {
+    "keyword": "笑逐顏開",
+    "type": "pos",
+    "pos": 34,
+    "neg": 13
+  },
+  {
+    "keyword": "談笑風生",
+    "type": "pos",
+    "pos": 68,
+    "neg": 64
+  },
+  {
+    "keyword": "笑罵由人",
+    "type": "pos",
+    "pos": 67,
+    "neg": 58
+  },
+  {
+    "keyword": "一笑置之",
+    "type": "pos",
+    "pos": 127,
+    "neg": 66
+  },
+  {
+    "keyword": "會心微笑",
+    "type": "do_judge",
+    "pos": 13,
+    "neg": 13
+  },
+  {
+    "keyword": "開懷大笑",
+    "type": "pos",
+    "pos": 1787,
+    "neg": 1412
+  },
+  {
+    "keyword": "眉花眼笑",
+    "type": "pos",
+    "pos": 8877,
+    "neg": 6549
+  },
+  {
+    "keyword": "歡天喜地",
+    "type": "pos",
+    "pos": 44,
+    "neg": 19
+  },
+  {
+    "keyword": "滿心歡喜",
+    "type": "do_judge",
+    "pos": 0,
+    "neg": 0
+  },
+  {
+    "keyword": "喜氣洋洋",
+    "type": "pos",
+    "pos": 286,
+    "neg": 48
+  },
+  {
+    "keyword": "喜上眉梢",
+    "type": "do_judge",
+    "pos": 0,
+    "neg": 0
+  },
+  {
+    "keyword": "喜形於色",
+    "type": "pos",
+    "pos": 38,
+    "neg": 12
+  },
+  {
+    "keyword": "喜不自勝",
+    "type": "pos",
+    "pos": 3,
+    "neg": 0
+  },
+  {
+    "keyword": "芳心暗喜",
+    "type": "do_judge",
+    "pos": 0,
+    "neg": 0
+  },
+  {
+    "keyword": "樂在其中",
+    "type": "pos",
+    "pos": 201,
+    "neg": 119
+  },
+  {
+    "keyword": "樂天知命",
+    "type": "pos",
+    "pos": 11,
+    "neg": 0
+  },
+  {
+    "keyword": "樂也融融",
+    "type": "pos",
+    "pos": 51,
+    "neg": 11
+  },
+  {
+    "keyword": "自得其樂",
+    "type": "pos",
+    "pos": 46,
+    "neg": 8
+  },
+  {
+    "keyword": "心情興奮",
+    "type": "pos",
+    "pos": 3047,
+    "neg": 1736
+  },
+  {
+    "keyword": "慷慨激昂",
+    "type": "pos",
+    "pos": 351,
+    "neg": 253
+  },
+  {
+    "keyword": "心平氣和",
+    "type": "neg",
+    "pos": 57,
+    "neg": 61
+  },
+  {
+    "keyword": "氣定神閒",
+    "type": "neg",
+    "pos": 48,
+    "neg": 50
+  },
+  {
+    "keyword": "神采飛揚",
+    "type": "pos",
+    "pos": 23,
+    "neg": 15
+  },
+  {
+    "keyword": "興高采烈",
+    "type": "pos",
+    "pos": 69,
+    "neg": 17
+  },
+  {
+    "keyword": "一帆風順",
+    "type": "pos",
+    "pos": 305,
+    "neg": 246
+  },
+  {
+    "keyword": "一流",
+    "type": "pos",
+    "pos": 897,
+    "neg": 478
+  },
+  {
+    "keyword": "一致",
+    "type": "do_judge",
+    "pos": 0,
+    "neg": 0
+  },
+  {
+    "keyword": "了不起",
+    "type": "pos",
+    "pos": 675,
+    "neg": 489
+  },
+  {
+    "keyword": "瞭解",
+    "type": "pos",
+    "pos": 3874,
+    "neg": 1763
+  },
+  {
+    "keyword": "人格高尚",
+    "type": "do_judge",
+    "pos": 0,
+    "neg": 0
+  },
+  {
+    "keyword": "人情",
+    "type": "pos",
+    "pos": 1185,
+    "neg": 821
+  },
+  {
+    "keyword": "人情味",
+    "type": "pos",
+    "pos": 941,
+    "neg": 344
+  },
+  {
+    "keyword": "入神",
+    "type": "pos",
+    "pos": 10,
+    "neg": 2
+  },
+  {
+    "keyword": "入迷",
+    "type": "pos",
+    "pos": 58,
+    "neg": 9
+  },
+  {
+    "keyword": "上好",
+    "type": "pos",
+    "pos": 130,
+    "neg": 67
+  },
+  {
+    "keyword": "上等",
+    "type": "do_judge",
+    "pos": null,
+    "neg": null
+  },
+  {
+    "keyword": "大方",
+    "type": "pos",
+    "pos": 1217,
+    "neg": 662
+  },
+  {
+    "keyword": "無畏",
+    "type": "pos",
+    "pos": 389,
+    "neg": 265
+  },
+  {
+    "keyword": "大膽",
+    "type": "pos",
+    "pos": 1321,
+    "neg": 866
+  },
+  {
+    "keyword": "小天使",
+    "type": "pos",
+    "pos": 2340,
+    "neg": 1076
+  },
+  {
+    "keyword": "小心",
+    "type": "pos",
+    "pos": 8445,
+    "neg": 6445
+  },
+  {
+    "keyword": "小心謹慎",
+    "type": "pos",
+    "pos": 8445,
+    "neg": 6445
+  },
+  {
+    "keyword": "工整",
+    "type": "do_judge",
+    "pos": 0,
+    "neg": 0
+  },
+  {
+    "keyword": "才氣",
+    "type": "pos",
+    "pos": 89,
+    "neg": 54
+  },
+  {
+    "keyword": "才能",
+    "type": "pos",
+    "pos": 4613,
+    "neg": 2890
+  },
+  {
+    "keyword": "才智",
+    "type": "pos",
+    "pos": 94,
+    "neg": 82
+  },
+  {
+    "keyword": "才幹",
+    "type": "pos",
+    "pos": 45,
+    "neg": 27
+  },
+  {
+    "keyword": "才藝",
+    "type": "pos",
+    "pos": 964,
+    "neg": 361
+  },
+  {
+    "keyword": "不凡",
+    "type": "pos",
+    "pos": 430,
+    "neg": 194
+  },
+  {
+    "keyword": "不任性",
+    "type": "pos",
+    "pos": 438,
+    "neg": 309
+  },
+  {
+    "keyword": "不成為問題",
+    "type": "pos",
+    "pos": 58604,
+    "neg": 32863
+  },
+  {
+    "keyword": "不自私",
+    "type": "pos",
+    "pos": 413,
+    "neg": 390
+  },
+  {
+    "keyword": "不含糊",
+    "type": "pos",
+    "pos": 196,
+    "neg": 150
+  },
+  {
+    "keyword": "不受約束",
+    "type": "pos",
+    "pos": 27884,
+    "neg": 18007
+  },
+  {
+    "keyword": "不屈不撓",
+    "type": "do_judge",
+    "pos": 0,
+    "neg": 0
+  },
+  {
+    "keyword": "不屈服",
+    "type": "pos",
+    "pos": 724,
+    "neg": 618
+  },
+  {
+    "keyword": "不拘泥",
+    "type": "pos",
+    "pos": 279,
+    "neg": 155
+  },
+  {
+    "keyword": "不迫",
+    "type": "pos",
+    "pos": 158,
+    "neg": 149
+  },
+  {
+    "keyword": "不偏不倚",
+    "type": "pos",
+    "pos": 36,
+    "neg": 19
+  },
+  {
+    "keyword": "不動搖",
+    "type": "pos",
+    "pos": 1139,
+    "neg": 905
+  },
+  {
+    "keyword": "不猶豫",
+    "type": "pos",
+    "pos": 1318,
+    "neg": 1127
+  },
+  {
+    "keyword": "不慌忙",
+    "type": "do_judge",
+    "pos": 26,
+    "neg": 26
+  },
+  {
+    "keyword": "不會弄錯",
+    "type": "do_judge",
+    "pos": 0,
+    "neg": 0
+  },
+  {
+    "keyword": "不會受傷害",
+    "type": "pos",
+    "pos": 27884,
+    "neg": 18007
+  },
+  {
+    "keyword": "不懈",
+    "type": "pos",
+    "pos": 351,
+    "neg": 128
+  },
+  {
+    "keyword": "中和",
+    "type": "pos",
+    "pos": 635,
+    "neg": 363
+  },
+  {
+    "keyword": "中肯",
+    "type": "pos",
+    "pos": 53,
+    "neg": 47
+  },
+  {
+    "keyword": "井然有序",
+    "type": "pos",
+    "pos": 67,
+    "neg": 37
+  },
+  {
+    "keyword": "互助",
+    "type": "pos",
+    "pos": 867,
+    "neg": 645
+  },
+  {
+    "keyword": "互相密合著",
+    "type": "pos",
+    "pos": 26,
+    "neg": 11
+  },
+  {
+    "keyword": "仁慈",
+    "type": "pos",
+    "pos": 95,
+    "neg": 84
+  },
+  {
+    "keyword": "允諾",
+    "type": "pos",
+    "pos": 1138,
+    "neg": 831
+  },
+  {
+    "keyword": "內行",
+    "type": "pos",
+    "pos": 157,
+    "neg": 119
+  },
+  {
+    "keyword": "公平",
+    "type": "pos",
+    "pos": 4658,
+    "neg": 3748
+  },
+  {
+    "keyword": "公正",
+    "type": "pos",
+    "pos": 1007,
+    "neg": 824
+  },
+  {
+    "keyword": "公開",
+    "type": "pos",
+    "pos": 13290,
+    "neg": 9825
+  },
+  {
+    "keyword": "分寸",
+    "type": "pos",
+    "pos": 444,
+    "neg": 333
+  },
+  {
+    "keyword": "切實",
+    "type": "pos",
+    "pos": 110,
+    "neg": 51
+  },
+  {
+    "keyword": "切題",
+    "type": "pos",
+    "pos": 50,
+    "neg": 35
+  },
+  {
+    "keyword": "勻稱",
+    "type": "pos",
+    "pos": 72,
+    "neg": 29
+  },
+  {
+    "keyword": "升起",
+    "type": "pos",
+    "pos": 479,
+    "neg": 270
+  },
+  {
+    "keyword": "友好",
+    "type": "pos",
+    "pos": 1676,
+    "neg": 859
+  },
+  {
+    "keyword": "友善",
+    "type": "pos",
+    "pos": 5144,
+    "neg": 2104
+  },
+  {
+    "keyword": "友愛",
+    "type": "pos",
+    "pos": 142,
+    "neg": 44
+  },
+  {
+    "keyword": "友誼",
+    "type": "pos",
+    "pos": 1300,
+    "neg": 674
+  },
+  {
+    "keyword": "及格",
+    "type": "pos",
+    "pos": 592,
+    "neg": 474
+  },
+  {
+    "keyword": "天才",
+    "type": "pos",
+    "pos": 1108,
+    "neg": 934
+  },
+  {
+    "keyword": "天才人物",
+    "type": "pos",
+    "pos": 12275,
+    "neg": 9678
+  },
+  {
+    "keyword": "天使",
+    "type": "pos",
+    "pos": 2340,
+    "neg": 1076
+  },
+  {
+    "keyword": "天真",
+    "type": "pos",
+    "pos": 622,
+    "neg": 467
+  },
+  {
+    "keyword": "天真無邪",
+    "type": "pos",
+    "pos": 115,
+    "neg": 78
+  },
+  {
+    "keyword": "天堂",
+    "type": "pos",
+    "pos": 1403,
+    "neg": 898
+  },
+  {
+    "keyword": "天然",
+    "type": "pos",
+    "pos": 3145,
+    "neg": 1304
+  },
+  {
+    "keyword": "天資",
+    "type": "pos",
+    "pos": 37,
+    "neg": 22
+  },
+  {
+    "keyword": "天賦",
+    "type": "pos",
+    "pos": 918,
+    "neg": 530
+  },
+  {
+    "keyword": "引人注目",
+    "type": "do_judge",
+    "pos": 0,
+    "neg": 0
+  },
+  {
+    "keyword": "引人讚美",
+    "type": "pos",
+    "pos": 767,
+    "neg": 527
+  },
+  {
+    "keyword": "引以為榮",
+    "type": "pos",
+    "pos": 76,
+    "neg": 50
+  },
+  {
+    "keyword": "心甘情願",
+    "type": "neg",
+    "pos": 122,
+    "neg": 124
+  },
+  {
+    "keyword": "心情愉快",
+    "type": "pos",
+    "pos": 2489,
+    "neg": 1228
+  },
+  {
+    "keyword": "心情舒暢",
+    "type": "pos",
+    "pos": 331,
+    "neg": 156
+  },
+  {
+    "keyword": "心愛",
+    "type": "do_judge",
+    "pos": 0,
+    "neg": 0
+  },
+  {
+    "keyword": "心滿意足",
+    "type": "pos",
+    "pos": 299,
+    "neg": 128
+  },
+  {
+    "keyword": "心滿意足地注視",
+    "type": "pos",
+    "pos": 325,
+    "neg": 216
+  },
+  {
+    "keyword": "心醉",
+    "type": "pos",
+    "pos": 33,
+    "neg": 1
+  },
+  {
+    "keyword": "心醉神迷",
+    "type": "pos",
+    "pos": 33,
+    "neg": 1
+  },
+  {
+    "keyword": "手藝",
+    "type": "pos",
+    "pos": 957,
+    "neg": 374
+  },
+  {
+    "keyword": "支援",
+    "type": "pos",
+    "pos": 5158,
+    "neg": 2627
+  },
+  {
+    "keyword": "文雅",
+    "type": "pos",
+    "pos": 68,
+    "neg": 36
+  },
+  {
+    "keyword": "方便",
+    "type": "pos",
+    "pos": 3952,
+    "neg": 2016
+  },
+  {
+    "keyword": "比較好",
+    "type": "pos",
+    "pos": 79852,
+    "neg": 50933
+  },
+  {
+    "keyword": "主動",
+    "type": "pos",
+    "pos": 2602,
+    "neg": 1404
+  },
+  {
+    "keyword": "令人高興",
+    "type": "pos",
+    "pos": 30338,
+    "neg": 28003
+  },
+  {
+    "keyword": "令人喜悅",
+    "type": "pos",
+    "pos": 30338,
+    "neg": 28003
+  },
+  {
+    "keyword": "令人愉快",
+    "type": "pos",
+    "pos": 30338,
+    "neg": 28003
+  },
+  {
+    "keyword": "令人欽佩",
+    "type": "pos",
+    "pos": 30338,
+    "neg": 28003
+  },
+  {
+    "keyword": "令人滿意",
+    "type": "pos",
+    "pos": 30338,
+    "neg": 28003
+  },
+  {
+    "keyword": "令人難忘",
+    "type": "pos",
+    "pos": 30338,
+    "neg": 28003
+  },
+  {
+    "keyword": "令人驚奇",
+    "type": "pos",
+    "pos": 30338,
+    "neg": 28003
+  },
+  {
+    "keyword": "充分",
+    "type": "pos",
+    "pos": 1523,
+    "neg": 820
+  },
+  {
+    "keyword": "充份",
+    "type": "pos",
+    "pos": 38,
+    "neg": 13
+  },
+  {
+    "keyword": "充沛",
+    "type": "pos",
+    "pos": 639,
+    "neg": 343
+  },
+  {
+    "keyword": "充足",
+    "type": "pos",
+    "pos": 1611,
+    "neg": 911
+  },
+  {
+    "keyword": "充裕",
+    "type": "pos",
+    "pos": 617,
+    "neg": 270
+  },
+  {
+    "keyword": "充滿深情",
+    "type": "pos",
+    "pos": 15275,
+    "neg": 7974
+  },
+  {
+    "keyword": "出名",
+    "type": "pos",
+    "pos": 665,
+    "neg": 444
+  },
+  {
+    "keyword": "出色",
+    "type": "pos",
+    "pos": 1887,
+    "neg": 1030
+  },
+  {
+    "keyword": "出神",
+    "type": "pos",
+    "pos": 25,
+    "neg": 21
+  },
+  {
+    "keyword": "出眾",
+    "type": "pos",
+    "pos": 441,
+    "neg": 231
+  },
+  {
+    "keyword": "加薪",
+    "type": "pos",
+    "pos": 914,
+    "neg": 377
+  },
+  {
+    "keyword": "功績",
+    "type": "pos",
+    "pos": 150,
+    "neg": 105
+  },
+  {
+    "keyword": "去除",
+    "type": "pos",
+    "pos": 869,
+    "neg": 496
+  },
+  {
+    "keyword": "可瞭解",
+    "type": "pos",
+    "pos": 3874,
+    "neg": 1763
+  },
+  {
+    "keyword": "可口",
+    "type": "pos",
+    "pos": 458,
+    "neg": 200
+  },
+  {
+    "keyword": "可以接受",
+    "type": "pos",
+    "pos": 30571,
+    "neg": 24031
+  },
+  {
+    "keyword": "可用",
+    "type": "pos",
+    "pos": 20373,
+    "neg": 14042
+  },
+  {
+    "keyword": "可行",
+    "type": "pos",
+    "pos": 1386,
+    "neg": 911
+  },
+  {
+    "keyword": "可忍受",
+    "type": "pos",
+    "pos": 1712,
+    "neg": 1553
+  },
+  {
+    "keyword": "可取",
+    "type": "neg",
+    "pos": 112,
+    "neg": 124
+  },
+  {
+    "keyword": "可信",
+    "type": "neg",
+    "pos": 182,
+    "neg": 188
+  },
+  {
+    "keyword": "可信任",
+    "type": "pos",
+    "pos": 4584,
+    "neg": 3602
+  },
+  {
+    "keyword": "可信賴",
+    "type": "pos",
+    "pos": 1666,
+    "neg": 850
+  },
+  {
+    "keyword": "可理解",
+    "type": "pos",
+    "pos": 8236,
+    "neg": 6405
+  },
+  {
+    "keyword": "可喜",
+    "type": "pos",
+    "pos": 64,
+    "neg": 53
+  },
+  {
+    "keyword": "可尊敬",
+    "type": "pos",
+    "pos": 1663,
+    "neg": 821
+  },
+  {
+    "keyword": "可欽佩",
+    "type": "pos",
+    "pos": 578,
+    "neg": 255
+  },
+  {
+    "keyword": "可貴",
+    "type": "pos",
+    "pos": 649,
+    "neg": 484
+  },
+  {
+    "keyword": "可愛",
+    "type": "pos",
+    "pos": 6976,
+    "neg": 3163
+  },
+  {
+    "keyword": "可敬",
+    "type": "pos",
+    "pos": 133,
+    "neg": 83
+  },
+  {
+    "keyword": "可敬重",
+    "type": "pos",
+    "pos": 544,
+    "neg": 204
+  },
+  {
+    "keyword": "可經營",
+    "type": "pos",
+    "pos": 15528,
+    "neg": 7964
+  },
+  {
+    "keyword": "可實行",
+    "type": "pos",
+    "pos": 1113,
+    "neg": 788
+  },
+  {
+    "keyword": "可稱讚",
+    "type": "pos",
+    "pos": 4080,
+    "neg": 2432
+  },
+  {
+    "keyword": "可靠",
+    "type": "pos",
+    "pos": 1034,
+    "neg": 704
+  },
+  {
+    "keyword": "可靠程度",
+    "type": "pos",
+    "pos": 11306,
+    "neg": 8567
+  },
+  {
+    "keyword": "可親",
+    "type": "pos",
+    "pos": 76,
+    "neg": 28
+  },
+  {
+    "keyword": "可攜帶",
+    "type": "do_judge",
+    "pos": 0,
+    "neg": 0
+  },
+  {
+    "keyword": "古典",
+    "type": "pos",
+    "pos": 1356,
+    "neg": 456
+  },
+  {
+    "keyword": "古雅",
+    "type": "pos",
+    "pos": 5,
+    "neg": 1
+  },
+  {
+    "keyword": "叮囑",
+    "type": "pos",
+    "pos": 224,
+    "neg": 209
+  },
+  {
+    "keyword": "巨大",
+    "type": "pos",
+    "pos": 3928,
+    "neg": 3080
+  },
+  {
+    "keyword": "巧妙",
+    "type": "pos",
+    "pos": 414,
+    "neg": 245
+  },
+  {
+    "keyword": "平安",
+    "type": "pos",
+    "pos": 2139,
+    "neg": 1011
+  },
+  {
+    "keyword": "平坦",
+    "type": "do_judge",
+    "pos": 0,
+    "neg": 0
+  },
+  {
+    "keyword": "平息",
+    "type": "neg",
+    "pos": 1139,
+    "neg": 1401
+  },
+  {
+    "keyword": "平等",
+    "type": "pos",
+    "pos": 2717,
+    "neg": 1935
+  },
+  {
+    "keyword": "平整",
+    "type": "pos",
+    "pos": 119,
+    "neg": 83
+  },
+  {
+    "keyword": "平衡",
+    "type": "pos",
+    "pos": 4427,
+    "neg": 2415
+  },
+  {
+    "keyword": "平穩",
+    "type": "pos",
+    "pos": 1149,
+    "neg": 594
+  },
+  {
+    "keyword": "必要",
+    "type": "pos",
+    "pos": 7094,
+    "neg": 5315
+  },
+  {
+    "keyword": "打趣",
+    "type": "pos",
+    "pos": 1714,
+    "neg": 1124
+  },
+  {
+    "keyword": "本著良心",
+    "type": "pos",
+    "pos": 112,
+    "neg": 44
+  },
+  {
+    "keyword": "未被污染",
+    "type": "pos",
+    "pos": 1781,
+    "neg": 1129
+  },
+  {
+    "keyword": "正大",
+    "type": "pos",
+    "pos": 15,
+    "neg": 2
+  },
+  {
+    "keyword": "正式",
+    "type": "pos",
+    "pos": 5426,
+    "neg": 2798
+  },
+  {
+    "keyword": "正式批准",
+    "type": "pos",
+    "pos": 1293,
+    "neg": 955
+  },
+  {
+    "keyword": "正直",
+    "type": "pos",
+    "pos": 200,
+    "neg": 194
+  },
+  {
+    "keyword": "正派",
+    "type": "neg",
+    "pos": 100,
+    "neg": 101
+  },
+  {
+    "keyword": "正面",
+    "type": "pos",
+    "pos": 6690,
+    "neg": 4307
+  },
+  {
+    "keyword": "正常",
+    "type": "pos",
+    "pos": 6193,
+    "neg": 5683
+  },
+  {
+    "keyword": "正統",
+    "type": "pos",
+    "pos": 452,
+    "neg": 266
+  },
+  {
+    "keyword": "正規",
+    "type": "pos",
+    "pos": 385,
+    "neg": 219
+  },
+  {
+    "keyword": "正當",
+    "type": "pos",
+    "pos": 971,
+    "neg": 954
+  },
+  {
+    "keyword": "正義",
+    "type": "pos",
+    "pos": 4565,
+    "neg": 3846
+  },
+  {
+    "keyword": "正道",
+    "type": "pos",
+    "pos": 235,
+    "neg": 190
+  },
+  {
+    "keyword": "正確",
+    "type": "pos",
+    "pos": 5568,
+    "neg": 3547
+  },
+  {
+    "keyword": "永恆",
+    "type": "pos",
+    "pos": 462,
+    "neg": 201
+  },
+  {
+    "keyword": "甘願",
+    "type": "pos",
+    "pos": 538,
+    "neg": 377
+  },
+  {
+    "keyword": "生育",
+    "type": "pos",
+    "pos": 870,
+    "neg": 514
+  },
+  {
+    "keyword": "生效",
+    "type": "do_judge",
+    "pos": 0,
+    "neg": 0
+  },
+  {
+    "keyword": "生氣勃勃",
+    "type": "pos",
+    "pos": 14,
+    "neg": 2
+  },
+  {
+    "keyword": "生動",
+    "type": "pos",
+    "pos": 618,
+    "neg": 244
+  },
+  {
+    "keyword": "生產",
+    "type": "pos",
+    "pos": 8034,
+    "neg": 4352
+  },
+  {
+    "keyword": "生產多",
+    "type": "pos",
+    "pos": 8034,
+    "neg": 4352
+  },
+  {
+    "keyword": "用功",
+    "type": "neg",
+    "pos": 102,
+    "neg": 105
+  },
+  {
+    "keyword": "由衷",
+    "type": "pos",
+    "pos": 53,
+    "neg": 28
+  },
+  {
+    "keyword": "目眩",
+    "type": "do_judge",
+    "pos": 8,
+    "neg": 8
+  },
+  {
+    "keyword": "伊甸園",
+    "type": "neg",
+    "pos": 24,
+    "neg": 41
+  },
+  {
+    "keyword": "休息",
+    "type": "pos",
+    "pos": 5552,
+    "neg": 4446
+  },
+  {
+    "keyword": "光芒",
+    "type": "pos",
+    "pos": 1309,
+    "neg": 785
+  },
+  {
+    "keyword": "光芒四射",
+    "type": "pos",
+    "pos": 634,
+    "neg": 376
+  },
+  {
+    "keyword": "光明",
+    "type": "pos",
+    "pos": 800,
+    "neg": 538
+  },
+  {
+    "keyword": "光亮",
+    "type": "pos",
+    "pos": 119,
+    "neg": 72
+  },
+  {
+    "keyword": "光彩",
+    "type": "pos",
+    "pos": 462,
+    "neg": 182
+  },
+  {
+    "keyword": "光滑",
+    "type": "pos",
+    "pos": 141,
+    "neg": 108
+  },
+  {
+    "keyword": "光榮",
+    "type": "pos",
+    "pos": 818,
+    "neg": 492
+  },
+  {
+    "keyword": "光輝",
+    "type": "pos",
+    "pos": 576,
+    "neg": 271
+  },
+  {
+    "keyword": "光澤",
+    "type": "pos",
+    "pos": 508,
+    "neg": 204
+  },
+  {
+    "keyword": "先見之明",
+    "type": "pos",
+    "pos": 75,
+    "neg": 54
+  },
+  {
+    "keyword": "全力",
+    "type": "pos",
+    "pos": 741,
+    "neg": 411
+  },
+  {
+    "keyword": "全面",
+    "type": "pos",
+    "pos": 2352,
+    "neg": 1472
+  },
+  {
+    "keyword": "全神貫注",
+    "type": "pos",
+    "pos": 58,
+    "neg": 36
+  },
+  {
+    "keyword": "吉利",
+    "type": "pos",
+    "pos": 203,
+    "neg": 65
+  },
+  {
+    "keyword": "吉祥",
+    "type": "pos",
+    "pos": 466,
+    "neg": 87
+  },
+  {
+    "keyword": "同情",
+    "type": "neg",
+    "pos": 1250,
+    "neg": 1882
+  },
+  {
+    "keyword": "同情心",
+    "type": "pos",
+    "pos": 148,
+    "neg": 93
+  },
+  {
+    "keyword": "同意",
+    "type": "pos",
+    "pos": 99640,
+    "neg": 61151
+  },
+  {
+    "keyword": "同意給予",
+    "type": "pos",
+    "pos": 99640,
+    "neg": 61151
+  },
+  {
+    "keyword": "同感",
+    "type": "pos",
+    "pos": 309,
+    "neg": 279
+  },
+  {
+    "keyword": "名聲",
+    "type": "pos",
+    "pos": 1024,
+    "neg": 639
+  },
+  {
+    "keyword": "名譽",
+    "type": "neg",
+    "pos": 1408,
+    "neg": 1663
+  },
+  {
+    "keyword": "合乎",
+    "type": "pos",
+    "pos": 568,
+    "neg": 484
+  },
+  {
+    "keyword": "合乎情理",
+    "type": "pos",
+    "pos": 568,
+    "neg": 484
+  },
+  {
+    "keyword": "合乎衛生",
+    "type": "pos",
+    "pos": 568,
+    "neg": 484
+  },
+  {
+    "keyword": "合乎邏輯",
+    "type": "pos",
+    "pos": 568,
+    "neg": 484
+  },
+  {
+    "keyword": "合作",
+    "type": "pos",
+    "pos": 30127,
+    "neg": 13989
+  },
+  {
+    "keyword": "合宜",
+    "type": "pos",
+    "pos": 409,
+    "neg": 199
+  },
+  {
+    "keyword": "合法",
+    "type": "pos",
+    "pos": 2742,
+    "neg": 2363
+  },
+  {
+    "keyword": "合格",
+    "type": "pos",
+    "pos": 1115,
+    "neg": 622
+  },
+  {
+    "keyword": "合理",
+    "type": "pos",
+    "pos": 4191,
+    "neg": 3440
+  },
+  {
+    "keyword": "合意",
+    "type": "pos",
+    "pos": 264,
+    "neg": 169
+  },
+  {
+    "keyword": "合群",
+    "type": "pos",
+    "pos": 24,
+    "neg": 11
+  },
+  {
+    "keyword": "合適",
+    "type": "pos",
+    "pos": 2042,
+    "neg": 1159
+  },
+  {
+    "keyword": "吃苦",
+    "type": "pos",
+    "pos": 258,
+    "neg": 241
+  },
+  {
+    "keyword": "在乎",
+    "type": "pos",
+    "pos": 4661,
+    "neg": 2343
+  },
+  {
+    "keyword": "在意",
+    "type": "pos",
+    "pos": 5837,
+    "neg": 2956
+  },
+  {
+    "keyword": "在贊成方面",
+    "type": "pos",
+    "pos": 82408,
+    "neg": 59928
+  },
+  {
+    "keyword": "多才多藝",
+    "type": "pos",
+    "pos": 206,
+    "neg": 91
+  },
+  {
+    "keyword": "多產",
+    "type": "pos",
+    "pos": 33,
+    "neg": 29
+  },
+  {
+    "keyword": "多智",
+    "type": "pos",
+    "pos": 407,
+    "neg": 277
+  },
+  {
+    "keyword": "多趣",
+    "type": "pos",
+    "pos": 359,
+    "neg": 86
+  },
+  {
+    "keyword": "好天氣",
+    "type": "pos",
+    "pos": 6375,
+    "neg": 3555
+  },
+  {
+    "keyword": "好吃",
+    "type": "pos",
+    "pos": 2726,
+    "neg": 1123
+  },
+  {
+    "keyword": "好事",
+    "type": "pos",
+    "pos": 2854,
+    "neg": 1882
+  },
+  {
+    "keyword": "好奇",
+    "type": "pos",
+    "pos": 3328,
+    "neg": 2325
+  },
+  {
+    "keyword": "好客",
+    "type": "pos",
+    "pos": 195,
+    "neg": 75
+  },
+  {
+    "keyword": "好笑",
+    "type": "neg",
+    "pos": 945,
+    "neg": 1098
+  },
+  {
+    "keyword": "好追根究底",
+    "type": "pos",
+    "pos": 24,
+    "neg": 14
+  },
+  {
+    "keyword": "好意",
+    "type": "pos",
+    "pos": 338,
+    "neg": 304
+  },
+  {
+    "keyword": "好運",
+    "type": "pos",
+    "pos": 1683,
+    "neg": 718
+  },
+  {
+    "keyword": "好辦法",
+    "type": "do_judge",
+    "pos": null,
+    "neg": null
+  },
+  {
+    "keyword": "如畫",
+    "type": "pos",
+    "pos": 5316,
+    "neg": 3699
+  },
+  {
+    "keyword": "守法",
+    "type": "pos",
+    "pos": 281,
+    "neg": 231
+  },
+  {
+    "keyword": "安全",
+    "type": "pos",
+    "pos": 23480,
+    "neg": 14098
+  },
+  {
+    "keyword": "安定",
+    "type": "pos",
+    "pos": 1648,
+    "neg": 1131
+  },
+  {
+    "keyword": "安逸",
+    "type": "pos",
+    "pos": 144,
+    "neg": 109
+  },
+  {
+    "keyword": "安詳",
+    "type": "pos",
+    "pos": 35,
+    "neg": 26
+  },
+  {
+    "keyword": "安寧",
+    "type": "pos",
+    "pos": 765,
+    "neg": 653
+  },
+  {
+    "keyword": "安慰",
+    "type": "neg",
+    "pos": 2146,
+    "neg": 2408
+  },
+  {
+    "keyword": "安適",
+    "type": "pos",
+    "pos": 48,
+    "neg": 17
+  },
+  {
+    "keyword": "安穩",
+    "type": "pos",
+    "pos": 390,
+    "neg": 283
+  },
+  {
+    "keyword": "成功",
+    "type": "pos",
+    "pos": 11462,
+    "neg": 6553
+  },
+  {
+    "keyword": "成長",
+    "type": "pos",
+    "pos": 20053,
+    "neg": 9188
+  },
+  {
+    "keyword": "成為",
+    "type": "pos",
+    "pos": 58604,
+    "neg": 32863
+  },
+  {
+    "keyword": "成就",
+    "type": "pos",
+    "pos": 5449,
+    "neg": 2613
+  },
+  {
+    "keyword": "成熟",
+    "type": "pos",
+    "pos": 4250,
+    "neg": 2311
+  },
+  {
+    "keyword": "收穫",
+    "type": "pos",
+    "pos": 3218,
+    "neg": 1453
+  },
+  {
+    "keyword": "有力",
+    "type": "pos",
+    "pos": 1096,
+    "neg": 755
+  },
+  {
+    "keyword": "有才氣",
+    "type": "do_judge",
+    "pos": null,
+    "neg": null
+  },
+  {
+    "keyword": "有才能",
+    "type": "pos",
+    "pos": 4613,
+    "neg": 2890
+  },
+  {
+    "keyword": "有才智",
+    "type": "do_judge",
+    "pos": 0,
+    "neg": 0
+  },
+  {
+    "keyword": "有才幹",
+    "type": "do_judge",
+    "pos": null,
+    "neg": null
+  },
+  {
+    "keyword": "有分寸",
+    "type": "do_judge",
+    "pos": null,
+    "neg": null
+  },
+  {
+    "keyword": "有天資",
+    "type": "do_judge",
+    "pos": null,
+    "neg": null
+  },
+  {
+    "keyword": "有天賦",
+    "type": "do_judge",
+    "pos": null,
+    "neg": null
+  },
+  {
+    "keyword": "有功績",
+    "type": "do_judge",
+    "pos": null,
+    "neg": null
+  },
+  {
+    "keyword": "有用",
+    "type": "pos",
+    "pos": 767,
+    "neg": 718
+  },
+  {
+    "keyword": "有光澤",
+    "type": "do_judge",
+    "pos": null,
+    "neg": null
+  },
+  {
+    "keyword": "有先見之明",
+    "type": "do_judge",
+    "pos": null,
+    "neg": null
+  },
+  {
+    "keyword": "有同情心",
+    "type": "do_judge",
+    "pos": null,
+    "neg": null
+  },
+  {
+    "keyword": "有名",
+    "type": "pos",
+    "pos": 2288,
+    "neg": 1559
+  },
+  {
+    "keyword": "有判斷力",
+    "type": "do_judge",
+    "pos": null,
+    "neg": null
+  },
+  {
+    "keyword": "有利",
+    "type": "pos",
+    "pos": 4442,
+    "neg": 2667
+  },
+  {
+    "keyword": "有利益",
+    "type": "do_judge",
+    "pos": null,
+    "neg": null
+  },
+  {
+    "keyword": "有利條件",
+    "type": "pos",
+    "pos": 4442,
+    "neg": 2667
+  },
+  {
+    "keyword": "有利潤",
+    "type": "do_judge",
+    "pos": null,
+    "neg": null
+  },
+  {
+    "keyword": "有助",
+    "type": "pos",
+    "pos": 3068,
+    "neg": 1620
+  },
+  {
+    "keyword": "有助益",
+    "type": "do_judge",
+    "pos": null,
+    "neg": null
+  },
+  {
+    "keyword": "有吸引力",
+    "type": "do_judge",
+    "pos": null,
+    "neg": null
+  },
+  {
+    "keyword": "有含義",
+    "type": "do_judge",
+    "pos": null,
+    "neg": null
+  },
+  {
+    "keyword": "有把握",
+    "type": "do_judge",
+    "pos": null,
+    "neg": null
+  },
+  {
+    "keyword": "有決心",
+    "type": "do_judge",
+    "pos": null,
+    "neg": null
+  },
+  {
+    "keyword": "有知覺",
+    "type": "do_judge",
+    "pos": null,
+    "neg": null
+  },
+  {
+    "keyword": "有信心",
+    "type": "do_judge",
+    "pos": null,
+    "neg": null
+  },
+  {
+    "keyword": "有前途",
+    "type": "do_judge",
+    "pos": null,
+    "neg": null
+  },
+  {
+    "keyword": "有品格",
+    "type": "do_judge",
+    "pos": null,
+    "neg": null
+  },
+  {
+    "keyword": "有威嚴",
+    "type": "do_judge",
+    "pos": null,
+    "neg": null
+  },
+  {
+    "keyword": "有思想",
+    "type": "do_judge",
+    "pos": null,
+    "neg": null
+  },
+  {
+    "keyword": "有指望",
+    "type": "do_judge",
+    "pos": null,
+    "neg": null
+  },
+  {
+    "keyword": "有耐性",
+    "type": "do_judge",
+    "pos": 0,
+    "neg": 0
+  },
+  {
+    "keyword": "有效",
+    "type": "pos",
+    "pos": 4725,
+    "neg": 2937
+  },
+  {
+    "keyword": "有效率",
+    "type": "do_judge",
+    "pos": null,
+    "neg": null
+  },
+  {
+    "keyword": "有特色",
+    "type": "do_judge",
+    "pos": null,
+    "neg": null
+  },
+  {
+    "keyword": "有益",
+    "type": "pos",
+    "pos": 698,
+    "neg": 393
+  },
+  {
+    "keyword": "有益於健康",
+    "type": "pos",
+    "pos": 88,
+    "neg": 85
+  },
+  {
+    "keyword": "有益健康",
+    "type": "pos",
+    "pos": 698,
+    "neg": 393
+  },
+  {
+    "keyword": "有秩序",
+    "type": "do_judge",
+    "pos": null,
+    "neg": null
+  },
+  {
+    "keyword": "有能力",
+    "type": "do_judge",
+    "pos": null,
+    "neg": null
+  },
+  {
+    "keyword": "有財產",
+    "type": "do_judge",
+    "pos": null,
+    "neg": null
+  },
+  {
+    "keyword": "有教育意義",
+    "type": "do_judge",
+    "pos": null,
+    "neg": null
+  },
+  {
+    "keyword": "有理",
+    "type": "pos",
+    "pos": 196,
+    "neg": 171
+  },
+  {
+    "keyword": "有規矩",
+    "type": "do_judge",
+    "pos": 0,
+    "neg": 0
+  },
+  {
+    "keyword": "有規範",
+    "type": "do_judge",
+    "pos": null,
+    "neg": null
+  },
+  {
+    "keyword": "有責任",
+    "type": "do_judge",
+    "pos": null,
+    "neg": null
+  },
+  {
+    "keyword": "有責任心",
+    "type": "do_judge",
+    "pos": null,
+    "neg": null
+  },
+  {
+    "keyword": "有創造力",
+    "type": "do_judge",
+    "pos": null,
+    "neg": null
+  },
+  {
+    "keyword": "有智慧",
+    "type": "do_judge",
+    "pos": null,
+    "neg": null
+  },
+  {
+    "keyword": "有貴族氣派",
+    "type": "do_judge",
+    "pos": null,
+    "neg": null
+  },
+  {
+    "keyword": "有進取精神",
+    "type": "do_judge",
+    "pos": null,
+    "neg": null
+  },
+  {
+    "keyword": "有雅量",
+    "type": "do_judge",
+    "pos": null,
+    "neg": null
+  },
+  {
+    "keyword": "有勢力",
+    "type": "do_judge",
+    "pos": null,
+    "neg": null
+  },
+  {
+    "keyword": "有幹勁",
+    "type": "do_judge",
+    "pos": 0,
+    "neg": 0
+  },
+  {
+    "keyword": "有意義",
+    "type": "do_judge",
+    "pos": null,
+    "neg": null
+  },
+  {
+    "keyword": "有感覺",
+    "type": "do_judge",
+    "pos": null,
+    "neg": null
+  },
+  {
+    "keyword": "有愛心",
+    "type": "do_judge",
+    "pos": null,
+    "neg": null
+  },
+  {
+    "keyword": "有愛國心",
+    "type": "do_judge",
+    "pos": null,
+    "neg": null
+  },
+  {
+    "keyword": "有節制",
+    "type": "do_judge",
+    "pos": null,
+    "neg": null
+  },
+  {
+    "keyword": "有道德",
+    "type": "do_judge",
+    "pos": null,
+    "neg": null
+  },
+  {
+    "keyword": "有精神",
+    "type": "do_judge",
+    "pos": null,
+    "neg": null
+  },
+  {
+    "keyword": "有說服力",
+    "type": "do_judge",
+    "pos": null,
+    "neg": null
+  },
+  {
+    "keyword": "有價值",
+    "type": "do_judge",
+    "pos": null,
+    "neg": null
+  },
+  {
+    "keyword": "有樂趣",
+    "type": "do_judge",
+    "pos": null,
+    "neg": null
+  },
+  {
+    "keyword": "有確實根據",
+    "type": "do_judge",
+    "pos": null,
+    "neg": null
+  },
+  {
+    "keyword": "有趣",
+    "type": "do_judge",
+    "pos": null,
+    "neg": null
+  },
+  {
+    "keyword": "有魅力",
+    "type": "do_judge",
+    "pos": null,
+    "neg": null
+  },
+  {
+    "keyword": "有錢",
+    "type": "pos",
+    "pos": 1695,
+    "neg": 1209
+  },
+  {
+    "keyword": "有頭腦",
+    "type": "do_judge",
+    "pos": null,
+    "neg": null
+  },
+  {
+    "keyword": "有幫手",
+    "type": "do_judge",
+    "pos": null,
+    "neg": null
+  },
+  {
+    "keyword": "有幫助",
+    "type": "do_judge",
+    "pos": null,
+    "neg": null
+  },
+  {
+    "keyword": "有膽量",
+    "type": "do_judge",
+    "pos": null,
+    "neg": null
+  },
+  {
+    "keyword": "有禮",
+    "type": "do_judge",
+    "pos": 0,
+    "neg": 0
+  },
+  {
+    "keyword": "有禮貌",
+    "type": "do_judge",
+    "pos": null,
+    "neg": null
+  },
+  {
+    "keyword": "有魔力",
+    "type": "do_judge",
+    "pos": null,
+    "neg": null
+  },
+  {
+    "keyword": "有權",
+    "type": "do_judge",
+    "pos": null,
+    "neg": null
+  },
+  {
+    "keyword": "有權力",
+    "type": "do_judge",
+    "pos": null,
+    "neg": null
+  },
+  {
+    "keyword": "有權益",
+    "type": "do_judge",
+    "pos": null,
+    "neg": null
+  },
+  {
+    "keyword": "有權能",
+    "type": "do_judge",
+    "pos": null,
+    "neg": null
+  },
+  {
+    "keyword": "老實",
+    "type": "pos",
+    "pos": 250,
+    "neg": 215
+  },
+  {
+    "keyword": "老練",
+    "type": "do_judge",
+    "pos": 0,
+    "neg": 0
+  },
+  {
+    "keyword": "考慮",
+    "type": "pos",
+    "pos": 9768,
+    "neg": 7053
+  },
+  {
+    "keyword": "自主",
+    "type": "do_judge",
+    "pos": 0,
+    "neg": 0
+  },
+  {
+    "keyword": "自白",
+    "type": "neg",
+    "pos": 160,
+    "neg": 279
+  },
+  {
+    "keyword": "自立",
+    "type": "pos",
+    "pos": 488,
+    "neg": 326
+  },
+  {
+    "keyword": "自在",
+    "type": "pos",
+    "pos": 1564,
+    "neg": 881
+  },
+  {
+    "keyword": "自信",
+    "type": "pos",
+    "pos": 5673,
+    "neg": 3541
+  },
+  {
+    "keyword": "自動",
+    "type": "pos",
+    "pos": 1711,
+    "neg": 854
+  },
+  {
+    "keyword": "自然",
+    "type": "pos",
+    "pos": 8040,
+    "neg": 3867
+  },
+  {
+    "keyword": "自豪",
+    "type": "pos",
+    "pos": 1035,
+    "neg": 612
+  },
+  {
+    "keyword": "自願",
+    "type": "pos",
+    "pos": 1014,
+    "neg": 939
+  },
+  {
+    "keyword": "至上",
+    "type": "pos",
+    "pos": 441,
+    "neg": 271
+  },
+  {
+    "keyword": "至高",
+    "type": "do_judge",
+    "pos": 0,
+    "neg": 0
+  },
+  {
+    "keyword": "至善",
+    "type": "pos",
+    "pos": 37,
+    "neg": 13
+  },
+  {
+    "keyword": "行善",
+    "type": "pos",
+    "pos": 429,
+    "neg": 168
+  },
+  {
+    "keyword": "似天使",
+    "type": "do_judge",
+    "pos": 0,
+    "neg": 0
+  },
+  {
+    "keyword": "似乎有理",
+    "type": "pos",
+    "pos": 196,
+    "neg": 171
+  },
+  {
+    "keyword": "作為獎品",
+    "type": "pos",
+    "pos": 22024,
+    "neg": 13302
+  },
+  {
+    "keyword": "伶俐",
+    "type": "pos",
+    "pos": 73,
+    "neg": 44
+  },
+  {
+    "keyword": "克制",
+    "type": "pos",
+    "pos": 971,
+    "neg": 723
+  },
+  {
+    "keyword": "免除",
+    "type": "do_judge",
+    "pos": 0,
+    "neg": 0
+  },
+  {
+    "keyword": "免費",
+    "type": "pos",
+    "pos": 3950,
+    "neg": 1629
+  },
+  {
+    "keyword": "別緻",
+    "type": "pos",
+    "pos": 144,
+    "neg": 66
+  },
+  {
+    "keyword": "判斷力",
+    "type": "pos",
+    "pos": 322,
+    "neg": 244
+  },
+  {
+    "keyword": "利益",
+    "type": "pos",
+    "pos": 10291,
+    "neg": 7623
+  },
+  {
+    "keyword": "利潤",
+    "type": "pos",
+    "pos": 1472,
+    "neg": 977
+  },
+  {
+    "keyword": "助手",
+    "type": "pos",
+    "pos": 434,
+    "neg": 305
+  },
+  {
+    "keyword": "助長",
+    "type": "pos",
+    "pos": 648,
+    "neg": 523
+  },
+  {
+    "keyword": "助益",
+    "type": "pos",
+    "pos": 1279,
+    "neg": 613
+  },
+  {
+    "keyword": "努力",
+    "type": "pos",
+    "pos": 19022,
+    "neg": 10261
+  },
+  {
+    "keyword": "努力解決",
+    "type": "pos",
+    "pos": 18437,
+    "neg": 12598
+  },
+  {
+    "keyword": "吸引",
+    "type": "pos",
+    "pos": 21105,
+    "neg": 8438
+  },
+  {
+    "keyword": "吸引人",
+    "type": "pos",
+    "pos": 533,
+    "neg": 176
+  },
+  {
+    "keyword": "吸引力",
+    "type": "pos",
+    "pos": 1870,
+    "neg": 1001
+  },
+  {
+    "keyword": "均勻",
+    "type": "pos",
+    "pos": 243,
+    "neg": 109
+  },
+  {
+    "keyword": "均等",
+    "type": "pos",
+    "pos": 69,
+    "neg": 24
+  },
+  {
+    "keyword": "均衡",
+    "type": "pos",
+    "pos": 1195,
+    "neg": 583
+  },
+  {
+    "keyword": "壯麗",
+    "type": "pos",
+    "pos": 328,
+    "neg": 111
+  },
+  {
+    "keyword": "壯麗雄偉",
+    "type": "pos",
+    "pos": 91,
+    "neg": 79
+  },
+  {
+    "keyword": "壯觀",
+    "type": "pos",
+    "pos": 704,
+    "neg": 288
+  },
+  {
+    "keyword": "妙計",
+    "type": "pos",
+    "pos": 14,
+    "neg": 9
+  },
+  {
+    "keyword": "妥當",
+    "type": "pos",
+    "pos": 208,
+    "neg": 160
+  },
+  {
+    "keyword": "孝行",
+    "type": "pos",
+    "pos": 118,
+    "neg": 17
+  },
+  {
+    "keyword": "孝順",
+    "type": "pos",
+    "pos": 1334,
+    "neg": 658
+  },
+  {
+    "keyword": "完成",
+    "type": "pos",
+    "pos": 25383,
+    "neg": 13459
+  },
+  {
+    "keyword": "完美",
+    "type": "pos",
+    "pos": 4684,
+    "neg": 2464
+  },
+  {
+    "keyword": "完整",
+    "type": "pos",
+    "pos": 7073,
+    "neg": 3537
+  },
+  {
+    "keyword": "宏偉",
+    "type": "pos",
+    "pos": 139,
+    "neg": 102
+  },
+  {
+    "keyword": "形影不離",
+    "type": "pos",
+    "pos": 71,
+    "neg": 53
+  },
+  {
+    "keyword": "忘不了",
+    "type": "pos",
+    "pos": 217,
+    "neg": 156
+  },
+  {
+    "keyword": "志哀",
+    "type": "do_judge",
+    "pos": 0,
+    "neg": 0
+  },
+  {
+    "keyword": "志氣",
+    "type": "pos",
+    "pos": 189,
+    "neg": 124
+  },
+  {
+    "keyword": "忍耐力",
+    "type": "neg",
+    "pos": 22,
+    "neg": 23
+  },
+  {
+    "keyword": "快活",
+    "type": "do_judge",
+    "pos": 0,
+    "neg": 0
+  },
+  {
+    "keyword": "快樂主義",
+    "type": "do_judge",
+    "pos": 0,
+    "neg": 0
+  },
+  {
+    "keyword": "快樂主義者",
+    "type": "do_judge",
+    "pos": null,
+    "neg": null
+  },
+  {
+    "keyword": "快樂",
+    "type": "pos",
+    "pos": 9489,
+    "neg": 3016
+  },
+  {
+    "keyword": "快樂論",
+    "type": "pos",
+    "pos": 1203,
+    "neg": 1011
+  },
+  {
+    "keyword": "戒除",
+    "type": "pos",
+    "pos": 125,
+    "neg": 87
+  },
+  {
+    "keyword": "技巧",
+    "type": "pos",
+    "pos": 3467,
+    "neg": 1809
+  },
+  {
+    "keyword": "把握",
+    "type": "pos",
+    "pos": 5919,
+    "neg": 2763
+  },
+  {
+    "keyword": "批准",
+    "type": "pos",
+    "pos": 1293,
+    "neg": 955
+  },
+  {
+    "keyword": "抒情",
+    "type": "pos",
+    "pos": 282,
+    "neg": 153
+  },
+  {
+    "keyword": "改良",
+    "type": "pos",
+    "pos": 836,
+    "neg": 413
+  },
+  {
+    "keyword": "改革",
+    "type": "do_judge",
+    "pos": 0,
+    "neg": 0
+  },
+  {
+    "keyword": "改善",
+    "type": "pos",
+    "pos": 12545,
+    "neg": 8032
+  },
+  {
+    "keyword": "改進",
+    "type": "pos",
+    "pos": 1381,
+    "neg": 1001
+  },
+  {
+    "keyword": "攻讀",
+    "type": "pos",
+    "pos": 689,
+    "neg": 377
+  },
+  {
+    "keyword": "沈著",
+    "type": "pos",
+    "pos": 28,
+    "neg": 3
+  },
+  {
+    "keyword": "決心",
+    "type": "pos",
+    "pos": 5749,
+    "neg": 3845
+  },
+  {
+    "keyword": "決定",
+    "type": "do_judge",
+    "pos": 0,
+    "neg": 0
+  },
+  {
+    "keyword": "決斷",
+    "type": "pos",
+    "pos": 262,
+    "neg": 175
+  },
+  {
+    "keyword": "決斷力",
+    "type": "pos",
+    "pos": 38,
+    "neg": 26
+  },
+  {
+    "keyword": "衝勁",
+    "type": "pos",
+    "pos": 373,
+    "neg": 194
+  },
+  {
+    "keyword": "牢固",
+    "type": "pos",
+    "pos": 67,
+    "neg": 40
+  },
+  {
+    "keyword": "牢靠",
+    "type": "pos",
+    "pos": 66,
+    "neg": 53
+  },
+  {
+    "keyword": "狂喜",
+    "type": "do_judge",
+    "pos": 0,
+    "neg": 0
+  },
+  {
+    "keyword": "狂熱",
+    "type": "do_judge",
+    "pos": 0,
+    "neg": 0
+  },
+  {
+    "keyword": "狂熱讚揚",
+    "type": "pos",
+    "pos": 553,
+    "neg": 338
+  },
+  {
+    "keyword": "狂歡",
+    "type": "pos",
+    "pos": 441,
+    "neg": 155
+  },
+  {
+    "keyword": "罕見",
+    "type": "do_judge",
+    "pos": 0,
+    "neg": 0
+  },
+  {
+    "keyword": "良心",
+    "type": "pos",
+    "pos": 1235,
+    "neg": 1214
+  },
+  {
+    "keyword": "良好",
+    "type": "do_judge",
+    "pos": 0,
+    "neg": 0
+  },
+  {
+    "keyword": "良性",
+    "type": "pos",
+    "pos": 791,
+    "neg": 483
+  },
+  {
+    "keyword": "足夠",
+    "type": "pos",
+    "pos": 3883,
+    "neg": 2575
+  },
+  {
+    "keyword": "足智多謀",
+    "type": "pos",
+    "pos": 21,
+    "neg": 9
+  },
+  {
+    "keyword": "迅速",
+    "type": "pos",
+    "pos": 1218,
+    "neg": 789
+  },
+  {
+    "keyword": "防止",
+    "type": "do_judge",
+    "pos": 0,
+    "neg": 0
+  },
+  {
+    "keyword": "防水",
+    "type": "pos",
+    "pos": 713,
+    "neg": 238
+  },
+  {
+    "keyword": "防備",
+    "type": "pos",
+    "pos": 238,
+    "neg": 202
+  },
+  {
+    "keyword": "事跡",
+    "type": "neg",
+    "pos": 89,
+    "neg": 125
+  },
+  {
+    "keyword": "享有",
+    "type": "pos",
+    "pos": 5058,
+    "neg": 2174
+  },
+  {
+    "keyword": "享受",
+    "type": "pos",
+    "pos": 12936,
+    "neg": 4816
+  },
+  {
+    "keyword": "使人信服",
+    "type": "pos",
+    "pos": 18434,
+    "neg": 12667
+  },
+  {
+    "keyword": "使人首肯",
+    "type": "pos",
+    "pos": 18434,
+    "neg": 12667
+  },
+  {
+    "keyword": "使人敬畏",
+    "type": "pos",
+    "pos": 18434,
+    "neg": 12667
+  },
+  {
+    "keyword": "使平坦",
+    "type": "pos",
+    "pos": 18434,
+    "neg": 12667
+  },
+  {
+    "keyword": "使平靜",
+    "type": "do_judge",
+    "pos": 0,
+    "neg": 0
+  },
+  {
+    "keyword": "使平靜下來",
+    "type": "pos",
+    "pos": 18434,
+    "neg": 12667
+  },
+  {
+    "keyword": "使用方便",
+    "type": "do_judge",
+    "pos": 0,
+    "neg": 0
+  },
+  {
+    "keyword": "使安靜",
+    "type": "do_judge",
+    "pos": 0,
+    "neg": 0
+  },
+  {
+    "keyword": "使免除",
+    "type": "pos",
+    "pos": 18434,
+    "neg": 12667
+  },
+  {
+    "keyword": "使固定",
+    "type": "pos",
+    "pos": 18434,
+    "neg": 12667
+  },
+  {
+    "keyword": "使相等",
+    "type": "pos",
+    "pos": 18434,
+    "neg": 12667
+  },
+  {
+    "keyword": "使涼快",
+    "type": "pos",
+    "pos": 18434,
+    "neg": 12667
+  },
+  {
+    "keyword": "使陶醉",
+    "type": "pos",
+    "pos": 18434,
+    "neg": 12667
+  },
+  {
+    "keyword": "使精細",
+    "type": "pos",
+    "pos": 18434,
+    "neg": 12667
+  },
+  {
+    "keyword": "使緩和",
+    "type": "pos",
+    "pos": 18434,
+    "neg": 12667
+  },
+  {
+    "keyword": "使醉心",
+    "type": "pos",
+    "pos": 18434,
+    "neg": 12667
+  },
+  {
+    "keyword": "供娛樂用",
+    "type": "pos",
+    "pos": 6780,
+    "neg": 3320
+  },
+  {
+    "keyword": "典雅",
+    "type": "pos",
+    "pos": 485,
+    "neg": 226
+  },
+  {
+    "keyword": "刻苦",
+    "type": "do_judge",
+    "pos": 0,
+    "neg": 0
+  },
+  {
+    "keyword": "協力",
+    "type": "do_judge",
+    "pos": 0,
+    "neg": 0
+  },
+  {
+    "keyword": "協作",
+    "type": "pos",
+    "pos": 470,
+    "neg": 202
+  },
+  {
+    "keyword": "協助",
+    "type": "pos",
+    "pos": 22802,
+    "neg": 12386
+  },
+  {
+    "keyword": "協調",
+    "type": "pos",
+    "pos": 4495,
+    "neg": 2957
+  },
+  {
+    "keyword": "卓越",
+    "type": "pos",
+    "pos": 1482,
+    "neg": 376
+  },
+  {
+    "keyword": "取悅",
+    "type": "pos",
+    "pos": 256,
+    "neg": 143
+  },
+  {
+    "keyword": "受大眾歡迎",
+    "type": "pos",
+    "pos": 15585,
+    "neg": 6437
+  },
+  {
+    "keyword": "受鍾愛",
+    "type": "pos",
+    "pos": 27884,
+    "neg": 18007
+  },
+  {
+    "keyword": "受歡迎",
+    "type": "pos",
+    "pos": 27884,
+    "neg": 18007
+  },
+  {
+    "keyword": "和平",
+    "type": "pos",
+    "pos": 6114,
+    "neg": 4013
+  },
+  {
+    "keyword": "和睦",
+    "type": "pos",
+    "pos": 182,
+    "neg": 87
+  },
+  {
+    "keyword": "和諧",
+    "type": "pos",
+    "pos": 1792,
+    "neg": 972
+  },
+  {
+    "keyword": "和藹",
+    "type": "pos",
+    "pos": 52,
+    "neg": 21
+  },
+  {
+    "keyword": "和藹可親",
+    "type": "pos",
+    "pos": 49,
+    "neg": 24
+  },
+  {
+    "keyword": "周到",
+    "type": "pos",
+    "pos": 189,
+    "neg": 121
+  },
+  {
+    "keyword": "固守",
+    "type": "pos",
+    "pos": 217,
+    "neg": 164
+  },
+  {
+    "keyword": "固定",
+    "type": "pos",
+    "pos": 4633,
+    "neg": 2738
+  },
+  {
+    "keyword": "坦白",
+    "type": "neg",
+    "pos": 225,
+    "neg": 243
+  },
+  {
+    "keyword": "坦直",
+    "type": "pos",
+    "pos": 9,
+    "neg": 4
+  },
+  {
+    "keyword": "坦率",
+    "type": "pos",
+    "pos": 67,
+    "neg": 51
+  },
+  {
+    "keyword": "奇妙",
+    "type": "pos",
+    "pos": 654,
+    "neg": 427
+  },
+  {
+    "keyword": "奇異",
+    "type": "pos",
+    "pos": 455,
+    "neg": 332
+  },
+  {
+    "keyword": "奇跡",
+    "type": "pos",
+    "pos": 25,
+    "neg": 15
+  },
+  {
+    "keyword": "宜人",
+    "type": "do_judge",
+    "pos": 0,
+    "neg": 0
+  },
+  {
+    "keyword": "尚好",
+    "type": "pos",
+    "pos": 79852,
+    "neg": 50933
+  },
+  {
+    "keyword": "幸運",
+    "type": "pos",
+    "pos": 4369,
+    "neg": 2351
+  },
+  {
+    "keyword": "幸福",
+    "type": "do_judge",
+    "pos": 0,
+    "neg": 0
+  },
+  {
+    "keyword": "征服",
+    "type": "pos",
+    "pos": 784,
+    "neg": 489
+  },
+  {
+    "keyword": "忠心",
+    "type": "pos",
+    "pos": 154,
+    "neg": 117
+  },
+  {
+    "keyword": "忠貞",
+    "type": "pos",
+    "pos": 201,
+    "neg": 173
+  },
+  {
+    "keyword": "忠誠",
+    "type": "pos",
+    "pos": 568,
+    "neg": 350
+  },
+  {
+    "keyword": "承認",
+    "type": "pos",
+    "pos": 6457,
+    "neg": 5797
+  },
+  {
+    "keyword": "承諾",
+    "type": "pos",
+    "pos": 9574,
+    "neg": 6786
+  },
+  {
+    "keyword": "招待",
+    "type": "pos",
+    "pos": 1099,
+    "neg": 600
+  },
+  {
+    "keyword": "招待周到",
+    "type": "pos",
+    "pos": 1099,
+    "neg": 600
+  },
+  {
+    "keyword": "放下武器",
+    "type": "pos",
+    "pos": 3758,
+    "neg": 3065
+  },
+  {
+    "keyword": "放心",
+    "type": "pos",
+    "pos": 5079,
+    "neg": 2296
+  },
+  {
+    "keyword": "易控制",
+    "type": "pos",
+    "pos": 8920,
+    "neg": 6713
+  },
+  {
+    "keyword": "易理解",
+    "type": "pos",
+    "pos": 8236,
+    "neg": 6405
+  },
+  {
+    "keyword": "易管理",
+    "type": "pos",
+    "pos": 13401,
+    "neg": 7135
+  },
+  {
+    "keyword": "易辦",
+    "type": "do_judge",
+    "pos": 0,
+    "neg": 0
+  },
+  {
+    "keyword": "易懂",
+    "type": "pos",
+    "pos": 281,
+    "neg": 161
+  },
+  {
+    "keyword": "昌盛",
+    "type": "pos",
+    "pos": 44,
+    "neg": 27
+  },
+  {
+    "keyword": "明瞭",
+    "type": "pos",
+    "pos": 416,
+    "neg": 294
+  },
+  {
+    "keyword": "明白",
+    "type": "do_judge",
+    "pos": 0,
+    "neg": 0
+  },
+  {
+    "keyword": "明亮",
+    "type": "pos",
+    "pos": 1012,
+    "neg": 445
+  },
+  {
+    "keyword": "明亮照耀",
+    "type": "pos",
+    "pos": 143,
+    "neg": 78
+  },
+  {
+    "keyword": "明理",
+    "type": "neg",
+    "pos": 16,
+    "neg": 18
+  },
+  {
+    "keyword": "明晰",
+    "type": "neg",
+    "pos": 35,
+    "neg": 49
+  },
+  {
+    "keyword": "明智",
+    "type": "pos",
+    "pos": 262,
+    "neg": 216
+  },
+  {
+    "keyword": "明確",
+    "type": "pos",
+    "pos": 3939,
+    "neg": 2717
+  },
+  {
+    "keyword": "明顯",
+    "type": "pos",
+    "pos": 8183,
+    "neg": 6154
+  },
+  {
+    "keyword": "服從",
+    "type": "pos",
+    "pos": 585,
+    "neg": 562
+  },
+  {
+    "keyword": "欣喜",
+    "type": "pos",
+    "pos": 436,
+    "neg": 199
+  },
+  {
+    "keyword": "欣然",
+    "type": "pos",
+    "pos": 37,
+    "neg": 14
+  },
+  {
+    "keyword": "欣賞",
+    "type": "pos",
+    "pos": 10035,
+    "neg": 2701
+  },
+  {
+    "keyword": "注目",
+    "type": "pos",
+    "pos": 713,
+    "neg": 399
+  },
+  {
+    "keyword": "注重實際",
+    "type": "pos",
+    "pos": 4042,
+    "neg": 1193
+  },
+  {
+    "keyword": "注意",
+    "type": "pos",
+    "pos": 25714,
+    "neg": 8962
+  },
+  {
+    "keyword": "法定",
+    "type": "do_judge",
+    "pos": 0,
+    "neg": 0
+  },
+  {
+    "keyword": "法律",
+    "type": "pos",
+    "pos": 10166,
+    "neg": 8737
+  },
+  {
+    "keyword": "治療",
+    "type": "pos",
+    "pos": 6911,
+    "neg": 6706
+  },
+  {
+    "keyword": "物廉價美",
+    "type": "pos",
+    "pos": 3,
+    "neg": 0
+  },
+  {
+    "keyword": "直言不諱",
+    "type": "do_judge",
+    "pos": 0,
+    "neg": 0
+  },
+  {
+    "keyword": "直率",
+    "type": "pos",
+    "pos": 240,
+    "neg": 135
+  },
+  {
+    "keyword": "直截了當",
+    "type": "neg",
+    "pos": 0,
+    "neg": 1
+  },
+  {
+    "keyword": "直覺",
+    "type": "pos",
+    "pos": 1405,
+    "neg": 961
+  },
+  {
+    "keyword": "知足",
+    "type": "pos",
+    "pos": 269,
+    "neg": 99
+  },
+  {
+    "keyword": "知性",
+    "type": "pos",
+    "pos": 393,
+    "neg": 123
+  },
+  {
+    "keyword": "知恩",
+    "type": "pos",
+    "pos": 9,
+    "neg": 2
+  },
+  {
+    "keyword": "知罪",
+    "type": "do_judge",
+    "pos": 0,
+    "neg": 0
+  },
+  {
+    "keyword": "知道",
+    "type": "pos",
+    "pos": 39921,
+    "neg": 34411
+  },
+  {
+    "keyword": "知覺",
+    "type": "pos",
+    "pos": 262,
+    "neg": 225
+  },
+  {
+    "keyword": "肥沃",
+    "type": "pos",
+    "pos": 79,
+    "neg": 37
+  },
+  {
+    "keyword": "肯定",
+    "type": "pos",
+    "pos": 21805,
+    "neg": 7022
+  },
+  {
+    "keyword": "肯定詞",
+    "type": "pos",
+    "pos": 21805,
+    "neg": 7022
+  },
+  {
+    "keyword": "肯定語",
+    "type": "pos",
+    "pos": 21805,
+    "neg": 7022
+  },
+  {
+    "keyword": "肯順從",
+    "type": "pos",
+    "pos": 1640,
+    "neg": 1415
+  },
+  {
+    "keyword": "芳香",
+    "type": "pos",
+    "pos": 198,
+    "neg": 71
+  },
+  {
+    "keyword": "芬芳",
+    "type": "pos",
+    "pos": 140,
+    "neg": 62
+  },
+  {
+    "keyword": "表示贊成",
+    "type": "do_judge",
+    "pos": null,
+    "neg": null
+  },
+  {
+    "keyword": "表現突出",
+    "type": "pos",
+    "pos": 24430,
+    "neg": 14791
+  },
+  {
+    "keyword": "表揚",
+    "type": "pos",
+    "pos": 2241,
+    "neg": 679
+  },
+  {
+    "keyword": "長處",
+    "type": "pos",
+    "pos": 163,
+    "neg": 96
+  },
+  {
+    "keyword": "非凡",
+    "type": "pos",
+    "pos": 1165,
+    "neg": 405
+  },
+  {
+    "keyword": "非常大方",
+    "type": "pos",
+    "pos": 1217,
+    "neg": 662
+  },
+  {
+    "keyword": "非常合適",
+    "type": "pos",
+    "pos": 2042,
+    "neg": 1159
+  },
+  {
+    "keyword": "信心",
+    "type": "do_judge",
+    "pos": 0,
+    "neg": 0
+  },
+  {
+    "keyword": "信用",
+    "type": "pos",
+    "pos": 1454,
+    "neg": 850
+  },
+  {
+    "keyword": "信任",
+    "type": "pos",
+    "pos": 4584,
+    "neg": 3602
+  },
+  {
+    "keyword": "信服",
+    "type": "pos",
+    "pos": 350,
+    "neg": 294
+  },
+  {
+    "keyword": "信實",
+    "type": "pos",
+    "pos": 33,
+    "neg": 7
+  },
+  {
+    "keyword": "信賴",
+    "type": "pos",
+    "pos": 1666,
+    "neg": 850
+  },
+  {
+    "keyword": "便利",
+    "type": "pos",
+    "pos": 3857,
+    "neg": 1208
+  },
+  {
+    "keyword": "便宜",
+    "type": "pos",
+    "pos": 2969,
+    "neg": 1855
+  },
+  {
+    "keyword": "俠義",
+    "type": "pos",
+    "pos": 35,
+    "neg": 33
+  },
+  {
+    "keyword": "保密",
+    "type": "pos",
+    "pos": 740,
+    "neg": 541
+  },
+  {
+    "keyword": "保證",
+    "type": "pos",
+    "pos": 61486,
+    "neg": 47735
+  },
+  {
+    "keyword": "保釋",
+    "type": "neg",
+    "pos": 201,
+    "neg": 230
+  },
+  {
+    "keyword": "保護",
+    "type": "pos",
+    "pos": 14126,
+    "neg": 10063
+  },
+  {
+    "keyword": "促成",
+    "type": "pos",
+    "pos": 2662,
+    "neg": 1367
+  },
+  {
+    "keyword": "促進",
+    "type": "pos",
+    "pos": 7313,
+    "neg": 2696
+  },
+  {
+    "keyword": "俘獲",
+    "type": "pos",
+    "pos": 22,
+    "neg": 18
+  },
+  {
+    "keyword": "冠軍",
+    "type": "pos",
+    "pos": 8066,
+    "neg": 4103
+  },
+  {
+    "keyword": "前進",
+    "type": "pos",
+    "pos": 5436,
+    "neg": 2715
+  },
+  {
+    "keyword": "勇氣",
+    "type": "pos",
+    "pos": 4253,
+    "neg": 3334
+  },
+  {
+    "keyword": "勇猛",
+    "type": "pos",
+    "pos": 62,
+    "neg": 61
+  },
+  {
+    "keyword": "厚道",
+    "type": "neg",
+    "pos": 57,
+    "neg": 77
+  },
+  {
+    "keyword": "品行",
+    "type": "neg",
+    "pos": 164,
+    "neg": 183
+  },
+  {
+    "keyword": "品行端正",
+    "type": "pos",
+    "pos": 161,
+    "neg": 111
+  },
+  {
+    "keyword": "品味",
+    "type": "pos",
+    "pos": 2212,
+    "neg": 683
+  },
+  {
+    "keyword": "品性端正",
+    "type": "do_judge",
+    "pos": 0,
+    "neg": 0
+  },
+  {
+    "keyword": "威嚴",
+    "type": "pos",
+    "pos": 141,
+    "neg": 81
+  },
+  {
+    "keyword": "客氣",
+    "type": "neg",
+    "pos": 604,
+    "neg": 648
+  },
+  {
+    "keyword": "幽默感",
+    "type": "pos",
+    "pos": 272,
+    "neg": 177
+  },
+  {
+    "keyword": "建設",
+    "type": "pos",
+    "pos": 10725,
+    "neg": 5031
+  },
+  {
+    "keyword": "很多",
+    "type": "pos",
+    "pos": 38475,
+    "neg": 27252
+  },
+  {
+    "keyword": "很好",
+    "type": "pos",
+    "pos": 79852,
+    "neg": 50933
+  },
+  {
+    "keyword": "很棒",
+    "type": "pos",
+    "pos": 5263,
+    "neg": 2863
+  },
+  {
+    "keyword": "待人如友",
+    "type": "pos",
+    "pos": 117,
+    "neg": 84
+  },
+  {
+    "keyword": "思考",
+    "type": "pos",
+    "pos": 11043,
+    "neg": 6946
+  },
+  {
+    "keyword": "恰好",
+    "type": "pos",
+    "pos": 25,
+    "neg": 11
+  },
+  {
+    "keyword": "恰當",
+    "type": "pos",
+    "pos": 550,
+    "neg": 515
+  },
+  {
+    "keyword": "恆久",
+    "type": "pos",
+    "pos": 73,
+    "neg": 60
+  },
+  {
+    "keyword": "恆久不變",
+    "type": "pos",
+    "pos": 2505,
+    "neg": 1571
+  },
+  {
+    "keyword": "恆心",
+    "type": "pos",
+    "pos": 76,
+    "neg": 59
+  },
+  {
+    "keyword": "持久",
+    "type": "pos",
+    "pos": 530,
+    "neg": 302
+  },
+  {
+    "keyword": "指望",
+    "type": "pos",
+    "pos": 263,
+    "neg": 261
+  },
+  {
+    "keyword": "施捨",
+    "type": "pos",
+    "pos": 61,
+    "neg": 55
+  },
+  {
+    "keyword": "施捨慷慨",
+    "type": "pos",
+    "pos": 61,
+    "neg": 55
+  },
+  {
+    "keyword": "柔和",
+    "type": "pos",
+    "pos": 357,
+    "neg": 131
+  },
+  {
+    "keyword": "柔軟",
+    "type": "pos",
+    "pos": 1098,
+    "neg": 576
+  },
+  {
+    "keyword": "洋洋",
+    "type": "pos",
+    "pos": 21,
+    "neg": 13
+  },
+  {
+    "keyword": "洋溢",
+    "type": "pos",
+    "pos": 1361,
+    "neg": 360
+  },
+  {
+    "keyword": "洋溢著幸福",
+    "type": "pos",
+    "pos": 1361,
+    "neg": 360
+  },
+  {
+    "keyword": "流行",
+    "type": "pos",
+    "pos": 4251,
+    "neg": 2067
+  },
+  {
+    "keyword": "流利",
+    "type": "pos",
+    "pos": 572,
+    "neg": 332
+  },
+  {
+    "keyword": "流暢",
+    "type": "pos",
+    "pos": 543,
+    "neg": 219
+  },
+  {
+    "keyword": "活著",
+    "type": "pos",
+    "pos": 4842,
+    "neg": 3819
+  },
+  {
+    "keyword": "為榮",
+    "type": "pos",
+    "pos": 596,
+    "neg": 294
+  },
+  {
+    "keyword": "為懷",
+    "type": "do_judge",
+    "pos": null,
+    "neg": null
+  },
+  {
+    "keyword": "珍貴",
+    "type": "pos",
+    "pos": 2918,
+    "neg": 1440
+  },
+  {
+    "keyword": "珍愛",
+    "type": "pos",
+    "pos": 399,
+    "neg": 114
+  },
+  {
+    "keyword": "相宜",
+    "type": "pos",
+    "pos": 106,
+    "neg": 22
+  },
+  {
+    "keyword": "相信",
+    "type": "pos",
+    "pos": 20679,
+    "neg": 15209
+  },
+  {
+    "keyword": "相容",
+    "type": "pos",
+    "pos": 288,
+    "neg": 117
+  },
+  {
+    "keyword": "相等",
+    "type": "pos",
+    "pos": 82,
+    "neg": 26
+  },
+  {
+    "keyword": "相稱",
+    "type": "pos",
+    "pos": 103,
+    "neg": 98
+  },
+  {
+    "keyword": "盼望",
+    "type": "pos",
+    "pos": 909,
+    "neg": 636
+  },
+  {
+    "keyword": "突出",
+    "type": "pos",
+    "pos": 1259,
+    "neg": 707
+  },
+  {
+    "keyword": "紅潤",
+    "type": "pos",
+    "pos": 189,
+    "neg": 89
+  },
+  {
+    "keyword": "紀念",
+    "type": "do_judge",
+    "pos": 0,
+    "neg": 0
+  },
+  {
+    "keyword": "約定",
+    "type": "pos",
+    "pos": 1455,
+    "neg": 1133
+  },
+  {
+    "keyword": "美人",
+    "type": "pos",
+    "pos": 569,
+    "neg": 316
+  },
+  {
+    "keyword": "美化",
+    "type": "pos",
+    "pos": 961,
+    "neg": 497
+  },
+  {
+    "keyword": "美好",
+    "type": "pos",
+    "pos": 8157,
+    "neg": 3404
+  },
+  {
+    "keyword": "美妙",
+    "type": "pos",
+    "pos": 464,
+    "neg": 187
+  },
+  {
+    "keyword": "美味",
+    "type": "pos",
+    "pos": 3756,
+    "neg": 983
+  },
+  {
+    "keyword": "美麗",
+    "type": "pos",
+    "pos": 5717,
+    "neg": 2466
+  },
+  {
+    "keyword": "耐用",
+    "type": "pos",
+    "pos": 232,
+    "neg": 59
+  },
+  {
+    "keyword": "耐性",
+    "type": "pos",
+    "pos": 668,
+    "neg": 450
+  },
+  {
+    "keyword": "耐勞",
+    "type": "pos",
+    "pos": 35,
+    "neg": 17
+  },
+  {
+    "keyword": "致富",
+    "type": "pos",
+    "pos": 208,
+    "neg": 150
+  },
+  {
+    "keyword": "致意",
+    "type": "pos",
+    "pos": 1082,
+    "neg": 631
+  },
+  {
+    "keyword": "苦思",
+    "type": "pos",
+    "pos": 193,
+    "neg": 93
+  },
+  {
+    "keyword": "苦修",
+    "type": "pos",
+    "pos": 9,
+    "neg": 3
+  },
+  {
+    "keyword": "茂盛",
+    "type": "do_judge",
+    "pos": 0,
+    "neg": 0
+  },
+  {
+    "keyword": "英明",
+    "type": "pos",
+    "pos": 124,
+    "neg": 85
+  },
+  {
+    "keyword": "英俊",
+    "type": "pos",
+    "pos": 82,
+    "neg": 35
+  },
+  {
+    "keyword": "英勇",
+    "type": "pos",
+    "pos": 282,
+    "neg": 242
+  },
+  {
+    "keyword": "英雄",
+    "type": "pos",
+    "pos": 3205,
+    "neg": 2020
+  },
+  {
+    "keyword": "英雄式",
+    "type": "pos",
+    "pos": 58,
+    "neg": 38
+  },
+  {
+    "keyword": "茁壯",
+    "type": "pos",
+    "pos": 606,
+    "neg": 269
+  },
+  {
+    "keyword": "茁壯成長",
+    "type": "do_judge",
+    "pos": 0,
+    "neg": 0
+  },
+  {
+    "keyword": "要緊",
+    "type": "pos",
+    "pos": 234,
+    "neg": 217
+  },
+  {
+    "keyword": "貞潔",
+    "type": "neg",
+    "pos": 7,
+    "neg": 19
+  },
+  {
+    "keyword": "負有",
+    "type": "pos",
+    "pos": 229,
+    "neg": 163
+  },
+  {
+    "keyword": "負有義務",
+    "type": "pos",
+    "pos": 229,
+    "neg": 163
+  },
+  {
+    "keyword": "負責",
+    "type": "pos",
+    "pos": 10248,
+    "neg": 7588
+  },
+  {
+    "keyword": "重大",
+    "type": "pos",
+    "pos": 10008,
+    "neg": 6964
+  },
+  {
+    "keyword": "重要",
+    "type": "pos",
+    "pos": 42509,
+    "neg": 23606
+  },
+  {
+    "keyword": "重視",
+    "type": "pos",
+    "pos": 19468,
+    "neg": 6001
+  },
+  {
+    "keyword": "革命",
+    "type": "pos",
+    "pos": 2381,
+    "neg": 1757
+  },
+  {
+    "keyword": "革新",
+    "type": "pos",
+    "pos": 470,
+    "neg": 218
+  },
+  {
+    "keyword": "音樂",
+    "type": "pos",
+    "pos": 11329,
+    "neg": 5123
+  },
+  {
+    "keyword": "風度",
+    "type": "pos",
+    "pos": 701,
+    "neg": 526
+  },
+  {
+    "keyword": "飛黃騰達",
+    "type": "pos",
+    "pos": 21,
+    "neg": 18
+  },
+  {
+    "keyword": "首位",
+    "type": "pos",
+    "pos": 2426,
+    "neg": 1408
+  },
+  {
+    "keyword": "首肯",
+    "type": "pos",
+    "pos": 131,
+    "neg": 53
+  },
+  {
+    "keyword": "值得",
+    "type": "pos",
+    "pos": 5121,
+    "neg": 2737
+  },
+  {
+    "keyword": "值得注意",
+    "type": "pos",
+    "pos": 25714,
+    "neg": 8962
+  },
+  {
+    "keyword": "值得信賴",
+    "type": "pos",
+    "pos": 5121,
+    "neg": 2737
+  },
+  {
+    "keyword": "值得紀念",
+    "type": "pos",
+    "pos": 4831,
+    "neg": 2084
+  },
+  {
+    "keyword": "值得崇拜",
+    "type": "pos",
+    "pos": 1223,
+    "neg": 648
+  },
+  {
+    "keyword": "值得接受",
+    "type": "pos",
+    "pos": 30571,
+    "neg": 24031
+  },
+  {
+    "keyword": "值得尊重",
+    "type": "do_judge",
+    "pos": 0,
+    "neg": 0
+  },
+  {
+    "keyword": "值得尊敬",
+    "type": "pos",
+    "pos": 5121,
+    "neg": 2737
+  },
+  {
+    "keyword": "值得稱讚",
+    "type": "pos",
+    "pos": 4080,
+    "neg": 2432
+  },
+  {
+    "keyword": "值得擁有",
+    "type": "pos",
+    "pos": 23085,
+    "neg": 11571
+  },
+  {
+    "keyword": "值得嚮往",
+    "type": "pos",
+    "pos": 1457,
+    "neg": 727
+  },
+  {
+    "keyword": "值得讚美",
+    "type": "pos",
+    "pos": 767,
+    "neg": 527
+  },
+  {
+    "keyword": "值得讚揚",
+    "type": "pos",
+    "pos": 553,
+    "neg": 338
+  },
+  {
+    "keyword": "值錢",
+    "type": "pos",
+    "pos": 176,
+    "neg": 160
+  },
+  {
+    "keyword": "修理",
+    "type": "neg",
+    "pos": 591,
+    "neg": 615
+  },
+  {
+    "keyword": "倫理",
+    "type": "pos",
+    "pos": 1207,
+    "neg": 848
+  },
+  {
+    "keyword": "剛毅",
+    "type": "pos",
+    "pos": 34,
+    "neg": 16
+  },
+  {
+    "keyword": "哲人",
+    "type": "neg",
+    "pos": 28,
+    "neg": 31
+  },
+  {
+    "keyword": "娛樂",
+    "type": "pos",
+    "pos": 4910,
+    "neg": 2619
+  },
+  {
+    "keyword": "容光",
+    "type": "do_judge",
+    "pos": 0,
+    "neg": 0
+  },
+  {
+    "keyword": "容光煥發",
+    "type": "pos",
+    "pos": 47,
+    "neg": 26
+  },
+  {
+    "keyword": "容忍",
+    "type": "pos",
+    "pos": 1118,
+    "neg": 998
+  },
+  {
+    "keyword": "容易",
+    "type": "pos",
+    "pos": 8153,
+    "neg": 5404
+  },
+  {
+    "keyword": "容易親近",
+    "type": "do_judge",
+    "pos": 0,
+    "neg": 0
+  },
+  {
+    "keyword": "恭喜",
+    "type": "pos",
+    "pos": 1434,
+    "neg": 756
+  },
+  {
+    "keyword": "恭敬",
+    "type": "pos",
+    "pos": 128,
+    "neg": 65
+  },
+  {
+    "keyword": "恭維",
+    "type": "pos",
+    "pos": 151,
+    "neg": 135
+  },
+  {
+    "keyword": "恩人",
+    "type": "do_judge",
+    "pos": 0,
+    "neg": 0
+  },
+  {
+    "keyword": "恩惠",
+    "type": "pos",
+    "pos": 62,
+    "neg": 45
+  },
+  {
+    "keyword": "悔改",
+    "type": "neg",
+    "pos": 155,
+    "neg": 215
+  },
+  {
+    "keyword": "悔悟",
+    "type": "do_judge",
+    "pos": 0,
+    "neg": 0
+  },
+  {
+    "keyword": "悅耳",
+    "type": "pos",
+    "pos": 87,
+    "neg": 34
+  },
+  {
+    "keyword": "捐贈",
+    "type": "pos",
+    "pos": 3507,
+    "neg": 803
+  },
+  {
+    "keyword": "捐獻",
+    "type": "pos",
+    "pos": 164,
+    "neg": 81
+  },
+  {
+    "keyword": "效能",
+    "type": "pos",
+    "pos": 1937,
+    "neg": 632
+  },
+  {
+    "keyword": "效率",
+    "type": "pos",
+    "pos": 6018,
+    "neg": 2923
+  },
+  {
+    "keyword": "時髦",
+    "type": "pos",
+    "pos": 492,
+    "neg": 167
+  },
+  {
+    "keyword": "時機",
+    "type": "pos",
+    "pos": 4496,
+    "neg": 2643
+  },
+  {
+    "keyword": "時機成熟",
+    "type": "pos",
+    "pos": 4250,
+    "neg": 2311
+  },
+  {
+    "keyword": "時機適宜",
+    "type": "pos",
+    "pos": 384,
+    "neg": 142
+  },
+  {
+    "keyword": "根除",
+    "type": "neg",
+    "pos": 105,
+    "neg": 108
+  },
+  {
+    "keyword": "慇勤",
+    "type": "do_judge",
+    "pos": 1,
+    "neg": 1
+  },
+  {
+    "keyword": "氣派",
+    "type": "pos",
+    "pos": 258,
+    "neg": 103
+  },
+  {
+    "keyword": "浪漫",
+    "type": "pos",
+    "pos": 4355,
+    "neg": 1660
+  },
+  {
+    "keyword": "消退",
+    "type": "neg",
+    "pos": 349,
+    "neg": 352
+  },
+  {
+    "keyword": "消除",
+    "type": "pos",
+    "pos": 1475,
+    "neg": 1236
+  },
+  {
+    "keyword": "消散",
+    "type": "pos",
+    "pos": 262,
+    "neg": 223
+  },
+  {
+    "keyword": "消遣",
+    "type": "pos",
+    "pos": 245,
+    "neg": 176
+  },
+  {
+    "keyword": "特大",
+    "type": "pos",
+    "pos": 80,
+    "neg": 36
+  },
+  {
+    "keyword": "特色",
+    "type": "pos",
+    "pos": 13008,
+    "neg": 3927
+  },
+  {
+    "keyword": "特別",
+    "type": "pos",
+    "pos": 20624,
+    "neg": 10533
+  },
+  {
+    "keyword": "特級",
+    "type": "pos",
+    "pos": 75,
+    "neg": 5
+  },
+  {
+    "keyword": "特許",
+    "type": "pos",
+    "pos": 162,
+    "neg": 111
+  },
+  {
+    "keyword": "留心",
+    "type": "do_judge",
+    "pos": 0,
+    "neg": 0
+  },
+  {
+    "keyword": "留神",
+    "type": "pos",
+    "pos": 93,
+    "neg": 67
+  },
+  {
+    "keyword": "留情",
+    "type": "do_judge",
+    "pos": 0,
+    "neg": 0
+  },
+  {
+    "keyword": "留意",
+    "type": "pos",
+    "pos": 9101,
+    "neg": 2313
+  },
+  {
+    "keyword": "疼愛",
+    "type": "pos",
+    "pos": 1241,
+    "neg": 609
+  },
+  {
+    "keyword": "真正",
+    "type": "pos",
+    "pos": 7044,
+    "neg": 5542
+  },
+  {
+    "keyword": "真確",
+    "type": "pos",
+    "pos": 28,
+    "neg": 19
+  },
+  {
+    "keyword": "神志正常",
+    "type": "pos",
+    "pos": 6193,
+    "neg": 5683
+  },
+  {
+    "keyword": "神志清明",
+    "type": "pos",
+    "pos": 275,
+    "neg": 145
+  },
+  {
+    "keyword": "神氣活現",
+    "type": "do_judge",
+    "pos": 0,
+    "neg": 0
+  },
+  {
+    "keyword": "神智健全",
+    "type": "pos",
+    "pos": 1540,
+    "neg": 802
+  },
+  {
+    "keyword": "神童",
+    "type": "pos",
+    "pos": 103,
+    "neg": 64
+  },
+  {
+    "keyword": "神聖",
+    "type": "do_judge",
+    "pos": 0,
+    "neg": 0
+  },
+  {
+    "keyword": "祝賀",
+    "type": "pos",
+    "pos": 1479,
+    "neg": 416
+  },
+  {
+    "keyword": "秩序",
+    "type": "pos",
+    "pos": 3299,
+    "neg": 2378
+  },
+  {
+    "keyword": "純真",
+    "type": "pos",
+    "pos": 443,
+    "neg": 212
+  },
+  {
+    "keyword": "純淨",
+    "type": "pos",
+    "pos": 483,
+    "neg": 174
+  },
+  {
+    "keyword": "能力",
+    "type": "pos",
+    "pos": 22546,
+    "neg": 13880
+  },
+  {
+    "keyword": "能充分理解",
+    "type": "pos",
+    "pos": 8236,
+    "neg": 6405
+  },
+  {
+    "keyword": "能生產",
+    "type": "pos",
+    "pos": 8034,
+    "neg": 4352
+  },
+  {
+    "keyword": "能吃苦耐勞",
+    "type": "pos",
+    "pos": 35,
+    "neg": 17
+  },
+  {
+    "keyword": "能幹",
+    "type": "do_judge",
+    "pos": 0,
+    "neg": 0
+  },
+  {
+    "keyword": "能實行",
+    "type": "pos",
+    "pos": 1113,
+    "neg": 788
+  },
+  {
+    "keyword": "能懂",
+    "type": "pos",
+    "pos": 6355,
+    "neg": 5398
+  },
+  {
+    "keyword": "虔信",
+    "type": "pos",
+    "pos": 5,
+    "neg": 4
+  },
+  {
+    "keyword": "虔敬",
+    "type": "pos",
+    "pos": 68,
+    "neg": 12
+  },
+  {
+    "keyword": "虔誠",
+    "type": "pos",
+    "pos": 452,
+    "neg": 323
+  },
+  {
+    "keyword": "衷心",
+    "type": "do_judge",
+    "pos": 0,
+    "neg": 0
+  },
+  {
+    "keyword": "討人喜歡",
+    "type": "pos",
+    "pos": 47,
+    "neg": 23
+  },
+  {
+    "keyword": "訓練",
+    "type": "pos",
+    "pos": 10291,
+    "neg": 5856
+  },
+  {
+    "keyword": "財產",
+    "type": "pos",
+    "pos": 2932,
+    "neg": 2176
+  },
+  {
+    "keyword": "財富",
+    "type": "pos",
+    "pos": 2708,
+    "neg": 1297
+  },
+  {
+    "keyword": "起作用",
+    "type": "pos",
+    "pos": 7473,
+    "neg": 5307
+  },
+  {
+    "keyword": "迷人",
+    "type": "pos",
+    "pos": 1724,
+    "neg": 653
+  },
+  {
+    "keyword": "迷人之處",
+    "type": "pos",
+    "pos": 14719,
+    "neg": 10970
+  },
+  {
+    "keyword": "追根究底",
+    "type": "pos",
+    "pos": 24,
+    "neg": 14
+  },
+  {
+    "keyword": "閃爍",
+    "type": "pos",
+    "pos": 475,
+    "neg": 264
+  },
+  {
+    "keyword": "高尚",
+    "type": "pos",
+    "pos": 226,
+    "neg": 209
+  },
+  {
+    "keyword": "高級",
+    "type": "do_judge",
+    "pos": 0,
+    "neg": 0
+  },
+  {
+    "keyword": "高處",
+    "type": "pos",
+    "pos": 286,
+    "neg": 205
+  },
+  {
+    "keyword": "高貴",
+    "type": "pos",
+    "pos": 397,
+    "neg": 276
+  },
+  {
+    "keyword": "高雅",
+    "type": "pos",
+    "pos": 349,
+    "neg": 141
+  },
+  {
+    "keyword": "高興",
+    "type": "pos",
+    "pos": 6965,
+    "neg": 2435
+  },
+  {
+    "keyword": "鬥志",
+    "type": "pos",
+    "pos": 486,
+    "neg": 340
+  },
+  {
+    "keyword": "偉大",
+    "type": "pos",
+    "pos": 2282,
+    "neg": 1557
+  },
+  {
+    "keyword": "健全",
+    "type": "pos",
+    "pos": 1540,
+    "neg": 802
+  },
+  {
+    "keyword": "健壯",
+    "type": "pos",
+    "pos": 199,
+    "neg": 84
+  },
+  {
+    "keyword": "健美",
+    "type": "pos",
+    "pos": 307,
+    "neg": 163
+  },
+  {
+    "keyword": "偏愛",
+    "type": "pos",
+    "pos": 798,
+    "neg": 163
+  },
+  {
+    "keyword": "參加",
+    "type": "do_judge",
+    "pos": 0,
+    "neg": 0
+  },
+  {
+    "keyword": "唯實論",
+    "type": "do_judge",
+    "pos": 0,
+    "neg": 0
+  },
+  {
+    "keyword": "堅決",
+    "type": "pos",
+    "pos": 448,
+    "neg": 308
+  },
+  {
+    "keyword": "堅固",
+    "type": "pos",
+    "pos": 200,
+    "neg": 115
+  },
+  {
+    "keyword": "堅固耐用",
+    "type": "pos",
+    "pos": 232,
+    "neg": 59
+  },
+  {
+    "keyword": "堅定",
+    "type": "pos",
+    "pos": 3335,
+    "neg": 2323
+  },
+  {
+    "keyword": "堅定不移",
+    "type": "pos",
+    "pos": 220,
+    "neg": 125
+  },
+  {
+    "keyword": "堅持不懈",
+    "type": "pos",
+    "pos": 15531,
+    "neg": 10049
+  },
+  {
+    "keyword": "堅硬無比",
+    "type": "pos",
+    "pos": 1062,
+    "neg": 686
+  },
+  {
+    "keyword": "堅韌",
+    "type": "pos",
+    "pos": 202,
+    "neg": 113
+  },
+  {
+    "keyword": "堂皇",
+    "type": "pos",
+    "pos": 30,
+    "neg": 26
+  },
+  {
+    "keyword": "專門",
+    "type": "pos",
+    "pos": 2434,
+    "neg": 1653
+  },
+  {
+    "keyword": "專家",
+    "type": "pos",
+    "pos": 10678,
+    "neg": 7083
+  },
+  {
+    "keyword": "專屬",
+    "type": "pos",
+    "pos": 5249,
+    "neg": 1648
+  },
+  {
+    "keyword": "崇拜",
+    "type": "pos",
+    "pos": 1223,
+    "neg": 648
+  },
+  {
+    "keyword": "崇高",
+    "type": "pos",
+    "pos": 430,
+    "neg": 288
+  },
+  {
+    "keyword": "崇敬",
+    "type": "pos",
+    "pos": 147,
+    "neg": 67
+  },
+  {
+    "keyword": "帶有靈感",
+    "type": "pos",
+    "pos": 2744,
+    "neg": 1607
+  },
+  {
+    "keyword": "帶來福氣",
+    "type": "pos",
+    "pos": 20288,
+    "neg": 10169
+  },
+  {
+    "keyword": "強大",
+    "type": "pos",
+    "pos": 4959,
+    "neg": 3124
+  },
+  {
+    "keyword": "強壯",
+    "type": "pos",
+    "pos": 444,
+    "neg": 377
+  },
+  {
+    "keyword": "強健",
+    "type": "pos",
+    "pos": 400,
+    "neg": 154
+  },
+  {
+    "keyword": "彬彬",
+    "type": "pos",
+    "pos": 13,
+    "neg": 12
+  },
+  {
+    "keyword": "彬彬有禮",
+    "type": "do_judge",
+    "pos": 0,
+    "neg": 0
+  },
+  {
+    "keyword": "得人心",
+    "type": "pos",
+    "pos": 7358,
+    "neg": 5838
+  },
+  {
+    "keyword": "得力",
+    "type": "pos",
+    "pos": 228,
+    "neg": 131
+  },
+  {
+    "keyword": "得到",
+    "type": "pos",
+    "pos": 15914,
+    "neg": 9700
+  },
+  {
+    "keyword": "得要領",
+    "type": "pos",
+    "pos": 7358,
+    "neg": 5838
+  },
+  {
+    "keyword": "得意",
+    "type": "pos",
+    "pos": 1134,
+    "neg": 544
+  },
+  {
+    "keyword": "得意揚揚",
+    "type": "do_judge",
+    "pos": 0,
+    "neg": 0
+  },
+  {
+    "keyword": "得獎",
+    "type": "pos",
+    "pos": 3389,
+    "neg": 1352
+  },
+  {
+    "keyword": "得體",
+    "type": "pos",
+    "pos": 144,
+    "neg": 102
+  },
+  {
+    "keyword": "從容不迫",
+    "type": "pos",
+    "pos": 21,
+    "neg": 14
+  },
+  {
+    "keyword": "情願",
+    "type": "neg",
+    "pos": 142,
+    "neg": 161
+  },
+  {
+    "keyword": "接受",
+    "type": "pos",
+    "pos": 30571,
+    "neg": 24031
+  },
+  {
+    "keyword": "接濟",
+    "type": "neg",
+    "pos": 134,
+    "neg": 164
+  },
+  {
+    "keyword": "推進",
+    "type": "pos",
+    "pos": 2398,
+    "neg": 1380
+  },
+  {
+    "keyword": "推薦",
+    "type": "pos",
+    "pos": 6724,
+    "neg": 2872
+  },
+  {
+    "keyword": "教養",
+    "type": "pos",
+    "pos": 1212,
+    "neg": 801
+  },
+  {
+    "keyword": "啟發",
+    "type": "pos",
+    "pos": 1880,
+    "neg": 873
+  },
+  {
+    "keyword": "啟發想像力",
+    "type": "pos",
+    "pos": 1880,
+    "neg": 873
+  },
+  {
+    "keyword": "敏悟",
+    "type": "do_judge",
+    "pos": 0,
+    "neg": 0
+  },
+  {
+    "keyword": "敏捷",
+    "type": "pos",
+    "pos": 213,
+    "neg": 111
+  },
+  {
+    "keyword": "敏感",
+    "type": "pos",
+    "pos": 3749,
+    "neg": 3094
+  },
+  {
+    "keyword": "敏銳",
+    "type": "pos",
+    "pos": 703,
+    "neg": 335
+  },
+  {
+    "keyword": "毫不",
+    "type": "pos",
+    "pos": 71,
+    "neg": 57
+  },
+  {
+    "keyword": "毫不含糊",
+    "type": "pos",
+    "pos": 196,
+    "neg": 150
+  },
+  {
+    "keyword": "毫無",
+    "type": "pos",
+    "pos": 4977,
+    "neg": 4909
+  },
+  {
+    "keyword": "毫無隱諱交談",
+    "type": "pos",
+    "pos": 4977,
+    "neg": 4909
+  },
+  {
+    "keyword": "涼快",
+    "type": "do_judge",
+    "pos": 0,
+    "neg": 0
+  },
+  {
+    "keyword": "涼爽",
+    "type": "do_judge",
+    "pos": 0,
+    "neg": 0
+  },
+  {
+    "keyword": "清白",
+    "type": "neg",
+    "pos": 410,
+    "neg": 543
+  },
+  {
+    "keyword": "清秀",
+    "type": "pos",
+    "pos": 201,
+    "neg": 141
+  },
+  {
+    "keyword": "清明",
+    "type": "pos",
+    "pos": 275,
+    "neg": 145
+  },
+  {
+    "keyword": "清除",
+    "type": "pos",
+    "pos": 1204,
+    "neg": 1005
+  },
+  {
+    "keyword": "清理",
+    "type": "pos",
+    "pos": 1307,
+    "neg": 1093
+  },
+  {
+    "keyword": "清楚",
+    "type": "pos",
+    "pos": 10558,
+    "neg": 8731
+  },
+  {
+    "keyword": "清楚易懂",
+    "type": "pos",
+    "pos": 281,
+    "neg": 161
+  },
+  {
+    "keyword": "清澈",
+    "type": "pos",
+    "pos": 342,
+    "neg": 224
+  },
+  {
+    "keyword": "清潔",
+    "type": "pos",
+    "pos": 1903,
+    "neg": 1261
+  },
+  {
+    "keyword": "淘氣",
+    "type": "pos",
+    "pos": 75,
+    "neg": 28
+  },
+  {
+    "keyword": "深切",
+    "type": "pos",
+    "pos": 197,
+    "neg": 156
+  },
+  {
+    "keyword": "深切注意",
+    "type": "pos",
+    "pos": 25714,
+    "neg": 8962
+  },
+  {
+    "keyword": "深刻",
+    "type": "pos",
+    "pos": 5257,
+    "neg": 2978
+  },
+  {
+    "keyword": "深思",
+    "type": "pos",
+    "pos": 458,
+    "neg": 363
+  },
+  {
+    "keyword": "深情",
+    "type": "pos",
+    "pos": 995,
+    "neg": 536
+  },
+  {
+    "keyword": "深慮",
+    "type": "do_judge",
+    "pos": 0,
+    "neg": 0
+  },
+  {
+    "keyword": "率直",
+    "type": "pos",
+    "pos": 49,
+    "neg": 36
+  },
+  {
+    "keyword": "理性",
+    "type": "pos",
+    "pos": 3814,
+    "neg": 3040
+  },
+  {
+    "keyword": "理會",
+    "type": "neg",
+    "pos": 919,
+    "neg": 1009
+  },
+  {
+    "keyword": "理解",
+    "type": "pos",
+    "pos": 8236,
+    "neg": 6405
+  },
+  {
+    "keyword": "產量多",
+    "type": "pos",
+    "pos": 51470,
+    "neg": 33865
+  },
+  {
+    "keyword": "盛年",
+    "type": "do_judge",
+    "pos": 0,
+    "neg": 0
+  },
+  {
+    "keyword": "第一流",
+    "type": "pos",
+    "pos": 29,
+    "neg": 17
+  },
+  {
+    "keyword": "符合",
+    "type": "pos",
+    "pos": 13901,
+    "neg": 7699
+  },
+  {
+    "keyword": "符合要求",
+    "type": "pos",
+    "pos": 13901,
+    "neg": 7699
+  },
+  {
+    "keyword": "細心",
+    "type": "pos",
+    "pos": 755,
+    "neg": 370
+  },
+  {
+    "keyword": "細緻",
+    "type": "pos",
+    "pos": 1265,
+    "neg": 525
+  },
+  {
+    "keyword": "細緻優雅",
+    "type": "pos",
+    "pos": 2050,
+    "neg": 687
+  },
+  {
+    "keyword": "細膩",
+    "type": "pos",
+    "pos": 1472,
+    "neg": 538
+  },
+  {
+    "keyword": "羞怯",
+    "type": "pos",
+    "pos": 4,
+    "neg": 2
+  },
+  {
+    "keyword": "習慣",
+    "type": "pos",
+    "pos": 11852,
+    "neg": 7382
+  },
+  {
+    "keyword": "莊重",
+    "type": "pos",
+    "pos": 49,
+    "neg": 29
+  },
+  {
+    "keyword": "莊嚴",
+    "type": "pos",
+    "pos": 252,
+    "neg": 110
+  },
+  {
+    "keyword": "被喜愛",
+    "type": "pos",
+    "pos": 66274,
+    "neg": 59646
+  },
+  {
+    "keyword": "規矩",
+    "type": "neg",
+    "pos": 440,
+    "neg": 448
+  },
+  {
+    "keyword": "規範",
+    "type": "pos",
+    "pos": 5754,
+    "neg": 3577
+  },
+  {
+    "keyword": "許可",
+    "type": "pos",
+    "pos": 1411,
+    "neg": 1062
+  },
+  {
+    "keyword": "責任心",
+    "type": "pos",
+    "pos": 259,
+    "neg": 115
+  },
+  {
+    "keyword": "責任重大",
+    "type": "pos",
+    "pos": 10008,
+    "neg": 6964
+  },
+  {
+    "keyword": "通用",
+    "type": "pos",
+    "pos": 419,
+    "neg": 224
+  },
+  {
+    "keyword": "通知",
+    "type": "pos",
+    "pos": 5993,
+    "neg": 5534
+  },
+  {
+    "keyword": "通俗",
+    "type": "pos",
+    "pos": 85,
+    "neg": 54
+  },
+  {
+    "keyword": "通過",
+    "type": "pos",
+    "pos": 18009,
+    "neg": 10308
+  },
+  {
+    "keyword": "連根拔起",
+    "type": "pos",
+    "pos": 112,
+    "neg": 86
+  },
+  {
+    "keyword": "連貫",
+    "type": "pos",
+    "pos": 107,
+    "neg": 105
+  },
+  {
+    "keyword": "造詣",
+    "type": "pos",
+    "pos": 86,
+    "neg": 29
+  },
+  {
+    "keyword": "透明",
+    "type": "pos",
+    "pos": 2334,
+    "neg": 1359
+  },
+  {
+    "keyword": "傑出",
+    "type": "pos",
+    "pos": 2187,
+    "neg": 811
+  },
+  {
+    "keyword": "傑出人物",
+    "type": "pos",
+    "pos": 12275,
+    "neg": 9678
+  },
+  {
+    "keyword": "最上",
+    "type": "do_judge",
+    "pos": null,
+    "neg": null
+  },
+  {
+    "keyword": "最好",
+    "type": "pos",
+    "pos": 4291,
+    "neg": 2669
+  },
+  {
+    "keyword": "最有效",
+    "type": "pos",
+    "pos": 4725,
+    "neg": 2937
+  },
+  {
+    "keyword": "最佳",
+    "type": "pos",
+    "pos": 13958,
+    "neg": 6780
+  },
+  {
+    "keyword": "最重要",
+    "type": "pos",
+    "pos": 42509,
+    "neg": 23606
+  },
+  {
+    "keyword": "最高",
+    "type": "pos",
+    "pos": 62913,
+    "neg": 37001
+  },
+  {
+    "keyword": "最理想",
+    "type": "pos",
+    "pos": 5674,
+    "neg": 3225
+  },
+  {
+    "keyword": "最優秀",
+    "type": "pos",
+    "pos": 5654,
+    "neg": 2552
+  },
+  {
+    "keyword": "凱旋",
+    "type": "pos",
+    "pos": 100,
+    "neg": 54
+  },
+  {
+    "keyword": "創立",
+    "type": "do_judge",
+    "pos": 0,
+    "neg": 0
+  },
+  {
+    "keyword": "創立者",
+    "type": "pos",
+    "pos": 3776,
+    "neg": 1592
+  },
+  {
+    "keyword": "創造",
+    "type": "pos",
+    "pos": 12080,
+    "neg": 4964
+  },
+  {
+    "keyword": "勝任",
+    "type": "pos",
+    "pos": 550,
+    "neg": 358
+  },
+  {
+    "keyword": "勝利",
+    "type": "pos",
+    "pos": 2723,
+    "neg": 2307
+  },
+  {
+    "keyword": "勝過",
+    "type": "pos",
+    "pos": 1015,
+    "neg": 700
+  },
+  {
+    "keyword": "博愛",
+    "type": "pos",
+    "pos": 230,
+    "neg": 81
+  },
+  {
+    "keyword": "博愛者",
+    "type": "do_judge",
+    "pos": 0,
+    "neg": 0
+  },
+  {
+    "keyword": "喝彩",
+    "type": "pos",
+    "pos": 22,
+    "neg": 21
+  },
+  {
+    "keyword": "喜不自禁",
+    "type": "pos",
+    "pos": 2832,
+    "neg": 1212
+  },
+  {
+    "keyword": "喜悅",
+    "type": "pos",
+    "pos": 2175,
+    "neg": 597
+  },
+  {
+    "keyword": "喜氣",
+    "type": "pos",
+    "pos": 640,
+    "neg": 154
+  },
+  {
+    "keyword": "喜愛",
+    "type": "pos",
+    "pos": 12220,
+    "neg": 2963
+  },
+  {
+    "keyword": "喜劇",
+    "type": "pos",
+    "pos": 1136,
+    "neg": 855
+  },
+  {
+    "keyword": "喜慶",
+    "type": "pos",
+    "pos": 188,
+    "neg": 68
+  },
+  {
+    "keyword": "喜歡",
+    "type": "pos",
+    "pos": 38555,
+    "neg": 15599
+  },
+  {
+    "keyword": "報答",
+    "type": "pos",
+    "pos": 184,
+    "neg": 96
+  },
+  {
+    "keyword": "奠基",
+    "type": "pos",
+    "pos": 277,
+    "neg": 131
+  },
+  {
+    "keyword": "奠基者",
+    "type": "do_judge",
+    "pos": null,
+    "neg": null
+  },
+  {
+    "keyword": "富有",
+    "type": "pos",
+    "pos": 1454,
+    "neg": 738
+  },
+  {
+    "keyword": "富有魅力",
+    "type": "pos",
+    "pos": 1454,
+    "neg": 738
+  },
+  {
+    "keyword": "富足",
+    "type": "pos",
+    "pos": 225,
+    "neg": 148
+  },
+  {
+    "keyword": "富於",
+    "type": "pos",
+    "pos": 17,
+    "neg": 4
+  },
+  {
+    "keyword": "富於同情心",
+    "type": "do_judge",
+    "pos": 0,
+    "neg": 0
+  },
+  {
+    "keyword": "富於機智",
+    "type": "pos",
+    "pos": 17,
+    "neg": 4
+  },
+  {
+    "keyword": "富幽默感",
+    "type": "pos",
+    "pos": 1815,
+    "neg": 907
+  },
+  {
+    "keyword": "富裕",
+    "type": "pos",
+    "pos": 726,
+    "neg": 499
+  },
+  {
+    "keyword": "富麗",
+    "type": "pos",
+    "pos": 10,
+    "neg": 4
+  },
+  {
+    "keyword": "富麗堂皇",
+    "type": "pos",
+    "pos": 33,
+    "neg": 26
+  },
+  {
+    "keyword": "富饒",
+    "type": "pos",
+    "pos": 76,
+    "neg": 46
+  },
+  {
+    "keyword": "寓意",
+    "type": "pos",
+    "pos": 458,
+    "neg": 151
+  },
+  {
+    "keyword": "尊重",
+    "type": "pos",
+    "pos": 20528,
+    "neg": 9198
+  },
+  {
+    "keyword": "尊重人",
+    "type": "pos",
+    "pos": 20528,
+    "neg": 9198
+  },
+  {
+    "keyword": "尊敬",
+    "type": "pos",
+    "pos": 1663,
+    "neg": 821
+  },
+  {
+    "keyword": "尊敬人",
+    "type": "pos",
+    "pos": 1663,
+    "neg": 821
+  },
+  {
+    "keyword": "尊嚴",
+    "type": "pos",
+    "pos": 2357,
+    "neg": 1956
+  },
+  {
+    "keyword": "惠顧",
+    "type": "do_judge",
+    "pos": 0,
+    "neg": 0
+  },
+  {
+    "keyword": "愜意",
+    "type": "pos",
+    "pos": 587,
+    "neg": 198
+  },
+  {
+    "keyword": "愉快地說",
+    "type": "do_judge",
+    "pos": 0,
+    "neg": 0
+  },
+  {
+    "keyword": "掌握",
+    "type": "pos",
+    "pos": 9499,
+    "neg": 5626
+  },
+  {
+    "keyword": "提升",
+    "type": "pos",
+    "pos": 20553,
+    "neg": 7654
+  },
+  {
+    "keyword": "提高",
+    "type": "pos",
+    "pos": 10742,
+    "neg": 5842
+  },
+  {
+    "keyword": "揚揚",
+    "type": "do_judge",
+    "pos": 0,
+    "neg": 0
+  },
+  {
+    "keyword": "晴朗",
+    "type": "do_judge",
+    "pos": 0,
+    "neg": 0
+  },
+  {
+    "keyword": "智力",
+    "type": "pos",
+    "pos": 277,
+    "neg": 198
+  },
+  {
+    "keyword": "智巧",
+    "type": "do_judge",
+    "pos": 0,
+    "neg": 0
+  },
+  {
+    "keyword": "期待",
+    "type": "pos",
+    "pos": 20072,
+    "neg": 11031
+  },
+  {
+    "keyword": "欽佩",
+    "type": "pos",
+    "pos": 578,
+    "neg": 255
+  },
+  {
+    "keyword": "減輕",
+    "type": "pos",
+    "pos": 2872,
+    "neg": 1983
+  },
+  {
+    "keyword": "渴望",
+    "type": "pos",
+    "pos": 2882,
+    "neg": 1833
+  },
+  {
+    "keyword": "渴望獲得",
+    "type": "pos",
+    "pos": 2882,
+    "neg": 1833
+  },
+  {
+    "keyword": "滋養",
+    "type": "pos",
+    "pos": 438,
+    "neg": 252
+  },
+  {
+    "keyword": "無比",
+    "type": "do_judge",
+    "pos": 0,
+    "neg": 0
+  },
+  {
+    "keyword": "無可指責",
+    "type": "neg",
+    "pos": 2239,
+    "neg": 2497
+  },
+  {
+    "keyword": "無可挑剔",
+    "type": "pos",
+    "pos": 741,
+    "neg": 410
+  },
+  {
+    "keyword": "無可責難",
+    "type": "do_judge",
+    "pos": 0,
+    "neg": 0
+  },
+  {
+    "keyword": "無可置辯",
+    "type": "do_judge",
+    "pos": 0,
+    "neg": 0
+  },
+  {
+    "keyword": "無污點",
+    "type": "pos",
+    "pos": 36644,
+    "neg": 28858
+  },
+  {
+    "keyword": "無刺激性",
+    "type": "pos",
+    "pos": 36644,
+    "neg": 28858
+  },
+  {
+    "keyword": "無畏",
+    "type": "pos",
+    "pos": 389,
+    "neg": 265
+  },
+  {
+    "keyword": "無害處",
+    "type": "pos",
+    "pos": 36644,
+    "neg": 28858
+  },
+  {
+    "keyword": "無缺點",
+    "type": "pos",
+    "pos": 36644,
+    "neg": 28858
+  },
+  {
+    "keyword": "無庸",
+    "type": "pos",
+    "pos": 47,
+    "neg": 40
+  },
+  {
+    "keyword": "無庸置疑",
+    "type": "do_judge",
+    "pos": 0,
+    "neg": 0
+  },
+  {
+    "keyword": "無異議",
+    "type": "pos",
+    "pos": 105,
+    "neg": 47
+  },
+  {
+    "keyword": "無惡意",
+    "type": "pos",
+    "pos": 36644,
+    "neg": 28858
+  },
+  {
+    "keyword": "無裂縫",
+    "type": "pos",
+    "pos": 36644,
+    "neg": 28858
+  },
+  {
+    "keyword": "無瑕",
+    "type": "pos",
+    "pos": 120,
+    "neg": 44
+  },
+  {
+    "keyword": "無瑕疵",
+    "type": "pos",
+    "pos": 36644,
+    "neg": 28858
+  },
+  {
+    "keyword": "無罪",
+    "type": "neg",
+    "pos": 775,
+    "neg": 1094
+  },
+  {
+    "keyword": "無過失",
+    "type": "pos",
+    "pos": 36644,
+    "neg": 28858
+  },
+  {
+    "keyword": "無疑",
+    "type": "pos",
+    "pos": 1391,
+    "neg": 1228
+  },
+  {
+    "keyword": "無疑問",
+    "type": "pos",
+    "pos": 36644,
+    "neg": 28858
+  },
+  {
+    "keyword": "無誤",
+    "type": "pos",
+    "pos": 324,
+    "neg": 263
+  },
+  {
+    "keyword": "無價",
+    "type": "pos",
+    "pos": 285,
+    "neg": 123
+  },
+  {
+    "keyword": "無憂無慮",
+    "type": "pos",
+    "pos": 122,
+    "neg": 98
+  },
+  {
+    "keyword": "無慾",
+    "type": "pos",
+    "pos": 36644,
+    "neg": 28858
+  },
+  {
+    "keyword": "無敵",
+    "type": "pos",
+    "pos": 693,
+    "neg": 313
+  },
+  {
+    "keyword": "無懈可擊",
+    "type": "pos",
+    "pos": 66,
+    "neg": 49
+  },
+  {
+    "keyword": "無邊無際",
+    "type": "pos",
+    "pos": 27,
+    "neg": 22
+  },
+  {
+    "keyword": "無髒污",
+    "type": "pos",
+    "pos": 36644,
+    "neg": 28858
+  },
+  {
+    "keyword": "痛快",
+    "type": "do_judge",
+    "pos": 0,
+    "neg": 0
+  },
+  {
+    "keyword": "發育",
+    "type": "do_judge",
+    "pos": 0,
+    "neg": 0
+  },
+  {
+    "keyword": "發財",
+    "type": "pos",
+    "pos": 460,
+    "neg": 340
+  },
+  {
+    "keyword": "發財致富",
+    "type": "do_judge",
+    "pos": 0,
+    "neg": 0
+  },
+  {
+    "keyword": "發達",
+    "type": "pos",
+    "pos": 1472,
+    "neg": 827
+  },
+  {
+    "keyword": "發覺",
+    "type": "pos",
+    "pos": 1204,
+    "neg": 1104
+  },
+  {
+    "keyword": "稍息",
+    "type": "pos",
+    "pos": 532,
+    "neg": 277
+  },
+  {
+    "keyword": "稀少",
+    "type": "pos",
+    "pos": 387,
+    "neg": 262
+  },
+  {
+    "keyword": "稀罕",
+    "type": "pos",
+    "pos": 30,
+    "neg": 29
+  },
+  {
+    "keyword": "稀奇",
+    "type": "pos",
+    "pos": 204,
+    "neg": 128
+  },
+  {
+    "keyword": "答應",
+    "type": "pos",
+    "pos": 3347,
+    "neg": 2770
+  },
+  {
+    "keyword": "絕妙",
+    "type": "pos",
+    "pos": 169,
+    "neg": 71
+  },
+  {
+    "keyword": "絕無",
+    "type": "pos",
+    "pos": 591,
+    "neg": 547
+  },
+  {
+    "keyword": "絕無錯誤",
+    "type": "pos",
+    "pos": 591,
+    "neg": 547
+  },
+  {
+    "keyword": "絕對可靠",
+    "type": "pos",
+    "pos": 1034,
+    "neg": 704
+  },
+  {
+    "keyword": "給予",
+    "type": "pos",
+    "pos": 10047,
+    "neg": 6021
+  },
+  {
+    "keyword": "善心",
+    "type": "pos",
+    "pos": 1282,
+    "neg": 460
+  },
+  {
+    "keyword": "善行",
+    "type": "pos",
+    "pos": 413,
+    "neg": 81
+  },
+  {
+    "keyword": "善於",
+    "type": "pos",
+    "pos": 900,
+    "neg": 575
+  },
+  {
+    "keyword": "善於經營",
+    "type": "pos",
+    "pos": 900,
+    "neg": 575
+  },
+  {
+    "keyword": "善理",
+    "type": "pos",
+    "pos": 979,
+    "neg": 403
+  },
+  {
+    "keyword": "善理家",
+    "type": "pos",
+    "pos": 979,
+    "neg": 403
+  },
+  {
+    "keyword": "善意",
+    "type": "pos",
+    "pos": 2289,
+    "neg": 1817
+  },
+  {
+    "keyword": "善說服",
+    "type": "pos",
+    "pos": 979,
+    "neg": 403
+  },
+  {
+    "keyword": "善舉",
+    "type": "pos",
+    "pos": 325,
+    "neg": 75
+  },
+  {
+    "keyword": "善辯",
+    "type": "pos",
+    "pos": 1,
+    "neg": 0
+  },
+  {
+    "keyword": "舒服",
+    "type": "do_judge",
+    "pos": 0,
+    "neg": 0
+  },
+  {
+    "keyword": "舒暢",
+    "type": "do_judge",
+    "pos": 0,
+    "neg": 0
+  },
+  {
+    "keyword": "舒適",
+    "type": "pos",
+    "pos": 3403,
+    "neg": 1187
+  },
+  {
+    "keyword": "華麗",
+    "type": "pos",
+    "pos": 1274,
+    "neg": 479
+  },
+  {
+    "keyword": "著名",
+    "type": "pos",
+    "pos": 3252,
+    "neg": 1630
+  },
+  {
+    "keyword": "著迷",
+    "type": "do_judge",
+    "pos": 0,
+    "neg": 0
+  },
+  {
+    "keyword": "貴重",
+    "type": "pos",
+    "pos": 443,
+    "neg": 234
+  },
+  {
+    "keyword": "貴族",
+    "type": "pos",
+    "pos": 630,
+    "neg": 380
+  },
+  {
+    "keyword": "超凡",
+    "type": "pos",
+    "pos": 87,
+    "neg": 32
+  },
+  {
+    "keyword": "超凡技術",
+    "type": "pos",
+    "pos": 16069,
+    "neg": 7444
+  },
+  {
+    "keyword": "進行",
+    "type": "pos",
+    "pos": 43970,
+    "neg": 25935
+  },
+  {
+    "keyword": "進步",
+    "type": "pos",
+    "pos": 5954,
+    "neg": 3719
+  },
+  {
+    "keyword": "進取",
+    "type": "pos",
+    "pos": 250,
+    "neg": 139
+  },
+  {
+    "keyword": "進取心",
+    "type": "pos",
+    "pos": 76,
+    "neg": 22
+  },
+  {
+    "keyword": "開化",
+    "type": "pos",
+    "pos": 26,
+    "neg": 9
+  },
+  {
+    "keyword": "開拓",
+    "type": "pos",
+    "pos": 1568,
+    "neg": 560
+  },
+  {
+    "keyword": "開放",
+    "type": "pos",
+    "pos": 12280,
+    "neg": 6324
+  },
+  {
+    "keyword": "開採",
+    "type": "pos",
+    "pos": 237,
+    "neg": 175
+  },
+  {
+    "keyword": "間歇",
+    "type": "pos",
+    "pos": 99,
+    "neg": 82
+  },
+  {
+    "keyword": "雅致",
+    "type": "pos",
+    "pos": 156,
+    "neg": 78
+  },
+  {
+    "keyword": "雅量",
+    "type": "pos",
+    "pos": 105,
+    "neg": 62
+  },
+  {
+    "keyword": "雅觀",
+    "type": "pos",
+    "pos": 2,
+    "neg": 1
+  },
+  {
+    "keyword": "雄偉",
+    "type": "do_judge",
+    "pos": 0,
+    "neg": 0
+  },
+  {
+    "keyword": "雄辯",
+    "type": "pos",
+    "pos": 56,
+    "neg": 45
+  },
+  {
+    "keyword": "集資",
+    "type": "pos",
+    "pos": 375,
+    "neg": 212
+  },
+  {
+    "keyword": "順利",
+    "type": "pos",
+    "pos": 4415,
+    "neg": 2656
+  },
+  {
+    "keyword": "順從",
+    "type": "pos",
+    "pos": 377,
+    "neg": 285
+  },
+  {
+    "keyword": "順當",
+    "type": "do_judge",
+    "pos": 0,
+    "neg": 0
+  },
+  {
+    "keyword": "勤勉",
+    "type": "pos",
+    "pos": 31,
+    "neg": 14
+  },
+  {
+    "keyword": "嗜好",
+    "type": "pos",
+    "pos": 397,
+    "neg": 218
+  },
+  {
+    "keyword": "圓滿",
+    "type": "pos",
+    "pos": 1394,
+    "neg": 644
+  },
+  {
+    "keyword": "幹勁",
+    "type": "pos",
+    "pos": 309,
+    "neg": 151
+  },
+  {
+    "keyword": "微妙",
+    "type": "pos",
+    "pos": 514,
+    "neg": 366
+  },
+  {
+    "keyword": "微微",
+    "type": "pos",
+    "pos": 157,
+    "neg": 130
+  },
+  {
+    "keyword": "意味深長",
+    "type": "neg",
+    "pos": 9,
+    "neg": 17
+  },
+  {
+    "keyword": "慈祥",
+    "type": "pos",
+    "pos": 102,
+    "neg": 58
+  },
+  {
+    "keyword": "慈悲",
+    "type": "pos",
+    "pos": 350,
+    "neg": 201
+  },
+  {
+    "keyword": "慈悲心",
+    "type": "pos",
+    "pos": 139,
+    "neg": 37
+  },
+  {
+    "keyword": "慈悲為懷",
+    "type": "pos",
+    "pos": 13,
+    "neg": 5
+  },
+  {
+    "keyword": "慈善",
+    "type": "pos",
+    "pos": 2148,
+    "neg": 801
+  },
+  {
+    "keyword": "感人",
+    "type": "pos",
+    "pos": 1183,
+    "neg": 507
+  },
+  {
+    "keyword": "感到滿意",
+    "type": "neg",
+    "pos": 17375,
+    "neg": 17871
+  },
+  {
+    "keyword": "感動",
+    "type": "pos",
+    "pos": 9509,
+    "neg": 4839
+  },
+  {
+    "keyword": "感激",
+    "type": "pos",
+    "pos": 1736,
+    "neg": 880
+  },
+  {
+    "keyword": "感謝",
+    "type": "pos",
+    "pos": 22837,
+    "neg": 10530
+  },
+  {
+    "keyword": "想像",
+    "type": "pos",
+    "pos": 7576,
+    "neg": 5246
+  },
+  {
+    "keyword": "愛打趣",
+    "type": "pos",
+    "pos": 48555,
+    "neg": 20296
+  },
+  {
+    "keyword": "愛好",
+    "type": "pos",
+    "pos": 3262,
+    "neg": 742
+  },
+  {
+    "keyword": "愛好和平",
+    "type": "pos",
+    "pos": 3262,
+    "neg": 742
+  },
+  {
+    "keyword": "愛國",
+    "type": "pos",
+    "pos": 2720,
+    "neg": 1016
+  },
+  {
+    "keyword": "愛國心",
+    "type": "pos",
+    "pos": 222,
+    "neg": 87
+  },
+  {
+    "keyword": "愛情",
+    "type": "pos",
+    "pos": 6782,
+    "neg": 3421
+  },
+  {
+    "keyword": "愛說話",
+    "type": "pos",
+    "pos": 48555,
+    "neg": 20296
+  },
+  {
+    "keyword": "愛慕",
+    "type": "pos",
+    "pos": 328,
+    "neg": 176
+  },
+  {
+    "keyword": "慎重",
+    "type": "do_judge",
+    "pos": 0,
+    "neg": 0
+  },
+  {
+    "keyword": "慎慮",
+    "type": "do_judge",
+    "pos": 0,
+    "neg": 0
+  },
+  {
+    "keyword": "敬畏",
+    "type": "pos",
+    "pos": 249,
+    "neg": 116
+  },
+  {
+    "keyword": "敬重",
+    "type": "pos",
+    "pos": 544,
+    "neg": 204
+  },
+  {
+    "keyword": "敬禮",
+    "type": "pos",
+    "pos": 148,
+    "neg": 131
+  },
+  {
+    "keyword": "新奇",
+    "type": "pos",
+    "pos": 589,
+    "neg": 273
+  },
+  {
+    "keyword": "新鮮",
+    "type": "pos",
+    "pos": 4142,
+    "neg": 1924
+  },
+  {
+    "keyword": "暖和",
+    "type": "pos",
+    "pos": 124,
+    "neg": 68
+  },
+  {
+    "keyword": "極力誇獎",
+    "type": "pos",
+    "pos": 321,
+    "neg": 187
+  },
+  {
+    "keyword": "極好",
+    "type": "pos",
+    "pos": 165,
+    "neg": 102
+  },
+  {
+    "keyword": "極度高興",
+    "type": "pos",
+    "pos": 6965,
+    "neg": 2435
+  },
+  {
+    "keyword": "極貴重",
+    "type": "pos",
+    "pos": 443,
+    "neg": 234
+  },
+  {
+    "keyword": "極樂",
+    "type": "pos",
+    "pos": 21,
+    "neg": 2
+  },
+  {
+    "keyword": "溫文",
+    "type": "neg",
+    "pos": 6,
+    "neg": 11
+  },
+  {
+    "keyword": "溫文儒雅",
+    "type": "pos",
+    "pos": 120,
+    "neg": 82
+  },
+  {
+    "keyword": "溫和",
+    "type": "pos",
+    "pos": 1206,
+    "neg": 993
+  },
+  {
+    "keyword": "溫柔",
+    "type": "pos",
+    "pos": 1648,
+    "neg": 984
+  },
+  {
+    "keyword": "溫柔親切",
+    "type": "do_judge",
+    "pos": 0,
+    "neg": 0
+  },
+  {
+    "keyword": "溫順",
+    "type": "pos",
+    "pos": 101,
+    "neg": 76
+  },
+  {
+    "keyword": "溫暖",
+    "type": "pos",
+    "pos": 7340,
+    "neg": 3144
+  },
+  {
+    "keyword": "準備",
+    "type": "pos",
+    "pos": 22117,
+    "neg": 14477
+  },
+  {
+    "keyword": "照耀",
+    "type": "pos",
+    "pos": 143,
+    "neg": 78
+  },
+  {
+    "keyword": "煥發",
+    "type": "pos",
+    "pos": 70,
+    "neg": 41
+  },
+  {
+    "keyword": "當心",
+    "type": "do_judge",
+    "pos": 0,
+    "neg": 0
+  },
+  {
+    "keyword": "當然",
+    "type": "pos",
+    "pos": 2454,
+    "neg": 1763
+  },
+  {
+    "keyword": "萬能",
+    "type": "pos",
+    "pos": 233,
+    "neg": 133
+  },
+  {
+    "keyword": "節制",
+    "type": "do_judge",
+    "pos": 0,
+    "neg": 0
+  },
+  {
+    "keyword": "節約",
+    "type": "pos",
+    "pos": 314,
+    "neg": 119
+  },
+  {
+    "keyword": "節儉",
+    "type": "pos",
+    "pos": 250,
+    "neg": 126
+  },
+  {
+    "keyword": "經得起檢驗",
+    "type": "pos",
+    "pos": 198,
+    "neg": 162
+  },
+  {
+    "keyword": "經營",
+    "type": "pos",
+    "pos": 15528,
+    "neg": 7964
+  },
+  {
+    "keyword": "經驗",
+    "type": "pos",
+    "pos": 20815,
+    "neg": 12830
+  },
+  {
+    "keyword": "義務",
+    "type": "pos",
+    "pos": 2499,
+    "neg": 1904
+  },
+  {
+    "keyword": "羨慕",
+    "type": "pos",
+    "pos": 3383,
+    "neg": 1338
+  },
+  {
+    "keyword": "聖人",
+    "type": "pos",
+    "pos": 169,
+    "neg": 102
+  },
+  {
+    "keyword": "聖徒",
+    "type": "pos",
+    "pos": 16,
+    "neg": 10
+  },
+  {
+    "keyword": "聖潔",
+    "type": "pos",
+    "pos": 16,
+    "neg": 10
+  },
+  {
+    "keyword": "補足",
+    "type": "pos",
+    "pos": 1059,
+    "neg": 603
+  },
+  {
+    "keyword": "解決",
+    "type": "pos",
+    "pos": 18437,
+    "neg": 12598
+  },
+  {
+    "keyword": "解除",
+    "type": "pos",
+    "pos": 2238,
+    "neg": 1793
+  },
+  {
+    "keyword": "解除武裝",
+    "type": "pos",
+    "pos": 2238,
+    "neg": 1793
+  },
+  {
+    "keyword": "解開",
+    "type": "pos",
+    "pos": 676,
+    "neg": 633
+  },
+  {
+    "keyword": "詳細",
+    "type": "pos",
+    "pos": 2072,
+    "neg": 1125
+  },
+  {
+    "keyword": "詳盡",
+    "type": "pos",
+    "pos": 131,
+    "neg": 91
+  },
+  {
+    "keyword": "詩意",
+    "type": "pos",
+    "pos": 291,
+    "neg": 131
+  },
+  {
+    "keyword": "誇獎",
+    "type": "pos",
+    "pos": 321,
+    "neg": 187
+  },
+  {
+    "keyword": "詼諧",
+    "type": "pos",
+    "pos": 288,
+    "neg": 152
+  },
+  {
+    "keyword": "誠摯",
+    "type": "pos",
+    "pos": 313,
+    "neg": 175
+  },
+  {
+    "keyword": "誠懇",
+    "type": "pos",
+    "pos": 331,
+    "neg": 237
+  },
+  {
+    "keyword": "資助",
+    "type": "pos",
+    "pos": 1364,
+    "neg": 815
+  },
+  {
+    "keyword": "資源",
+    "type": "pos",
+    "pos": 15955,
+    "neg": 7886
+  },
+  {
+    "keyword": "資源豐富",
+    "type": "pos",
+    "pos": 11605,
+    "neg": 3933
+  },
+  {
+    "keyword": "較好",
+    "type": "pos",
+    "pos": 79852,
+    "neg": 50933
+  },
+  {
+    "keyword": "較好者",
+    "type": "do_judge",
+    "pos": 0,
+    "neg": 0
+  },
+  {
+    "keyword": "較優",
+    "type": "pos",
+    "pos": 1812,
+    "neg": 1305
+  },
+  {
+    "keyword": "較優者",
+    "type": "pos",
+    "pos": 1812,
+    "neg": 1305
+  },
+  {
+    "keyword": "道理",
+    "type": "pos",
+    "pos": 3311,
+    "neg": 2756
+  },
+  {
+    "keyword": "道德",
+    "type": "pos",
+    "pos": 2157,
+    "neg": 1875
+  },
+  {
+    "keyword": "道德崇高",
+    "type": "pos",
+    "pos": 430,
+    "neg": 288
+  },
+  {
+    "keyword": "達成",
+    "type": "pos",
+    "pos": 11026,
+    "neg": 7268
+  },
+  {
+    "keyword": "達到",
+    "type": "pos",
+    "pos": 14361,
+    "neg": 7514
+  },
+  {
+    "keyword": "逼真",
+    "type": "pos",
+    "pos": 269,
+    "neg": 199
+  },
+  {
+    "keyword": "頌揚",
+    "type": "pos",
+    "pos": 70,
+    "neg": 40
+  },
+  {
+    "keyword": "鼓掌",
+    "type": "pos",
+    "pos": 427,
+    "neg": 290
+  },
+  {
+    "keyword": "鼓掌歡呼表示通過",
+    "type": "pos",
+    "pos": 988,
+    "neg": 584
+  },
+  {
+    "keyword": "鼓掌歡迎",
+    "type": "pos",
+    "pos": 427,
+    "neg": 290
+  },
+  {
+    "keyword": "鼓舞",
+    "type": "pos",
+    "pos": 1313,
+    "neg": 753
+  },
+  {
+    "keyword": "鼓舞人心",
+    "type": "pos",
+    "pos": 1313,
+    "neg": 753
+  },
+  {
+    "keyword": "鼓勵",
+    "type": "pos",
+    "pos": 17748,
+    "neg": 8567
+  },
+  {
+    "keyword": "嘉獎",
+    "type": "pos",
+    "pos": 92,
+    "neg": 52
+  },
+  {
+    "keyword": "嘟嘟",
+    "type": "pos",
+    "pos": 177,
+    "neg": 120
+  },
+  {
+    "keyword": "夥伴",
+    "type": "pos",
+    "pos": 8953,
+    "neg": 3993
+  },
+  {
+    "keyword": "寧靜",
+    "type": "pos",
+    "pos": 670,
+    "neg": 341
+  },
+  {
+    "keyword": "實用",
+    "type": "pos",
+    "pos": 1610,
+    "neg": 549
+  },
+  {
+    "keyword": "實在",
+    "type": "pos",
+    "pos": 1013,
+    "neg": 849
+  },
+  {
+    "keyword": "實在論",
+    "type": "pos",
+    "pos": 1203,
+    "neg": 1011
+  },
+  {
+    "keyword": "實行",
+    "type": "pos",
+    "pos": 1113,
+    "neg": 788
+  },
+  {
+    "keyword": "實際",
+    "type": "pos",
+    "pos": 7568,
+    "neg": 3832
+  },
+  {
+    "keyword": "實際可行",
+    "type": "pos",
+    "pos": 1386,
+    "neg": 911
+  },
+  {
+    "keyword": "嶄新",
+    "type": "pos",
+    "pos": 1504,
+    "neg": 505
+  },
+  {
+    "keyword": "慷慨",
+    "type": "pos",
+    "pos": 243,
+    "neg": 125
+  },
+  {
+    "keyword": "暢談",
+    "type": "pos",
+    "pos": 702,
+    "neg": 414
+  },
+  {
+    "keyword": "榮耀",
+    "type": "pos",
+    "pos": 2219,
+    "neg": 900
+  },
+  {
+    "keyword": "榮譽",
+    "type": "pos",
+    "pos": 2851,
+    "neg": 1422
+  },
+  {
+    "keyword": "漂亮",
+    "type": "pos",
+    "pos": 3851,
+    "neg": 2256
+  },
+  {
+    "keyword": "滿意",
+    "type": "pos",
+    "pos": 7426,
+    "neg": 3033
+  },
+  {
+    "keyword": "滿意地說",
+    "type": "do_judge",
+    "pos": null,
+    "neg": null
+  },
+  {
+    "keyword": "滿懷",
+    "type": "pos",
+    "pos": 289,
+    "neg": 222
+  },
+  {
+    "keyword": "滿懷敬畏",
+    "type": "pos",
+    "pos": 289,
+    "neg": 222
+  },
+  {
+    "keyword": "盡情",
+    "type": "pos",
+    "pos": 104,
+    "neg": 36
+  },
+  {
+    "keyword": "睿智",
+    "type": "pos",
+    "pos": 206,
+    "neg": 89
+  },
+  {
+    "keyword": "福利",
+    "type": "pos",
+    "pos": 4974,
+    "neg": 2009
+  },
+  {
+    "keyword": "福氣",
+    "type": "pos",
+    "pos": 632,
+    "neg": 189
+  },
+  {
+    "keyword": "稱心",
+    "type": "pos",
+    "pos": 14,
+    "neg": 10
+  },
+  {
+    "keyword": "稱讚",
+    "type": "pos",
+    "pos": 4080,
+    "neg": 2432
+  },
+  {
+    "keyword": "端正",
+    "type": "pos",
+    "pos": 161,
+    "neg": 111
+  },
+  {
+    "keyword": "端莊",
+    "type": "pos",
+    "pos": 103,
+    "neg": 61
+  },
+  {
+    "keyword": "管理",
+    "type": "pos",
+    "pos": 13401,
+    "neg": 7135
+  },
+  {
+    "keyword": "精力",
+    "type": "pos",
+    "pos": 1147,
+    "neg": 659
+  },
+  {
+    "keyword": "精力充沛",
+    "type": "pos",
+    "pos": 639,
+    "neg": 343
+  },
+  {
+    "keyword": "精心",
+    "type": "pos",
+    "pos": 629,
+    "neg": 249
+  },
+  {
+    "keyword": "精巧",
+    "type": "pos",
+    "pos": 210,
+    "neg": 61
+  },
+  {
+    "keyword": "精明",
+    "type": "pos",
+    "pos": 216,
+    "neg": 203
+  },
+  {
+    "keyword": "精美",
+    "type": "pos",
+    "pos": 969,
+    "neg": 256
+  },
+  {
+    "keyword": "精緻",
+    "type": "pos",
+    "pos": 2350,
+    "neg": 819
+  },
+  {
+    "keyword": "精密",
+    "type": "pos",
+    "pos": 749,
+    "neg": 308
+  },
+  {
+    "keyword": "精細",
+    "type": "pos",
+    "pos": 282,
+    "neg": 127
+  },
+  {
+    "keyword": "精通",
+    "type": "pos",
+    "pos": 348,
+    "neg": 196
+  },
+  {
+    "keyword": "精確",
+    "type": "pos",
+    "pos": 416,
+    "neg": 236
+  },
+  {
+    "keyword": "精確度",
+    "type": "pos",
+    "pos": 36,
+    "neg": 29
+  },
+  {
+    "keyword": "精選",
+    "type": "pos",
+    "pos": 1973,
+    "neg": 554
+  },
+  {
+    "keyword": "緊要",
+    "type": "pos",
+    "pos": 170,
+    "neg": 146
+  },
+  {
+    "keyword": "認可",
+    "type": "pos",
+    "pos": 2549,
+    "neg": 758
+  },
+  {
+    "keyword": "認真",
+    "type": "pos",
+    "pos": 3322,
+    "neg": 2178
+  },
+  {
+    "keyword": "說明",
+    "type": "pos",
+    "pos": 15189,
+    "neg": 10696
+  },
+  {
+    "keyword": "說服",
+    "type": "pos",
+    "pos": 2427,
+    "neg": 2023
+  },
+  {
+    "keyword": "說服力",
+    "type": "pos",
+    "pos": 539,
+    "neg": 403
+  },
+  {
+    "keyword": "誘人",
+    "type": "pos",
+    "pos": 453,
+    "neg": 220
+  },
+  {
+    "keyword": "豪勇",
+    "type": "do_judge",
+    "pos": 0,
+    "neg": 0
+  },
+  {
+    "keyword": "豪華",
+    "type": "pos",
+    "pos": 1578,
+    "neg": 668
+  },
+  {
+    "keyword": "輔助",
+    "type": "pos",
+    "pos": 1809,
+    "neg": 908
+  },
+  {
+    "keyword": "輕快",
+    "type": "pos",
+    "pos": 311,
+    "neg": 163
+  },
+  {
+    "keyword": "遠見",
+    "type": "pos",
+    "pos": 649,
+    "neg": 378
+  },
+  {
+    "keyword": "儀態高貴",
+    "type": "pos",
+    "pos": 397,
+    "neg": 276
+  },
+  {
+    "keyword": "增加",
+    "type": "pos",
+    "pos": 25234,
+    "neg": 14125
+  },
+  {
+    "keyword": "增進",
+    "type": "pos",
+    "pos": 2865,
+    "neg": 888
+  },
+  {
+    "keyword": "增進友誼",
+    "type": "pos",
+    "pos": 2865,
+    "neg": 888
+  },
+  {
+    "keyword": "嬉戲",
+    "type": "pos",
+    "pos": 132,
+    "neg": 53
+  },
+  {
+    "keyword": "嫻雅",
+    "type": "do_judge",
+    "pos": 0,
+    "neg": 0
+  },
+  {
+    "keyword": "嬌美",
+    "type": "pos",
+    "pos": 11,
+    "neg": 0
+  },
+  {
+    "keyword": "寬大",
+    "type": "pos",
+    "pos": 114,
+    "neg": 69
+  },
+  {
+    "keyword": "寬容",
+    "type": "pos",
+    "pos": 641,
+    "neg": 521
+  },
+  {
+    "keyword": "寬恕",
+    "type": "neg",
+    "pos": 36,
+    "neg": 165
+  },
+  {
+    "keyword": "寬闊",
+    "type": "pos",
+    "pos": 232,
+    "neg": 118
+  },
+  {
+    "keyword": "審慎",
+    "type": "pos",
+    "pos": 484,
+    "neg": 254
+  },
+  {
+    "keyword": "寫實",
+    "type": "pos",
+    "pos": 369,
+    "neg": 233
+  },
+  {
+    "keyword": "履行",
+    "type": "pos",
+    "pos": 1176,
+    "neg": 863
+  },
+  {
+    "keyword": "廣闊",
+    "type": "pos",
+    "pos": 612,
+    "neg": 228
+  },
+  {
+    "keyword": "慶祝",
+    "type": "pos",
+    "pos": 5435,
+    "neg": 2061
+  },
+  {
+    "keyword": "慶賀",
+    "type": "pos",
+    "pos": 369,
+    "neg": 87
+  },
+  {
+    "keyword": "憐憫",
+    "type": "neg",
+    "pos": 136,
+    "neg": 204
+  },
+  {
+    "keyword": "憐憫心",
+    "type": "neg",
+    "pos": 136,
+    "neg": 204
+  },
+  {
+    "keyword": "標緻",
+    "type": "pos",
+    "pos": 20,
+    "neg": 11
+  },
+  {
+    "keyword": "樂而忘憂",
+    "type": "pos",
+    "pos": 51,
+    "neg": 19
+  },
+  {
+    "keyword": "樂事",
+    "type": "pos",
+    "pos": 116,
+    "neg": 35
+  },
+  {
+    "keyword": "樂園",
+    "type": "pos",
+    "pos": 1249,
+    "neg": 378
+  },
+  {
+    "keyword": "樂意",
+    "type": "pos",
+    "pos": 951,
+    "neg": 621
+  },
+  {
+    "keyword": "樂趣",
+    "type": "pos",
+    "pos": 4006,
+    "neg": 1240
+  },
+  {
+    "keyword": "毅然",
+    "type": "pos",
+    "pos": 16,
+    "neg": 10
+  },
+  {
+    "keyword": "澄清",
+    "type": "pos",
+    "pos": 4384,
+    "neg": 4372
+  },
+  {
+    "keyword": "潔淨",
+    "type": "pos",
+    "pos": 313,
+    "neg": 101
+  },
+  {
+    "keyword": "潛心",
+    "type": "neg",
+    "pos": 2,
+    "neg": 9
+  },
+  {
+    "keyword": "潛心於",
+    "type": "pos",
+    "pos": 3,
+    "neg": 0
+  },
+  {
+    "keyword": "熟悉",
+    "type": "pos",
+    "pos": 6062,
+    "neg": 3961
+  },
+  {
+    "keyword": "熟慮",
+    "type": "pos",
+    "pos": 9,
+    "neg": 4
+  },
+  {
+    "keyword": "熟練",
+    "type": "pos",
+    "pos": 427,
+    "neg": 281
+  },
+  {
+    "keyword": "熱切",
+    "type": "pos",
+    "pos": 126,
+    "neg": 38
+  },
+  {
+    "keyword": "熱心腸",
+    "type": "pos",
+    "pos": 52,
+    "neg": 24
+  },
+  {
+    "keyword": "熱忱",
+    "type": "pos",
+    "pos": 1026,
+    "neg": 358
+  },
+  {
+    "keyword": "熱烈",
+    "type": "pos",
+    "pos": 2951,
+    "neg": 1433
+  },
+  {
+    "keyword": "熱衷",
+    "type": "pos",
+    "pos": 1302,
+    "neg": 399
+  },
+  {
+    "keyword": "熱望",
+    "type": "pos",
+    "pos": 2,
+    "neg": 0
+  },
+  {
+    "keyword": "熱愛",
+    "type": "pos",
+    "pos": 8270,
+    "neg": 2872
+  },
+  {
+    "keyword": "熱誠",
+    "type": "pos",
+    "pos": 278,
+    "neg": 107
+  },
+  {
+    "keyword": "獎品",
+    "type": "pos",
+    "pos": 684,
+    "neg": 170
+  },
+  {
+    "keyword": "獎勵",
+    "type": "pos",
+    "pos": 1945,
+    "neg": 941
+  },
+  {
+    "keyword": "確定",
+    "type": "pos",
+    "pos": 10648,
+    "neg": 8877
+  },
+  {
+    "keyword": "確信",
+    "type": "neg",
+    "pos": 260,
+    "neg": 289
+  },
+  {
+    "keyword": "確實",
+    "type": "pos",
+    "pos": 1817,
+    "neg": 1458
+  },
+  {
+    "keyword": "締造",
+    "type": "pos",
+    "pos": 1555,
+    "neg": 928
+  },
+  {
+    "keyword": "締造者",
+    "type": "do_judge",
+    "pos": 15,
+    "neg": 15
+  },
+  {
+    "keyword": "緩和",
+    "type": "pos",
+    "pos": 1623,
+    "neg": 1415
+  },
+  {
+    "keyword": "衛生",
+    "type": "pos",
+    "pos": 2680,
+    "neg": 1504
+  },
+  {
+    "keyword": "褒揚",
+    "type": "pos",
+    "pos": 118,
+    "neg": 28
+  },
+  {
+    "keyword": "談笑",
+    "type": "pos",
+    "pos": 54,
+    "neg": 46
+  },
+  {
+    "keyword": "請求",
+    "type": "neg",
+    "pos": 2265,
+    "neg": 2784
+  },
+  {
+    "keyword": "調和",
+    "type": "pos",
+    "pos": 462,
+    "neg": 260
+  },
+  {
+    "keyword": "調停",
+    "type": "neg",
+    "pos": 74,
+    "neg": 123
+  },
+  {
+    "keyword": "調劑",
+    "type": "pos",
+    "pos": 177,
+    "neg": 75
+  },
+  {
+    "keyword": "賢人",
+    "type": "pos",
+    "pos": 22,
+    "neg": 10
+  },
+  {
+    "keyword": "賢明",
+    "type": "neg",
+    "pos": 2,
+    "neg": 4
+  },
+  {
+    "keyword": "趣味",
+    "type": "pos",
+    "pos": 2323,
+    "neg": 683
+  },
+  {
+    "keyword": "趣味相同",
+    "type": "pos",
+    "pos": 5979,
+    "neg": 3904
+  },
+  {
+    "keyword": "輝煌",
+    "type": "pos",
+    "pos": 850,
+    "neg": 485
+  },
+  {
+    "keyword": "輝耀",
+    "type": "do_judge",
+    "pos": 0,
+    "neg": 0
+  },
+  {
+    "keyword": "適任",
+    "type": "pos",
+    "pos": 560,
+    "neg": 559
+  },
+  {
+    "keyword": "適合",
+    "type": "pos",
+    "pos": 10283,
+    "neg": 4649
+  },
+  {
+    "keyword": "適宜",
+    "type": "pos",
+    "pos": 384,
+    "neg": 142
+  },
+  {
+    "keyword": "適度",
+    "type": "pos",
+    "pos": 680,
+    "neg": 387
+  },
+  {
+    "keyword": "適時",
+    "type": "pos",
+    "pos": 2706,
+    "neg": 1426
+  },
+  {
+    "keyword": "適意",
+    "type": "pos",
+    "pos": 3,
+    "neg": 0
+  },
+  {
+    "keyword": "適當",
+    "type": "pos",
+    "pos": 3202,
+    "neg": 2073
+  },
+  {
+    "keyword": "適應",
+    "type": "pos",
+    "pos": 3014,
+    "neg": 2056
+  },
+  {
+    "keyword": "醉人",
+    "type": "pos",
+    "pos": 66,
+    "neg": 21
+  },
+  {
+    "keyword": "醉心",
+    "type": "pos",
+    "pos": 194,
+    "neg": 69
+  },
+  {
+    "keyword": "魅力",
+    "type": "pos",
+    "pos": 5661,
+    "neg": 2277
+  },
+  {
+    "keyword": "儒雅",
+    "type": "pos",
+    "pos": 11,
+    "neg": 5
+  },
+  {
+    "keyword": "凝聚",
+    "type": "pos",
+    "pos": 2755,
+    "neg": 1200
+  },
+  {
+    "keyword": "勳績",
+    "type": "pos",
+    "pos": 4,
+    "neg": 0
+  },
+  {
+    "keyword": "噪聲小",
+    "type": "pos",
+    "pos": 47835,
+    "neg": 30273
+  },
+  {
+    "keyword": "奮爭",
+    "type": "do_judge",
+    "pos": 0,
+    "neg": 0
+  },
+  {
+    "keyword": "奮發",
+    "type": "pos",
+    "pos": 44,
+    "neg": 11
+  },
+  {
+    "keyword": "學識",
+    "type": "pos",
+    "pos": 174,
+    "neg": 85
+  },
+  {
+    "keyword": "戰勝",
+    "type": "pos",
+    "pos": 754,
+    "neg": 596
+  },
+  {
+    "keyword": "擅長",
+    "type": "pos",
+    "pos": 3213,
+    "neg": 1808
+  },
+  {
+    "keyword": "擁有",
+    "type": "pos",
+    "pos": 23085,
+    "neg": 11571
+  },
+  {
+    "keyword": "擔負",
+    "type": "pos",
+    "pos": 275,
+    "neg": 212
+  },
+  {
+    "keyword": "整齊",
+    "type": "pos",
+    "pos": 494,
+    "neg": 327
+  },
+  {
+    "keyword": "整潔",
+    "type": "pos",
+    "pos": 246,
+    "neg": 156
+  },
+  {
+    "keyword": "樸素",
+    "type": "pos",
+    "pos": 214,
+    "neg": 102
+  },
+  {
+    "keyword": "機巧",
+    "type": "do_judge",
+    "pos": 6,
+    "neg": 6
+  },
+  {
+    "keyword": "機敏",
+    "type": "neg",
+    "pos": 57,
+    "neg": 58
+  },
+  {
+    "keyword": "機智",
+    "type": "pos",
+    "pos": 146,
+    "neg": 103
+  },
+  {
+    "keyword": "機會",
+    "type": "pos",
+    "pos": 45060,
+    "neg": 26173
+  },
+  {
+    "keyword": "機警",
+    "type": "pos",
+    "pos": 155,
+    "neg": 96
+  },
+  {
+    "keyword": "機靈",
+    "type": "pos",
+    "pos": 166,
+    "neg": 132
+  },
+  {
+    "keyword": "激勵",
+    "type": "pos",
+    "pos": 2976,
+    "neg": 1468
+  },
+  {
+    "keyword": "獨一無二",
+    "type": "pos",
+    "pos": 1125,
+    "neg": 357
+  },
+  {
+    "keyword": "獨立",
+    "type": "pos",
+    "pos": 8607,
+    "neg": 5455
+  },
+  {
+    "keyword": "獨立自主",
+    "type": "pos",
+    "pos": 2765,
+    "neg": 1770
+  },
+  {
+    "keyword": "獨有",
+    "type": "pos",
+    "pos": 1113,
+    "neg": 326
+  },
+  {
+    "keyword": "獨特",
+    "type": "pos",
+    "pos": 5364,
+    "neg": 1734
+  },
+  {
+    "keyword": "獨創",
+    "type": "pos",
+    "pos": 457,
+    "neg": 142
+  },
+  {
+    "keyword": "積極",
+    "type": "pos",
+    "pos": 6671,
+    "neg": 3291
+  },
+  {
+    "keyword": "興旺",
+    "type": "pos",
+    "pos": 193,
+    "neg": 111
+  },
+  {
+    "keyword": "興盛",
+    "type": "pos",
+    "pos": 439,
+    "neg": 173
+  },
+  {
+    "keyword": "興趣",
+    "type": "pos",
+    "pos": 8764,
+    "neg": 4374
+  },
+  {
+    "keyword": "親切",
+    "type": "pos",
+    "pos": 1262,
+    "neg": 512
+  },
+  {
+    "keyword": "親近",
+    "type": "pos",
+    "pos": 2019,
+    "neg": 1129
+  },
+  {
+    "keyword": "親密",
+    "type": "pos",
+    "pos": 2069,
+    "neg": 1640
+  },
+  {
+    "keyword": "親愛",
+    "type": "pos",
+    "pos": 609,
+    "neg": 369
+  },
+  {
+    "keyword": "諧調",
+    "type": "do_judge",
+    "pos": 0,
+    "neg": 0
+  },
+  {
+    "keyword": "諾言",
+    "type": "pos",
+    "pos": 278,
+    "neg": 158
+  },
+  {
+    "keyword": "遵守",
+    "type": "pos",
+    "pos": 3010,
+    "neg": 1847
+  },
+  {
+    "keyword": "遵從",
+    "type": "pos",
+    "pos": 299,
+    "neg": 194
+  },
+  {
+    "keyword": "頭腦清楚",
+    "type": "pos",
+    "pos": 10558,
+    "neg": 8731
+  },
+  {
+    "keyword": "優秀",
+    "type": "pos",
+    "pos": 5654,
+    "neg": 2552
+  },
+  {
+    "keyword": "優良",
+    "type": "pos",
+    "pos": 1872,
+    "neg": 619
+  },
+  {
+    "keyword": "優於",
+    "type": "pos",
+    "pos": 2563,
+    "neg": 1210
+  },
+  {
+    "keyword": "優美",
+    "type": "pos",
+    "pos": 986,
+    "neg": 335
+  },
+  {
+    "keyword": "優勝",
+    "type": "pos",
+    "pos": 379,
+    "neg": 164
+  },
+  {
+    "keyword": "優雅",
+    "type": "pos",
+    "pos": 2050,
+    "neg": 687
+  },
+  {
+    "keyword": "優勢",
+    "type": "pos",
+    "pos": 9648,
+    "neg": 5067
+  },
+  {
+    "keyword": "優質",
+    "type": "pos",
+    "pos": 17357,
+    "neg": 8870
+  },
+  {
+    "keyword": "償清",
+    "type": "neg",
+    "pos": 21,
+    "neg": 36
+  },
+  {
+    "keyword": "幫手",
+    "type": "pos",
+    "pos": 829,
+    "neg": 434
+  },
+  {
+    "keyword": "幫助",
+    "type": "pos",
+    "pos": 18272,
+    "neg": 10461
+  },
+  {
+    "keyword": "幫助脫離困境",
+    "type": "pos",
+    "pos": 2314,
+    "neg": 1819
+  },
+  {
+    "keyword": "懂事",
+    "type": "pos",
+    "pos": 587,
+    "neg": 448
+  },
+  {
+    "keyword": "懇求",
+    "type": "neg",
+    "pos": 240,
+    "neg": 328
+  },
+  {
+    "keyword": "營養",
+    "type": "pos",
+    "pos": 3649,
+    "neg": 1800
+  },
+  {
+    "keyword": "燦爛",
+    "type": "pos",
+    "pos": 906,
+    "neg": 448
+  },
+  {
+    "keyword": "獲利",
+    "type": "pos",
+    "pos": 4885,
+    "neg": 2603
+  },
+  {
+    "keyword": "獲得",
+    "type": "pos",
+    "pos": 44227,
+    "neg": 22059
+  },
+  {
+    "keyword": "獲得勝利",
+    "type": "pos",
+    "pos": 44227,
+    "neg": 22059
+  },
+  {
+    "keyword": "獲勝",
+    "type": "pos",
+    "pos": 1241,
+    "neg": 949
+  },
+  {
+    "keyword": "矯正",
+    "type": "pos",
+    "pos": 563,
+    "neg": 411
+  },
+  {
+    "keyword": "縫補",
+    "type": "pos",
+    "pos": 69,
+    "neg": 55
+  },
+  {
+    "keyword": "繁茂",
+    "type": "pos",
+    "pos": 24,
+    "neg": 17
+  },
+  {
+    "keyword": "繁盛",
+    "type": "pos",
+    "pos": 70,
+    "neg": 18
+  },
+  {
+    "keyword": "繁榮",
+    "type": "pos",
+    "pos": 1884,
+    "neg": 958
+  },
+  {
+    "keyword": "聲望",
+    "type": "pos",
+    "pos": 775,
+    "neg": 586
+  },
+  {
+    "keyword": "聲譽",
+    "type": "pos",
+    "pos": 624,
+    "neg": 623
+  },
+  {
+    "keyword": "聲譽好",
+    "type": "pos",
+    "pos": 79852,
+    "neg": 50933
+  },
+  {
+    "keyword": "聰明",
+    "type": "pos",
+    "pos": 2315,
+    "neg": 1555
+  },
+  {
+    "keyword": "聰慧",
+    "type": "pos",
+    "pos": 36,
+    "neg": 35
+  },
+  {
+    "keyword": "聰穎",
+    "type": "pos",
+    "pos": 39,
+    "neg": 12
+  },
+  {
+    "keyword": "聯合",
+    "type": "pos",
+    "pos": 4487,
+    "neg": 2682
+  },
+  {
+    "keyword": "聯合起來",
+    "type": "pos",
+    "pos": 4487,
+    "neg": 2682
+  },
+  {
+    "keyword": "膽量",
+    "type": "pos",
+    "pos": 232,
+    "neg": 177
+  },
+  {
+    "keyword": "舉行",
+    "type": "pos",
+    "pos": 22704,
+    "neg": 11345
+  },
+  {
+    "keyword": "舉行凱旋式",
+    "type": "pos",
+    "pos": 22704,
+    "neg": 11345
+  },
+  {
+    "keyword": "謙卑",
+    "type": "pos",
+    "pos": 376,
+    "neg": 291
+  },
+  {
+    "keyword": "謙恭",
+    "type": "neg",
+    "pos": 0,
+    "neg": 1
+  },
+  {
+    "keyword": "謙恭有禮",
+    "type": "pos",
+    "pos": 5,
+    "neg": 1
+  },
+  {
+    "keyword": "謙虛",
+    "type": "pos",
+    "pos": 425,
+    "neg": 265
+  },
+  {
+    "keyword": "謙遜",
+    "type": "pos",
+    "pos": 92,
+    "neg": 42
+  },
+  {
+    "keyword": "豁免",
+    "type": "pos",
+    "pos": 309,
+    "neg": 229
+  },
+  {
+    "keyword": "賺錢",
+    "type": "pos",
+    "pos": 3897,
+    "neg": 2699
+  },
+  {
+    "keyword": "避免",
+    "type": "pos",
+    "pos": 17497,
+    "neg": 11989
+  },
+  {
+    "keyword": "鍾愛",
+    "type": "pos",
+    "pos": 565,
+    "neg": 176
+  },
+  {
+    "keyword": "鍛煉",
+    "type": "pos",
+    "pos": 94,
+    "neg": 70
+  },
+  {
+    "keyword": "鮮明",
+    "type": "pos",
+    "pos": 1429,
+    "neg": 727
+  },
+  {
+    "keyword": "鮮豔",
+    "type": "pos",
+    "pos": 404,
+    "neg": 144
+  },
+  {
+    "keyword": "嚮往",
+    "type": "pos",
+    "pos": 1457,
+    "neg": 727
+  },
+  {
+    "keyword": "獵獲",
+    "type": "pos",
+    "pos": 3,
+    "neg": 1
+  },
+  {
+    "keyword": "禮貌",
+    "type": "pos",
+    "pos": 1230,
+    "neg": 1015
+  },
+  {
+    "keyword": "簡易",
+    "type": "pos",
+    "pos": 665,
+    "neg": 324
+  },
+  {
+    "keyword": "簡明",
+    "type": "neg",
+    "pos": 5,
+    "neg": 20
+  },
+  {
+    "keyword": "簡樸",
+    "type": "pos",
+    "pos": 159,
+    "neg": 75
+  },
+  {
+    "keyword": "織補",
+    "type": "do_judge",
+    "pos": 4,
+    "neg": 4
+  },
+  {
+    "keyword": "職責",
+    "type": "pos",
+    "pos": 1255,
+    "neg": 919
+  },
+  {
+    "keyword": "謹慎",
+    "type": "pos",
+    "pos": 1916,
+    "neg": 1355
+  },
+  {
+    "keyword": "豐富",
+    "type": "pos",
+    "pos": 11605,
+    "neg": 3933
+  },
+  {
+    "keyword": "豐滿",
+    "type": "pos",
+    "pos": 162,
+    "neg": 127
+  },
+  {
+    "keyword": "豐饒",
+    "type": "pos",
+    "pos": 126,
+    "neg": 44
+  },
+  {
+    "keyword": "醫治",
+    "type": "pos",
+    "pos": 271,
+    "neg": 260
+  },
+  {
+    "keyword": "寵愛",
+    "type": "pos",
+    "pos": 1107,
+    "neg": 326
+  },
+  {
+    "keyword": "懷著",
+    "type": "pos",
+    "pos": 1634,
+    "neg": 1174
+  },
+  {
+    "keyword": "懷著希望",
+    "type": "pos",
+    "pos": 1634,
+    "neg": 1174
+  },
+  {
+    "keyword": "穩固",
+    "type": "pos",
+    "pos": 820,
+    "neg": 456
+  },
+  {
+    "keyword": "穩定",
+    "type": "pos",
+    "pos": 16094,
+    "neg": 9241
+  },
+  {
+    "keyword": "穩重",
+    "type": "pos",
+    "pos": 460,
+    "neg": 218
+  },
+  {
+    "keyword": "穩健",
+    "type": "pos",
+    "pos": 1796,
+    "neg": 701
+  },
+  {
+    "keyword": "藝術",
+    "type": "pos",
+    "pos": 9557,
+    "neg": 3278
+  },
+  {
+    "keyword": "贊同",
+    "type": "pos",
+    "pos": 1538,
+    "neg": 615
+  },
+  {
+    "keyword": "贊成",
+    "type": "pos",
+    "pos": 3478,
+    "neg": 1262
+  },
+  {
+    "keyword": "贊成者",
+    "type": "pos",
+    "pos": 3478,
+    "neg": 1262
+  },
+  {
+    "keyword": "贊成票",
+    "type": "pos",
+    "pos": 126,
+    "neg": 36
+  },
+  {
+    "keyword": "贊助",
+    "type": "pos",
+    "pos": 14619,
+    "neg": 8441
+  },
+  {
+    "keyword": "讚許",
+    "type": "pos",
+    "pos": 517,
+    "neg": 235
+  },
+  {
+    "keyword": "關心",
+    "type": "pos",
+    "pos": 24356,
+    "neg": 10395
+  },
+  {
+    "keyword": "難忘",
+    "type": "pos",
+    "pos": 2357,
+    "neg": 1162
+  },
+  {
+    "keyword": "願意",
+    "type": "pos",
+    "pos": 17830,
+    "neg": 13112
+  },
+  {
+    "keyword": "嚴密",
+    "type": "pos",
+    "pos": 175,
+    "neg": 134
+  },
+  {
+    "keyword": "嚴肅",
+    "type": "pos",
+    "pos": 1440,
+    "neg": 1083
+  },
+  {
+    "keyword": "寶貴",
+    "type": "pos",
+    "pos": 1673,
+    "neg": 991
+  },
+  {
+    "keyword": "懺悔",
+    "type": "neg",
+    "pos": 97,
+    "neg": 341
+  },
+  {
+    "keyword": "攙扶",
+    "type": "neg",
+    "pos": 338,
+    "neg": 383
+  },
+  {
+    "keyword": "覺察",
+    "type": "neg",
+    "pos": 182,
+    "neg": 194
+  },
+  {
+    "keyword": "警覺",
+    "type": "pos",
+    "pos": 945,
+    "neg": 656
+  },
+  {
+    "keyword": "騰躍",
+    "type": "pos",
+    "pos": 2,
+    "neg": 0
+  },
+  {
+    "keyword": "顧慮周到",
+    "type": "neg",
+    "pos": 1095,
+    "neg": 1421
+  },
+  {
+    "keyword": "魔力",
+    "type": "pos",
+    "pos": 418,
+    "neg": 189
+  },
+  {
+    "keyword": "魔法",
+    "type": "pos",
+    "pos": 532,
+    "neg": 230
+  },
+  {
+    "keyword": "權益",
+    "type": "pos",
+    "pos": 6982,
+    "neg": 4650
+  },
+  {
+    "keyword": "歡呼",
+    "type": "pos",
+    "pos": 988,
+    "neg": 584
+  },
+  {
+    "keyword": "歡欣",
+    "type": "pos",
+    "pos": 187,
+    "neg": 36
+  },
+  {
+    "keyword": "歡迎",
+    "type": "pos",
+    "pos": 15585,
+    "neg": 6437
+  },
+  {
+    "keyword": "歡笑",
+    "type": "pos",
+    "pos": 432,
+    "neg": 164
+  },
+  {
+    "keyword": "歡喜",
+    "type": "pos",
+    "pos": 1715,
+    "neg": 571
+  },
+  {
+    "keyword": "歡慶",
+    "type": "pos",
+    "pos": 2119,
+    "neg": 423
+  },
+  {
+    "keyword": "歡慶勝利",
+    "type": "pos",
+    "pos": 2723,
+    "neg": 2307
+  },
+  {
+    "keyword": "歡樂",
+    "type": "pos",
+    "pos": 5032,
+    "neg": 1036
+  },
+  {
+    "keyword": "歡鬧",
+    "type": "pos",
+    "pos": 10,
+    "neg": 2
+  },
+  {
+    "keyword": "歡騰",
+    "type": "pos",
+    "pos": 154,
+    "neg": 45
+  },
+  {
+    "keyword": "歡躍",
+    "type": "do_judge",
+    "pos": 0,
+    "neg": 0
+  },
+  {
+    "keyword": "聽話",
+    "type": "pos",
+    "pos": 524,
+    "neg": 421
+  },
+  {
+    "keyword": "鑒別力",
+    "type": "do_judge",
+    "pos": 0,
+    "neg": 0
+  },
+  {
+    "keyword": "纖細",
+    "type": "pos",
+    "pos": 568,
+    "neg": 315
+  },
+  {
+    "keyword": "變平靜",
+    "type": "pos",
+    "pos": 1718,
+    "neg": 1351
+  },
+  {
+    "keyword": "變好",
+    "type": "pos",
+    "pos": 926,
+    "neg": 673
+  },
+  {
+    "keyword": "變得較好",
+    "type": "pos",
+    "pos": 3350,
+    "neg": 2592
+  },
+  {
+    "keyword": "變清",
+    "type": "do_judge",
+    "pos": 0,
+    "neg": 0
+  },
+  {
+    "keyword": "邏輯",
+    "type": "pos",
+    "pos": 2984,
+    "neg": 2658
+  },
+  {
+    "keyword": "顯著",
+    "type": "pos",
+    "pos": 1506,
+    "neg": 910
+  },
+  {
+    "keyword": "顯赫",
+    "type": "pos",
+    "pos": 145,
+    "neg": 103
+  },
+  {
+    "keyword": "驚奇",
+    "type": "neg",
+    "pos": 975,
+    "neg": 1085
+  },
+  {
+    "keyword": "驚羨",
+    "type": "do_judge",
+    "pos": 0,
+    "neg": 0
+  },
+  {
+    "keyword": "體面",
+    "type": "pos",
+    "pos": 122,
+    "neg": 63
+  },
+  {
+    "keyword": "體貼",
+    "type": "pos",
+    "pos": 1513,
+    "neg": 697
+  },
+  {
+    "keyword": "體諒",
+    "type": "neg",
+    "pos": 1097,
+    "neg": 1533
+  },
+  {
+    "keyword": "讓步",
+    "type": "pos",
+    "pos": 1005,
+    "neg": 848
+  },
+  {
+    "keyword": "靈巧",
+    "type": "pos",
+    "pos": 78,
+    "neg": 72
+  },
+  {
+    "keyword": "靈活",
+    "type": "pos",
+    "pos": 1240,
+    "neg": 646
+  },
+  {
+    "keyword": "靈敏",
+    "type": "pos",
+    "pos": 205,
+    "neg": 141
+  },
+  {
+    "keyword": "靈感",
+    "type": "pos",
+    "pos": 3619,
+    "neg": 1417
+  },
+  {
+    "keyword": "讚美",
+    "type": "pos",
+    "pos": 767,
+    "neg": 527
+  },
+  {
+    "keyword": "讚揚",
+    "type": "pos",
+    "pos": 553,
+    "neg": 338
+  },
+  {
+    "keyword": "讚歎",
+    "type": "pos",
+    "pos": 145,
+    "neg": 97
+  },
+  {
+    "keyword": "讚歎不已",
+    "type": "pos",
+    "pos": 145,
+    "neg": 97
+  },
+  {
+    "keyword": "讚賞",
+    "type": "pos",
+    "pos": 1398,
+    "neg": 677
+  },
+  {
+    "keyword": "一吐為快",
+    "type": "neg",
+    "pos": 7,
+    "neg": 20
+  },
+  {
+    "keyword": "一見鍾情",
+    "type": "pos",
+    "pos": 473,
+    "neg": 190
+  },
+  {
+    "keyword": "一往情深",
+    "type": "pos",
+    "pos": 21,
+    "neg": 8
+  },
+  {
+    "keyword": "人味",
+    "type": "pos",
+    "pos": 116,
+    "neg": 71
+  },
+  {
+    "keyword": "大笑",
+    "type": "pos",
+    "pos": 1787,
+    "neg": 1412
+  },
+  {
+    "keyword": "大喜",
+    "type": "pos",
+    "pos": 118,
+    "neg": 57
+  },
+  {
+    "keyword": "大喜若狂",
+    "type": "pos",
+    "pos": 770,
+    "neg": 510
+  },
+  {
+    "keyword": "才華",
+    "type": "pos",
+    "pos": 1480,
+    "neg": 742
+  },
+  {
+    "keyword": "不亦樂乎",
+    "type": "pos",
+    "pos": 6,
+    "neg": 3
+  },
+  {
+    "keyword": "不忍",
+    "type": "neg",
+    "pos": 677,
+    "neg": 744
+  },
+  {
+    "keyword": "不爭",
+    "type": "pos",
+    "pos": 269,
+    "neg": 223
+  },
+  {
+    "keyword": "不遺餘力",
+    "type": "pos",
+    "pos": 986,
+    "neg": 287
+  },
+  {
+    "keyword": "互利",
+    "type": "pos",
+    "pos": 426,
+    "neg": 164
+  },
+  {
+    "keyword": "互助合作",
+    "type": "pos",
+    "pos": 73,
+    "neg": 36
+  },
+  {
+    "keyword": "互惠",
+    "type": "pos",
+    "pos": 340,
+    "neg": 224
+  },
+  {
+    "keyword": "互愛",
+    "type": "pos",
+    "pos": 21,
+    "neg": 18
+  },
+  {
+    "keyword": "互敬",
+    "type": "pos",
+    "pos": 15,
+    "neg": 8
+  },
+  {
+    "keyword": "仁善",
+    "type": "pos",
+    "pos": 9,
+    "neg": 3
+  },
+  {
+    "keyword": "分工",
+    "type": "pos",
+    "pos": 812,
+    "neg": 544
+  },
+  {
+    "keyword": "分工合作",
+    "type": "pos",
+    "pos": 182,
+    "neg": 90
+  },
+  {
+    "keyword": "天籟",
+    "type": "pos",
+    "pos": 222,
+    "neg": 41
+  },
+  {
+    "keyword": "太好",
+    "type": "pos",
+    "pos": 79852,
+    "neg": 50933
+  },
+  {
+    "keyword": "太好了",
+    "type": "neg",
+    "pos": 4,
+    "neg": 6
+  },
+  {
+    "keyword": "引以為傲",
+    "type": "pos",
+    "pos": 481,
+    "neg": 308
+  },
+  {
+    "keyword": "引吭",
+    "type": "pos",
+    "pos": 17,
+    "neg": 4
+  },
+  {
+    "keyword": "引吭高歌",
+    "type": "do_judge",
+    "pos": 0,
+    "neg": 0
+  },
+  {
+    "keyword": "心心相印",
+    "type": "pos",
+    "pos": 25,
+    "neg": 10
+  },
+  {
+    "keyword": "心如止水",
+    "type": "neg",
+    "pos": 6,
+    "neg": 13
+  },
+  {
+    "keyword": "心安理得",
+    "type": "pos",
+    "pos": 85,
+    "neg": 74
+  },
+  {
+    "keyword": "心有慼慼",
+    "type": "do_judge",
+    "pos": null,
+    "neg": null
+  },
+  {
+    "keyword": "心有靈犀",
+    "type": "do_judge",
+    "pos": null,
+    "neg": null
+  },
+  {
+    "keyword": "心花怒放",
+    "type": "pos",
+    "pos": 145,
+    "neg": 57
+  },
+  {
+    "keyword": "心動",
+    "type": "pos",
+    "pos": 1482,
+    "neg": 668
+  },
+  {
+    "keyword": "心想事成",
+    "type": "pos",
+    "pos": 144,
+    "neg": 85
+  },
+  {
+    "keyword": "心誠則靈",
+    "type": "pos",
+    "pos": 8,
+    "neg": 0
+  },
+  {
+    "keyword": "心儀",
+    "type": "pos",
+    "pos": 1162,
+    "neg": 477
+  },
+  {
+    "keyword": "心寬",
+    "type": "pos",
+    "pos": 24,
+    "neg": 6
+  },
+  {
+    "keyword": "心寬體胖",
+    "type": "neg",
+    "pos": 1,
+    "neg": 2
+  },
+  {
+    "keyword": "心曠神怡",
+    "type": "pos",
+    "pos": 140,
+    "neg": 33
+  },
+  {
+    "keyword": "日久生情",
+    "type": "pos",
+    "pos": 129,
+    "neg": 64
+  },
+  {
+    "keyword": "出人意表",
+    "type": "pos",
+    "pos": 67,
+    "neg": 37
+  },
+  {
+    "keyword": "出乎意料",
+    "type": "pos",
+    "pos": 276,
+    "neg": 231
+  },
+  {
+    "keyword": "出息",
+    "type": "neg",
+    "pos": 9,
+    "neg": 25
+  },
+  {
+    "keyword": "功德",
+    "type": "pos",
+    "pos": 310,
+    "neg": 183
+  },
+  {
+    "keyword": "平心",
+    "type": "do_judge",
+    "pos": 0,
+    "neg": 0
+  },
+  {
+    "keyword": "平心靜氣",
+    "type": "neg",
+    "pos": 9,
+    "neg": 19
+  },
+  {
+    "keyword": "平平淡淡",
+    "type": "neg",
+    "pos": 0,
+    "neg": 1
+  },
+  {
+    "keyword": "平平靜靜",
+    "type": "pos",
+    "pos": 5,
+    "neg": 1
+  },
+  {
+    "keyword": "平靜下來",
+    "type": "pos",
+    "pos": 105,
+    "neg": 64
+  },
+  {
+    "keyword": "母愛",
+    "type": "pos",
+    "pos": 308,
+    "neg": 141
+  },
+  {
+    "keyword": "甘美",
+    "type": "pos",
+    "pos": 39,
+    "neg": 10
+  },
+  {
+    "keyword": "甘甜",
+    "type": "pos",
+    "pos": 269,
+    "neg": 96
+  },
+  {
+    "keyword": "生日快樂",
+    "type": "pos",
+    "pos": 1292,
+    "neg": 313
+  },
+  {
+    "keyword": "生情",
+    "type": "do_judge",
+    "pos": 1,
+    "neg": 1
+  },
+  {
+    "keyword": "白金",
+    "type": "pos",
+    "pos": 295,
+    "neg": 150
+  },
+  {
+    "keyword": "地位",
+    "type": "pos",
+    "pos": 7278,
+    "neg": 4575
+  },
+  {
+    "keyword": "多幸褔",
+    "type": "pos",
+    "pos": 298,
+    "neg": 229
+  },
+  {
+    "keyword": "多福",
+    "type": "pos",
+    "pos": 1914,
+    "neg": 858
+  },
+  {
+    "keyword": "好心情",
+    "type": "pos",
+    "pos": 13596,
+    "neg": 10426
+  },
+  {
+    "keyword": "好感",
+    "type": "pos",
+    "pos": 1494,
+    "neg": 753
+  },
+  {
+    "keyword": "好學",
+    "type": "pos",
+    "pos": 102,
+    "neg": 49
+  },
+  {
+    "keyword": "如意",
+    "type": "pos",
+    "pos": 811,
+    "neg": 334
+  },
+  {
+    "keyword": "守信",
+    "type": "pos",
+    "pos": 35,
+    "neg": 34
+  },
+  {
+    "keyword": "安心",
+    "type": "pos",
+    "pos": 5751,
+    "neg": 2145
+  },
+  {
+    "keyword": "安可",
+    "type": "pos",
+    "pos": 128,
+    "neg": 48
+  },
+  {
+    "keyword": "安好",
+    "type": "pos",
+    "pos": 123,
+    "neg": 94
+  },
+  {
+    "keyword": "安安靜靜",
+    "type": "pos",
+    "pos": 56,
+    "neg": 33
+  },
+  {
+    "keyword": "安安穩穩",
+    "type": "pos",
+    "pos": 18,
+    "neg": 9
+  },
+  {
+    "keyword": "安身",
+    "type": "pos",
+    "pos": 49,
+    "neg": 30
+  },
+  {
+    "keyword": "安身立命",
+    "type": "pos",
+    "pos": 153,
+    "neg": 98
+  },
+  {
+    "keyword": "安和樂利",
+    "type": "pos",
+    "pos": 49,
+    "neg": 11
+  },
+  {
+    "keyword": "安命",
+    "type": "do_judge",
+    "pos": 0,
+    "neg": 0
+  },
+  {
+    "keyword": "安於",
+    "type": "pos",
+    "pos": 118,
+    "neg": 58
+  },
+  {
+    "keyword": "安泰",
+    "type": "pos",
+    "pos": 25,
+    "neg": 21
+  },
+  {
+    "keyword": "安眠",
+    "type": "neg",
+    "pos": 69,
+    "neg": 87
+  },
+  {
+    "keyword": "安康",
+    "type": "pos",
+    "pos": 141,
+    "neg": 48
+  },
+  {
+    "keyword": "安祥",
+    "type": "neg",
+    "pos": 14,
+    "neg": 19
+  },
+  {
+    "keyword": "安然",
+    "type": "neg",
+    "pos": 21,
+    "neg": 50
+  },
+  {
+    "keyword": "安睡",
+    "type": "do_judge",
+    "pos": 8,
+    "neg": 8
+  },
+  {
+    "keyword": "安樂",
+    "type": "pos",
+    "pos": 81,
+    "neg": 46
+  },
+  {
+    "keyword": "有說有笑",
+    "type": "pos",
+    "pos": 174,
+    "neg": 167
+  },
+  {
+    "keyword": "自由自在",
+    "type": "pos",
+    "pos": 202,
+    "neg": 135
+  },
+  {
+    "keyword": "自立自強",
+    "type": "pos",
+    "pos": 122,
+    "neg": 79
+  },
+  {
+    "keyword": "自如",
+    "type": "pos",
+    "pos": 144,
+    "neg": 81
+  },
+  {
+    "keyword": "自助",
+    "type": "pos",
+    "pos": 596,
+    "neg": 250
+  },
+  {
+    "keyword": "自告奮勇",
+    "type": "pos",
+    "pos": 149,
+    "neg": 109
+  },
+  {
+    "keyword": "自勉",
+    "type": "pos",
+    "pos": 44,
+    "neg": 28
+  },
+  {
+    "keyword": "你儂我儂",
+    "type": "pos",
+    "pos": 148,
+    "neg": 94
+  },
+  {
+    "keyword": "克服",
+    "type": "pos",
+    "pos": 3143,
+    "neg": 2187
+  },
+  {
+    "keyword": "含笑",
+    "type": "pos",
+    "pos": 54,
+    "neg": 30
+  },
+  {
+    "keyword": "含情脈脈",
+    "type": "neg",
+    "pos": 4,
+    "neg": 7
+  },
+  {
+    "keyword": "妙不可言",
+    "type": "pos",
+    "pos": 12,
+    "neg": 10
+  },
+  {
+    "keyword": "完好",
+    "type": "neg",
+    "pos": 90,
+    "neg": 99
+  },
+  {
+    "keyword": "完滿",
+    "type": "pos",
+    "pos": 14,
+    "neg": 2
+  },
+  {
+    "keyword": "希冀",
+    "type": "pos",
+    "pos": 238,
+    "neg": 73
+  },
+  {
+    "keyword": "快快活活",
+    "type": "do_judge",
+    "pos": 0,
+    "neg": 0
+  },
+  {
+    "keyword": "快快樂樂",
+    "type": "pos",
+    "pos": 66,
+    "neg": 28
+  },
+  {
+    "keyword": "抒發",
+    "type": "pos",
+    "pos": 690,
+    "neg": 623
+  },
+  {
+    "keyword": "抒解",
+    "type": "pos",
+    "pos": 24,
+    "neg": 5
+  },
+  {
+    "keyword": "抒懷",
+    "type": "neg",
+    "pos": 7,
+    "neg": 9
+  },
+  {
+    "keyword": "改頭換面",
+    "type": "pos",
+    "pos": 205,
+    "neg": 88
+  },
+  {
+    "keyword": "求新",
+    "type": "pos",
+    "pos": 50,
+    "neg": 20
+  },
+  {
+    "keyword": "狂愛",
+    "type": "pos",
+    "pos": 11,
+    "neg": 10
+  },
+  {
+    "keyword": "肝膽相照",
+    "type": "neg",
+    "pos": 3,
+    "neg": 6
+  },
+  {
+    "keyword": "良善",
+    "type": "pos",
+    "pos": 756,
+    "neg": 418
+  },
+  {
+    "keyword": "言笑晏晏",
+    "type": "do_judge",
+    "pos": 0,
+    "neg": 0
+  },
+  {
+    "keyword": "言歸於好",
+    "type": "pos",
+    "pos": 4,
+    "neg": 1
+  },
+  {
+    "keyword": "走好運",
+    "type": "do_judge",
+    "pos": 0,
+    "neg": 0
+  },
+  {
+    "keyword": "呵呵",
+    "type": "pos",
+    "pos": 31,
+    "neg": 20
+  },
+  {
+    "keyword": "知恥",
+    "type": "neg",
+    "pos": 22,
+    "neg": 31
+  },
+  {
+    "keyword": "長進",
+    "type": "neg",
+    "pos": 76,
+    "neg": 109
+  },
+  {
+    "keyword": "哈哈",
+    "type": "pos",
+    "pos": 890,
+    "neg": 780
+  },
+  {
+    "keyword": "很爽",
+    "type": "neg",
+    "pos": 1489,
+    "neg": 1515
+  },
+  {
+    "keyword": "施恩",
+    "type": "neg",
+    "pos": 12,
+    "neg": 16
+  },
+  {
+    "keyword": "柔情",
+    "type": "pos",
+    "pos": 260,
+    "neg": 116
+  },
+  {
+    "keyword": "柔順",
+    "type": "pos",
+    "pos": 96,
+    "neg": 69
+  },
+  {
+    "keyword": "洋房",
+    "type": "pos",
+    "pos": 48,
+    "neg": 23
+  },
+  {
+    "keyword": "活力",
+    "type": "pos",
+    "pos": 4677,
+    "neg": 1600
+  },
+  {
+    "keyword": "為快",
+    "type": "do_judge",
+    "pos": null,
+    "neg": null
+  },
+  {
+    "keyword": "為傲",
+    "type": "pos",
+    "pos": 242,
+    "neg": 81
+  },
+  {
+    "keyword": "美感",
+    "type": "pos",
+    "pos": 1366,
+    "neg": 401
+  },
+  {
+    "keyword": "美夢",
+    "type": "pos",
+    "pos": 95,
+    "neg": 84
+  },
+  {
+    "keyword": "香甜",
+    "type": "pos",
+    "pos": 643,
+    "neg": 146
+  },
+  {
+    "keyword": "原諒",
+    "type": "neg",
+    "pos": 1146,
+    "neg": 2575
+  },
+  {
+    "keyword": "振奮",
+    "type": "pos",
+    "pos": 834,
+    "neg": 498
+  },
+  {
+    "keyword": "真理",
+    "type": "pos",
+    "pos": 626,
+    "neg": 545
+  },
+  {
+    "keyword": "真愛",
+    "type": "pos",
+    "pos": 803,
+    "neg": 351
+  },
+  {
+    "keyword": "笑兮兮",
+    "type": "pos",
+    "pos": 8877,
+    "neg": 6549
+  },
+  {
+    "keyword": "笑死",
+    "type": "neg",
+    "pos": 307,
+    "neg": 340
+  },
+  {
+    "keyword": "笑死羅",
+    "type": "neg",
+    "pos": 307,
+    "neg": 340
+  },
+  {
+    "keyword": "笑勒",
+    "type": "do_judge",
+    "pos": 0,
+    "neg": 0
+  },
+  {
+    "keyword": "討好",
+    "type": "pos",
+    "pos": 1224,
+    "neg": 961
+  },
+  {
+    "keyword": "討喜",
+    "type": "pos",
+    "pos": 727,
+    "neg": 250
+  },
+  {
+    "keyword": "高高興興",
+    "type": "do_judge",
+    "pos": 7,
+    "neg": 7
+  },
+  {
+    "keyword": "高歌",
+    "type": "pos",
+    "pos": 450,
+    "neg": 198
+  },
+  {
+    "keyword": "偏袒",
+    "type": "neg",
+    "pos": 161,
+    "neg": 194
+  },
+  {
+    "keyword": "悠哉",
+    "type": "pos",
+    "pos": 51,
+    "neg": 28
+  },
+  {
+    "keyword": "情不自禁",
+    "type": "pos",
+    "pos": 26,
+    "neg": 19
+  },
+  {
+    "keyword": "情投意合",
+    "type": "pos",
+    "pos": 119,
+    "neg": 49
+  },
+  {
+    "keyword": "情深",
+    "type": "pos",
+    "pos": 6516,
+    "neg": 4387
+  },
+  {
+    "keyword": "望子成龍",
+    "type": "pos",
+    "pos": 49,
+    "neg": 33
+  },
+  {
+    "keyword": "淳樸",
+    "type": "pos",
+    "pos": 80,
+    "neg": 51
+  },
+  {
+    "keyword": "清高",
+    "type": "neg",
+    "pos": 26,
+    "neg": 39
+  },
+  {
+    "keyword": "爽快",
+    "type": "do_judge",
+    "pos": 142,
+    "neg": 142
+  },
+  {
+    "keyword": "率真",
+    "type": "pos",
+    "pos": 53,
+    "neg": 32
+  },
+  {
+    "keyword": "甜甜蜜蜜",
+    "type": "do_judge",
+    "pos": 6,
+    "neg": 6
+  },
+  {
+    "keyword": "甜滋滋",
+    "type": "pos",
+    "pos": 67,
+    "neg": 20
+  },
+  {
+    "keyword": "脫俗",
+    "type": "pos",
+    "pos": 134,
+    "neg": 59
+  },
+  {
+    "keyword": "喜出望外",
+    "type": "pos",
+    "pos": 280,
+    "neg": 96
+  },
+  {
+    "keyword": "喜感",
+    "type": "pos",
+    "pos": 163,
+    "neg": 114
+  },
+  {
+    "keyword": "報恩",
+    "type": "pos",
+    "pos": 92,
+    "neg": 51
+  },
+  {
+    "keyword": "報喜",
+    "type": "pos",
+    "pos": 297,
+    "neg": 165
+  },
+  {
+    "keyword": "富強",
+    "type": "pos",
+    "pos": 137,
+    "neg": 48
+  },
+  {
+    "keyword": "尊崇",
+    "type": "pos",
+    "pos": 201,
+    "neg": 67
+  },
+  {
+    "keyword": "悲憐",
+    "type": "neg",
+    "pos": 12,
+    "neg": 18
+  },
+  {
+    "keyword": "悲憫",
+    "type": "neg",
+    "pos": 68,
+    "neg": 92
+  },
+  {
+    "keyword": "揚揚自得",
+    "type": "pos",
+    "pos": 112,
+    "neg": 50
+  },
+  {
+    "keyword": "期盼",
+    "type": "pos",
+    "pos": 5781,
+    "neg": 2667
+  },
+  {
+    "keyword": "期望",
+    "type": "pos",
+    "pos": 6223,
+    "neg": 2773
+  },
+  {
+    "keyword": "期許",
+    "type": "pos",
+    "pos": 4461,
+    "neg": 1620
+  },
+  {
+    "keyword": "渴求",
+    "type": "pos",
+    "pos": 317,
+    "neg": 231
+  },
+  {
+    "keyword": "渴盼",
+    "type": "pos",
+    "pos": 11,
+    "neg": 5
+  },
+  {
+    "keyword": "渴慕",
+    "type": "pos",
+    "pos": 8,
+    "neg": 0
+  },
+  {
+    "keyword": "超好",
+    "type": "pos",
+    "pos": 4345,
+    "neg": 2446
+  },
+  {
+    "keyword": "順眼",
+    "type": "pos",
+    "pos": 215,
+    "neg": 152
+  },
+  {
+    "keyword": "黃金",
+    "type": "pos",
+    "pos": 3847,
+    "neg": 2300
+  },
+  {
+    "keyword": "廉潔",
+    "type": "pos",
+    "pos": 68,
+    "neg": 39
+  },
+  {
+    "keyword": "慈和",
+    "type": "pos",
+    "pos": 10620,
+    "neg": 6249
+  },
+  {
+    "keyword": "感同身受",
+    "type": "pos",
+    "pos": 529,
+    "neg": 459
+  },
+  {
+    "keyword": "愛人",
+    "type": "pos",
+    "pos": 600,
+    "neg": 356
+  },
+  {
+    "keyword": "愛人如己",
+    "type": "do_judge",
+    "pos": 0,
+    "neg": 0
+  },
+  {
+    "keyword": "愛上",
+    "type": "pos",
+    "pos": 3528,
+    "neg": 1238
+  },
+  {
+    "keyword": "愛憐",
+    "type": "pos",
+    "pos": 21,
+    "neg": 11
+  },
+  {
+    "keyword": "愛撫",
+    "type": "neg",
+    "pos": 39,
+    "neg": 66
+  },
+  {
+    "keyword": "敬佩",
+    "type": "pos",
+    "pos": 1373,
+    "neg": 583
+  },
+  {
+    "keyword": "敬愛",
+    "type": "pos",
+    "pos": 327,
+    "neg": 190
+  },
+  {
+    "keyword": "暖呼呼",
+    "type": "pos",
+    "pos": 110,
+    "neg": 24
+  },
+  {
+    "keyword": "暖烘烘",
+    "type": "pos",
+    "pos": 41,
+    "neg": 28
+  },
+  {
+    "keyword": "暖意",
+    "type": "pos",
+    "pos": 192,
+    "neg": 49
+  },
+  {
+    "keyword": "會心",
+    "type": "pos",
+    "pos": 34,
+    "neg": 23
+  },
+  {
+    "keyword": "會心一笑",
+    "type": "pos",
+    "pos": 237,
+    "neg": 109
+  },
+  {
+    "keyword": "溺愛",
+    "type": "pos",
+    "pos": 85,
+    "neg": 59
+  },
+  {
+    "keyword": "溫情",
+    "type": "pos",
+    "pos": 616,
+    "neg": 358
+  },
+  {
+    "keyword": "溫慰",
+    "type": "do_judge",
+    "pos": 0,
+    "neg": 0
+  },
+  {
+    "keyword": "溫藹",
+    "type": "do_judge",
+    "pos": 0,
+    "neg": 0
+  },
+  {
+    "keyword": "溫馨",
+    "type": "pos",
+    "pos": 3217,
+    "neg": 865
+  },
+  {
+    "keyword": "癡心",
+    "type": "pos",
+    "pos": 41,
+    "neg": 20
+  },
+  {
+    "keyword": "癡狂",
+    "type": "pos",
+    "pos": 13,
+    "neg": 10
+  },
+  {
+    "keyword": "癡情",
+    "type": "pos",
+    "pos": 165,
+    "neg": 62
+  },
+  {
+    "keyword": "癡癡",
+    "type": "pos",
+    "pos": 15,
+    "neg": 5
+  },
+  {
+    "keyword": "義不容辭",
+    "type": "pos",
+    "pos": 97,
+    "neg": 76
+  },
+  {
+    "keyword": "義無反顧",
+    "type": "pos",
+    "pos": 168,
+    "neg": 113
+  },
+  {
+    "keyword": "羨煞",
+    "type": "pos",
+    "pos": 574,
+    "neg": 159
+  },
+  {
+    "keyword": "群情激憤",
+    "type": "neg",
+    "pos": 79,
+    "neg": 220
+  },
+  {
+    "keyword": "群策群力",
+    "type": "pos",
+    "pos": 20,
+    "neg": 13
+  },
+  {
+    "keyword": "誇耀",
+    "type": "pos",
+    "pos": 126,
+    "neg": 106
+  },
+  {
+    "keyword": "誠心誠意",
+    "type": "pos",
+    "pos": 15,
+    "neg": 4
+  },
+  {
+    "keyword": "道謝",
+    "type": "pos",
+    "pos": 495,
+    "neg": 287
+  },
+  {
+    "keyword": "達觀",
+    "type": "pos",
+    "pos": 24,
+    "neg": 7
+  },
+  {
+    "keyword": "過關",
+    "type": "pos",
+    "pos": 1288,
+    "neg": 906
+  },
+  {
+    "keyword": "過癮",
+    "type": "pos",
+    "pos": 669,
+    "neg": 401
+  },
+  {
+    "keyword": "酬謝",
+    "type": "pos",
+    "pos": 46,
+    "neg": 20
+  },
+  {
+    "keyword": "奪冠",
+    "type": "pos",
+    "pos": 1875,
+    "neg": 1221
+  },
+  {
+    "keyword": "奪得",
+    "type": "pos",
+    "pos": 1610,
+    "neg": 751
+  },
+  {
+    "keyword": "奪魁",
+    "type": "pos",
+    "pos": 44,
+    "neg": 14
+  },
+  {
+    "keyword": "嫣然一笑",
+    "type": "pos",
+    "pos": 2,
+    "neg": 1
+  },
+  {
+    "keyword": "實現",
+    "type": "pos",
+    "pos": 7205,
+    "neg": 3403
+  },
+  {
+    "keyword": "實現出來",
+    "type": "pos",
+    "pos": 16,
+    "neg": 5
+  },
+  {
+    "keyword": "旗開得勝",
+    "type": "pos",
+    "pos": 79,
+    "neg": 66
+  },
+  {
+    "keyword": "暢快",
+    "type": "pos",
+    "pos": 237,
+    "neg": 60
+  },
+  {
+    "keyword": "榮幸",
+    "type": "pos",
+    "pos": 1047,
+    "neg": 402
+  },
+  {
+    "keyword": "漂漂亮亮",
+    "type": "pos",
+    "pos": 74,
+    "neg": 50
+  },
+  {
+    "keyword": "滿面春風",
+    "type": "pos",
+    "pos": 6,
+    "neg": 1
+  },
+  {
+    "keyword": "滿載而歸",
+    "type": "pos",
+    "pos": 143,
+    "neg": 17
+  },
+  {
+    "keyword": "漸入佳境",
+    "type": "pos",
+    "pos": 292,
+    "neg": 220
+  },
+  {
+    "keyword": "瘋狂",
+    "type": "pos",
+    "pos": 2146,
+    "neg": 1577
+  },
+  {
+    "keyword": "盡如人意",
+    "type": "neg",
+    "pos": 54,
+    "neg": 58
+  },
+  {
+    "keyword": "盡興",
+    "type": "pos",
+    "pos": 132,
+    "neg": 69
+  },
+  {
+    "keyword": "福祉",
+    "type": "pos",
+    "pos": 1483,
+    "neg": 850
+  },
+  {
+    "keyword": "窩心",
+    "type": "pos",
+    "pos": 425,
+    "neg": 176
+  },
+  {
+    "keyword": "精神百倍",
+    "type": "neg",
+    "pos": 1,
+    "neg": 3
+  },
+  {
+    "keyword": "與有榮焉",
+    "type": "pos",
+    "pos": 311,
+    "neg": 137
+  },
+  {
+    "keyword": "認同",
+    "type": "pos",
+    "pos": 13201,
+    "neg": 5419
+  },
+  {
+    "keyword": "輕輕鬆鬆",
+    "type": "pos",
+    "pos": 42,
+    "neg": 21
+  },
+  {
+    "keyword": "遙遙領先",
+    "type": "pos",
+    "pos": 204,
+    "neg": 194
+  },
+  {
+    "keyword": "領先",
+    "type": "pos",
+    "pos": 5575,
+    "neg": 3729
+  },
+  {
+    "keyword": "嘻嘻",
+    "type": "neg",
+    "pos": 2,
+    "neg": 4
+  },
+  {
+    "keyword": "嘻嘻哈哈",
+    "type": "pos",
+    "pos": 155,
+    "neg": 65
+  },
+  {
+    "keyword": "嘿嘿",
+    "type": "do_judge",
+    "pos": null,
+    "neg": null
+  },
+  {
+    "keyword": "寬厚",
+    "type": "neg",
+    "pos": 22,
+    "neg": 27
+  },
+  {
+    "keyword": "廢寢忘食",
+    "type": "pos",
+    "pos": 55,
+    "neg": 31
+  },
+  {
+    "keyword": "慶幸",
+    "type": "pos",
+    "pos": 1763,
+    "neg": 1076
+  },
+  {
+    "keyword": "慰問",
+    "type": "pos",
+    "pos": 933,
+    "neg": 556
+  },
+  {
+    "keyword": "憧憬",
+    "type": "pos",
+    "pos": 674,
+    "neg": 339
+  },
+  {
+    "keyword": "憐惜",
+    "type": "pos",
+    "pos": 58,
+    "neg": 37
+  },
+  {
+    "keyword": "樂子",
+    "type": "pos",
+    "pos": 121,
+    "neg": 56
+  },
+  {
+    "keyword": "樂不可支",
+    "type": "pos",
+    "pos": 87,
+    "neg": 60
+  },
+  {
+    "keyword": "樂天",
+    "type": "pos",
+    "pos": 698,
+    "neg": 324
+  },
+  {
+    "keyword": "樂乎",
+    "type": "pos",
+    "pos": 2770,
+    "neg": 868
+  },
+  {
+    "keyword": "樂此不疲",
+    "type": "pos",
+    "pos": 195,
+    "neg": 111
+  },
+  {
+    "keyword": "樂見",
+    "type": "pos",
+    "pos": 1783,
+    "neg": 1176
+  },
+  {
+    "keyword": "樂呵呵",
+    "type": "neg",
+    "pos": 8,
+    "neg": 20
+  },
+  {
+    "keyword": "樂於",
+    "type": "do_judge",
+    "pos": null,
+    "neg": null
+  },
+  {
+    "keyword": "毅力",
+    "type": "pos",
+    "pos": 845,
+    "neg": 492
+  },
+  {
+    "keyword": "熱力",
+    "type": "pos",
+    "pos": 394,
+    "neg": 89
+  },
+  {
+    "keyword": "熱中",
+    "type": "pos",
+    "pos": 567,
+    "neg": 252
+  },
+  {
+    "keyword": "熱切於",
+    "type": "do_judge",
+    "pos": 0,
+    "neg": 0
+  },
+  {
+    "keyword": "熱熱鬧鬧",
+    "type": "neg",
+    "pos": 18,
+    "neg": 20
+  },
+  {
+    "keyword": "熱鬧",
+    "type": "pos",
+    "pos": 3015,
+    "neg": 1039
+  },
+  {
+    "keyword": "熱戀",
+    "type": "pos",
+    "pos": 809,
+    "neg": 253
+  },
+  {
+    "keyword": "練成",
+    "type": "pos",
+    "pos": 165,
+    "neg": 125
+  },
+  {
+    "keyword": "蓬勃",
+    "type": "pos",
+    "pos": 426,
+    "neg": 173
+  },
+  {
+    "keyword": "衛冕",
+    "type": "pos",
+    "pos": 507,
+    "neg": 421
+  },
+  {
+    "keyword": "諒解",
+    "type": "neg",
+    "pos": 800,
+    "neg": 1464
+  },
+  {
+    "keyword": "談戀愛",
+    "type": "pos",
+    "pos": 1190,
+    "neg": 714
+  },
+  {
+    "keyword": "賞心悅目",
+    "type": "pos",
+    "pos": 236,
+    "neg": 66
+  },
+  {
+    "keyword": "賞識",
+    "type": "pos",
+    "pos": 183,
+    "neg": 79
+  },
+  {
+    "keyword": "賞識到",
+    "type": "pos",
+    "pos": 183,
+    "neg": 79
+  },
+  {
+    "keyword": "賢淑",
+    "type": "neg",
+    "pos": 13,
+    "neg": 14
+  },
+  {
+    "keyword": "賢慧",
+    "type": "pos",
+    "pos": 36,
+    "neg": 26
+  },
+  {
+    "keyword": "適性",
+    "type": "pos",
+    "pos": 143,
+    "neg": 42
+  },
+  {
+    "keyword": "適得",
+    "type": "pos",
+    "pos": 7358,
+    "neg": 5838
+  },
+  {
+    "keyword": "適得其所",
+    "type": "pos",
+    "pos": 13,
+    "neg": 12
+  },
+  {
+    "keyword": "養活",
+    "type": "pos",
+    "pos": 641,
+    "neg": 413
+  },
+  {
+    "keyword": "器重",
+    "type": "pos",
+    "pos": 107,
+    "neg": 42
+  },
+  {
+    "keyword": "奮力",
+    "type": "pos",
+    "pos": 26,
+    "neg": 17
+  },
+  {
+    "keyword": "奮勇",
+    "type": "pos",
+    "pos": 18,
+    "neg": 10
+  },
+  {
+    "keyword": "奮起",
+    "type": "pos",
+    "pos": 113,
+    "neg": 82
+  },
+  {
+    "keyword": "學以致用",
+    "type": "pos",
+    "pos": 66,
+    "neg": 33
+  },
+  {
+    "keyword": "學好",
+    "type": "pos",
+    "pos": 198,
+    "neg": 160
+  },
+  {
+    "keyword": "學成",
+    "type": "pos",
+    "pos": 54,
+    "neg": 37
+  },
+  {
+    "keyword": "學成歸國",
+    "type": "pos",
+    "pos": 40,
+    "neg": 20
+  },
+  {
+    "keyword": "學有專精",
+    "type": "pos",
+    "pos": 40,
+    "neg": 22
+  },
+  {
+    "keyword": "學習好",
+    "type": "pos",
+    "pos": 17173,
+    "neg": 7667
+  },
+  {
+    "keyword": "學進",
+    "type": "do_judge",
+    "pos": 0,
+    "neg": 0
+  },
+  {
+    "keyword": "學進去",
+    "type": "do_judge",
+    "pos": 0,
+    "neg": 0
+  },
+  {
+    "keyword": "學會",
+    "type": "pos",
+    "pos": 3592,
+    "neg": 2117
+  },
+  {
+    "keyword": "戰無不勝",
+    "type": "neg",
+    "pos": 34,
+    "neg": 40
+  },
+  {
+    "keyword": "擁護",
+    "type": "pos",
+    "pos": 702,
+    "neg": 402
+  },
+  {
+    "keyword": "擔待",
+    "type": "pos",
+    "pos": 42,
+    "neg": 32
+  },
+  {
+    "keyword": "激昂",
+    "type": "pos",
+    "pos": 351,
+    "neg": 253
+  },
+  {
+    "keyword": "激賞",
+    "type": "pos",
+    "pos": 164,
+    "neg": 121
+  },
+  {
+    "keyword": "激盪",
+    "type": "pos",
+    "pos": 506,
+    "neg": 216
+  },
+  {
+    "keyword": "興沖沖",
+    "type": "pos",
+    "pos": 22,
+    "neg": 12
+  },
+  {
+    "keyword": "興致勃勃",
+    "type": "pos",
+    "pos": 39,
+    "neg": 29
+  },
+  {
+    "keyword": "親和",
+    "type": "pos",
+    "pos": 105,
+    "neg": 47
+  },
+  {
+    "keyword": "親善",
+    "type": "pos",
+    "pos": 86,
+    "neg": 24
+  },
+  {
+    "keyword": "懇摯",
+    "type": "do_judge",
+    "pos": 0,
+    "neg": 0
+  },
+  {
+    "keyword": "臉紅",
+    "type": "pos",
+    "pos": 177,
+    "neg": 126
+  },
+  {
+    "keyword": "謝謝",
+    "type": "pos",
+    "pos": 97221,
+    "neg": 58561
+  },
+  {
+    "keyword": "豁然開朗",
+    "type": "pos",
+    "pos": 234,
+    "neg": 140
+  },
+  {
+    "keyword": "鍾情",
+    "type": "pos",
+    "pos": 345,
+    "neg": 90
+  },
+  {
+    "keyword": "豐腴",
+    "type": "pos",
+    "pos": 91,
+    "neg": 56
+  },
+  {
+    "keyword": "關愛",
+    "type": "pos",
+    "pos": 1178,
+    "neg": 449
+  },
+  {
+    "keyword": "關懷",
+    "type": "pos",
+    "pos": 11540,
+    "neg": 2659
+  },
+  {
+    "keyword": "韻味",
+    "type": "pos",
+    "pos": 351,
+    "neg": 113
+  },
+  {
+    "keyword": "犧牲",
+    "type": "pos",
+    "pos": 3779,
+    "neg": 2963
+  },
+  {
+    "keyword": "歡叫",
+    "type": "do_judge",
+    "pos": 0,
+    "neg": 0
+  },
+  {
+    "keyword": "歡愉",
+    "type": "pos",
+    "pos": 186,
+    "neg": 94
+  },
+  {
+    "keyword": "戀愛",
+    "type": "pos",
+    "pos": 4429,
+    "neg": 1683
+  },
+  {
+    "keyword": "戀戀",
+    "type": "pos",
+    "pos": 82,
+    "neg": 17
+  },
+  {
+    "keyword": "驚喜",
+    "type": "pos",
+    "pos": 5099,
+    "neg": 1581
+  },
+  {
+    "keyword": "煇煌",
+    "type": "do_judge",
+    "pos": 0,
+    "neg": 0
+  }
+]
