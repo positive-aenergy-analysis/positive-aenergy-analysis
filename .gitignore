@@ -2,7 +2,10 @@ data_set/
 data_set_wordCount/
 __pycache__/vocabularyProcessing.cpython-38.pyc
 wordCount.txt
-test.py
+test*.py
 data_set_score/
 happy/
 unhappy/
+data_set2/
+data_set2_score/
+data_set2_wordCount/

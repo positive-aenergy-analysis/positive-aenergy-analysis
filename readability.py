@@ -56,7 +56,11 @@ def check(filepath):
         score *= 2
 
     nameList.append(filepath)
-    scoreList.append(score / sum(timesList))
+
+    if sum(timesList) == 0:
+        scoreList.append(0)
+    else:    
+        scoreList.append(score / sum(timesList))
 
     return remainderWords, valueList
 
@@ -76,17 +80,17 @@ def writeExcel(valueList, keyList, fileName):
 
 if __name__ == "__main__":
 
-    json_data = open('data_set/correspondence_table.json', encoding='utf8').read()
+    json_data = open('data_set2/correspondence_table.json', encoding='utf8').read()
     data = json.loads(json_data)
 
     for i in data:
         for k,v in i.items():
             if k == 'file_name':
-                filepath = 'data_set_wordCount/wordCount_' + str(v) + '.xlsx'
+                filepath = 'data_set2_wordCount/wordCount_' + str(v) + '.xlsx'
                 keyList, valueList = check(filepath)
 
-                writeExcel(valueList,keyList,'score_' + str(v) + '.xlsx')
+                writeExcel(valueList,keyList,'data_set2_score/score_' + str(v) + '.xlsx')
 
-    writeExcel(scoreList,nameList,'totalScore.xlsx')
+    writeExcel(scoreList,nameList,'data_set2_score/totalScore.xlsx')
 
 
