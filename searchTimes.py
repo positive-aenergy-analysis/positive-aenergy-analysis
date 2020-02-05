@@ -64,4 +64,4 @@ def writeExcel(dataList, fileName):
         
     wb.save(fileName)
 
-writeExcel(searchList, 'mental_disorder.xlsx')
+writeExcel(searchList, './vocabulary/mental_disorder.xlsx')

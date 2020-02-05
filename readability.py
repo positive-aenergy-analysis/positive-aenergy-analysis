@@ -14,6 +14,7 @@ from openpyxl.writer.excel import ExcelWriter
 
 nameList = []
 scoreList = []
+keywordList = []
 
 def readMental_disorder():
     
@@ -25,6 +26,7 @@ def readMental_disorder():
     return disorderWords, disorderScores
 
 def check(filepath):
+    # data 為分詞完的文章, datawords 是column(A), datatimes 是column(B)
     data = xlrd.open_workbook(filepath)
     table = data.sheets()[0]
     datawords = table.col_values(0)
@@ -55,42 +57,50 @@ def check(filepath):
     elif len(remainderWords) > 3 and len(remainderWords) <= 6:
         score *= 2
 
-    nameList.append(filepath)
-
     if sum(timesList) == 0:
         scoreList.append(0)
     else:    
         scoreList.append(score / sum(timesList))
 
-    return remainderWords, valueList
+    keywordList.append(sum(timesList))
 
-def writeExcel(valueList, keyList, fileName):
+    return remainderWords, valueList, timesList
+
+def writeExcel(fileName, keyList, valueList, timesList, col_title1, col_title2, col_title3):
     
     wb = Workbook()
     ws = wb.active
+
+    ws['A1'] = col_title1
+    ws['B1'] = col_title2
+    ws['C1'] = col_title3
     
     for i in range(len(keyList)):
-        text1 = 'A' + str(i+1)
-        text2 = 'B' + str(i+1)
+        col1 = 'A' + str(i+2)
+        col2 = 'B' + str(i+2)
+        col3 = 'C' + str(i+2)
 
-        ws[text1] = keyList[i]
-        ws[text2] = valueList[i]
+        ws[col1] = keyList[i]
+        ws[col2] = valueList[i]
+        ws[col3] = timesList[i]
         
     wb.save(fileName)
 
 if __name__ == "__main__":
 
-    json_data = open('data_set2/correspondence_table.json', encoding='utf8').read()
+    json_data = open('data_set/correspondence_table.json', encoding='utf8').read()
     data = json.loads(json_data)
 
     for i in data:
-        for k,v in i.items():
-            if k == 'file_name':
-                filepath = 'data_set2_wordCount/wordCount_' + str(v) + '.xlsx'
-                keyList, valueList = check(filepath)
+        fileName = i['file_name']
+        filePath = './data_set_wordCount/wordCount_' + fileName + '.xlsx'
+        excelPath = './data_set_score/score_' + fileName + '.xlsx'
 
-                writeExcel(valueList,keyList,'data_set2_score/score_' + str(v) + '.xlsx')
+        nameList.append(fileName)
+        keyList, valueList, timesList = check(filePath)
+        writeExcel(excelPath, keyList, valueList, timesList, '精神疾病相關詞彙', '分數', '出現次數')
 
-    writeExcel(scoreList,nameList,'data_set2_score/totalScore.xlsx')
+    writeExcel('./data_set_score/totalScore.xlsx', nameList, scoreList, keywordList, '檔名', '可讀性分數', '精神疾病相關詞彙總出現次數')
+    
 
 

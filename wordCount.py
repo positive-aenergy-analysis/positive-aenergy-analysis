@@ -107,15 +107,15 @@ if __name__ == "__main__":
 
     json_data = open('data_set/correspondence_table.json', encoding='utf8').read()
     data = json.loads(json_data)
-
+    
     addNewWord()
 
     for i in data:
-        for k,v in i.items():
-            if k == 'file_name':
-                fileName = 'data_set/' + str(v) + '.txt'
-                wordList = cutWord(fileName)
-                keyList,orderList = wordCount(wordList)
+        fileName = i['file_name']
+        filePath = './data_set/' + fileName + '.txt'
+        excelName = './data_set_wordCount/wordCount_' + fileName + '.xlsx'
 
-                excelName = 'wordCount_' + str(v) + '.xlsx'
-                writeExcel(orderList,keyList,excelName) 
+        wordList = cutWord(filePath)
+        keyList,orderList = wordCount(wordList)
+
+        writeExcel(orderList,keyList,excelName) 
