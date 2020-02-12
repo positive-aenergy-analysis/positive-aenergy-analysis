@@ -49,10 +49,11 @@ def cutWord(fileName):
     tags = []
     remainderWords = []
     stopWords = readStopWord()
+    totalWords = 0
 
     for line in open(fileName, encoding = 'utf-8'):
         item = line.strip('\n\r').split('，')
-
+        totalWords += len(line)
         for segment in item:
             # jieba 分詞
             tags = jieba.analyse.extract_tags(segment,100000)
@@ -62,7 +63,7 @@ def cutWord(fileName):
             for t in remainderWords:
                 wordList.append(t)
 
-    return wordList
+    return wordList, totalWords
 
 def wordCount(wordList):
 
@@ -89,7 +90,7 @@ def wordCount(wordList):
 
     return keyList,orderList
 
-def writeExcel(orderList, keyList, fileName):
+def writeExcel(fileName,keyList, valueList, totalWords):
     
     wb = Workbook()
     ws = wb.active
@@ -100,6 +101,8 @@ def writeExcel(orderList, keyList, fileName):
 
         ws[text1] = keyList[i]
         ws[text2] = orderList[i]
+    
+    ws['C1'] = totalWords
         
     wb.save(fileName)
 
@@ -115,7 +118,7 @@ if __name__ == "__main__":
         filePath = './data_set/' + fileName + '.txt'
         excelName = './data_set_wordCount/wordCount_' + fileName + '.xlsx'
 
-        wordList = cutWord(filePath)
+        wordList, totalWords = cutWord(filePath)
         keyList,orderList = wordCount(wordList)
 
-        writeExcel(orderList,keyList,excelName) 
+        writeExcel(excelName, keyList, orderList, totalWords) 
